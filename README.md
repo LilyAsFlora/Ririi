@@ -6,7 +6,7 @@ Rirī is a personal [artistic language](https://en.wikipedia.org/wiki/Artistic_l
 
 ### Consonants
 
-Aside from the voiced alveolar tap (/ɾ/), all of Rirī's consonants are present in English. This wasn't always the case. Originally, Rirī included retroflex affricates /ʈʂ/ and /ɖʐ/ (alongside retroflex fricative /ʂ/) — I'm familiar with them as a Polish speaker — to add variety from English. I removed them later due to their unaesthetic sounds.
+Aside from the voiced alveolar tap (/ɾ/), all of Rirī's consonants are present in English. This wasn't always the case. As a Polish speaker, Rirī originally included retroflex affricates /ʈʂ/ and /ɖʐ/ (alongside retroflex fricative /ʂ/) to add variety from English. I removed them later due to their unaesthetic sounds.
 |                     | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Epiglottal | Glottal |
 |:-------------------:|:--------:|:-----------:|:------:|:--------:|:------------:|:---------:|:-------:|:-----:|:------:|:----------:|:-------:|
 |       Plosive       |   p, b   |             |        |   t, d   |              |           |         |  k, g |        |            |         |
