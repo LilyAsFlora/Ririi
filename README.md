@@ -82,7 +82,9 @@ _Sa rīum shoseni._ — I read poems (out loud).
 
 ### Tense
 
-Rirī includes four basic tenses: past, present, future, and conditional. These are expressed with affixation and auxiliary verbs.
+Rirī includes four basic tenses: past, present, future, and conditional. These are expressed with affixation and auxiliary verbs. A plural suffix may be applied to indicate that the action was repeated several times or was in place for some time.
+
+_Ema nenu kronumi dwukro._ — She must have waited for a while.
 
 |                              |       simple: unmarked       |        continuous: prefix o-        |          perfect: suffix -e          |   perfect continuous: prefix o-, suffix -e  |
 |:----------------------------:|:----------------------------:|:-----------------------------------:|:------------------------------------:|:-------------------------------------------:|
