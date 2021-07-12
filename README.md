@@ -18,3 +18,9 @@ Aside from the voiced alveolar tap (/ɾ/), all of Rirī's consonants are present
 |     Approximant     |          |             |        |          |              |           |    j    |       |        |            |         |
 | Lateral approximant |          |             |        |          |              |           |         |       |        |            |         |
 |      Affricate      |          |             |        |          |     t̠ʃ, d̠ʒ   |           |         |       |        |            |         |
+
+### Vowels
+
+## Phonotactics
+
+## Grammar
