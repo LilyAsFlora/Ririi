@@ -60,13 +60,11 @@ Rirī lacks lexical stress. However, in poetry or song, speakers may wish to app
 
 ### Word Order
 
-Generally, Rirī uses a default word order of SVO (subject-verb-object). This may be changed for poetic effect. Possessors and adjectives may come before or after the noun they modify, whereas adpositions usually precede. 
+Generally, Rirī uses a default word order of SVO (subject-verb-object). This may be changed for poetic effect. Possessors and adjectives may come before or after the noun they modify, whereas adpositions and auxiliary verbs usually precede. 
 
-_Ema vidum mam wariua._
-She saw the small sign.
+_Ema vidum mam wariua._ — She saw the small sign.
 
-_Waruia mam vidum ema._
-_lit._ The sign small saw she. (same meaning as above)
+_Waruia mam vidum ema._ — _lit._ The sign small saw she. (same meaning as above)
 
 ## Grammar
 
@@ -78,11 +76,20 @@ Singular nouns are unmarked. Plurals are marked with suffixes -i or -ī, dependi
 - If the noun ends with a vowel, the vowel is replaced with the suffix -i
 - If the noun ends with -i, it is replaced with the suffix -ī
 
-_Sa rīum shosen._
-I read (a) poem (out loud).
+_Sa rīum shosen._ — I read (a) poem (out loud).
 
-_Sa rīum shoseni._
-I read poems (out loud).
+_Sa rīum shoseni._ — I read poems (out loud).
+
+### Tense
+
+Rirī includes four basic tenses: past, present, future, and conditional. These are expressed with affixation and auxiliary verbs.
+
+|                              |       simple: unmarked       |        continuous: prefix o-        |          perfect: suffix -e          |   perfect continuous: prefix o-, suffix -e  |
+|:----------------------------:|:----------------------------:|:-----------------------------------:|:------------------------------------:|:-------------------------------------------:|
+|        past: suffix -m       |    _sa kronum_ — I waited    |     _sa okronum_ — I was waiting    |      _sa kronume_ — I had waited     |      _sa okronume_ — I had been waiting     |
+|       present: unmarked      |      _sa kronu_ — I wait     |     _sa okronu_ — I have waited     |      _sa kronue_ — I have waited     |      _sa okronue_ — I have been waiting     |
+|      future: suffix -sh      |  _sa kronush_ — I will wait  |  _sa okronushe_ — I will be waiting |  _sa kronushe_ — I will have waited  |  _sa okronushe_ — I will have been waiting  |
+| conditional: + chū, nenu, etc| _sa chū kronu_ — I would wait| _sa chū okronu_ — I would be waiting| _sa chū kronue_ — I would have waited| _sa chū okronue_ — I would have been waiting |
 
 ## Writing System
 
