@@ -18,7 +18,7 @@ Aside from the voiced alveolar tap (/ɾ/), all of Rirī's consonants are present
 |     Tap or flap     |          |             |        |     ɾ    |              |           |         |       |        |            |         |
 |      Fricative      |          |      v      |        |   s, z   |       ʃ      |           |         |       |        |            |    h    |
 |  Lateral fricative  |          |             |        |          |              |           |         |       |        |            |         |
-|     Approximant     |          |             |        |          |              |           |         |       |        |            |         |
+|     Approximant     |          |             |        |          |              |           |         |   w   |        |            |         |
 | Lateral approximant |          |             |        |          |              |           |         |       |        |            |         |
 |      Affricate      |          |             |        |          |     t̠ʃ, d̠ʒ   |           |         |       |        |            |         |
 
@@ -40,12 +40,17 @@ Rirī features the typical five-vowel system.
 
 ### Syllable Shape
 
-Rirī permits both open and closed syllables.
+Rirī permits both open and closed syllables, using a pattern of **(C)(C)V(C)**.
 
 General constraints:
 
-- The maximum number of codas in any given syllable is 1.
-- Codas may only feature nasals and unvoiced plosives & affricates.
+- All syllables have a nucleus
+- Maximum 1 coda
+- Only nasals and unvoiced plosives & affricates in codas
+- Maximum of 2 consonants in onset
+- Only liquids in secondary onset consonants
+- No consonantal clusters joining liquids and fricatives
+- The first consonant in a complex onset must be an obstruent
 
 ### Stress
 
