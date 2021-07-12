@@ -56,6 +56,18 @@ General constraints:
 
 Rirī lacks lexical stress. However, in poetry or song, speakers may wish to apply patterns of stressed and unstressed syllables to induce the effect of a rhythmic meter.
 
+## Syntax
+
+### Word Order
+
+Generally, Rirī uses the SVO (Subject-Object-Verb) word order. This may be changed for poetic effect.
+
+_Ema vidum wariua._
+She saw the demonstration.
+
+_Wariau vidum ema._
+The demonstration saw she.
+
 ## Grammar
 
 ## Writing System
