@@ -18,13 +18,13 @@ Aside from the voiced alveolar tap (/ɾ/), all of Rirī's consonants are present
 |     Tap or flap     |          |             |        |     ɾ    |              |           |         |       |        |            |         |
 |      Fricative      |          |      v      |        |   s, z   |       ʃ      |           |         |       |        |            |    h    |
 |  Lateral fricative  |          |             |        |          |              |           |         |       |        |            |         |
-|     Approximant     |          |             |        |          |              |           |    j    |       |        |            |         |
+|     Approximant     |          |             |        |          |              |           |         |       |        |            |         |
 | Lateral approximant |          |             |        |          |              |           |         |       |        |            |         |
 |      Affricate      |          |             |        |          |     t̠ʃ, d̠ʒ   |           |         |       |        |            |         |
 
 ### Vowels
 
-Rirī features the classic five-vowel system.
+Rirī features the typical five-vowel system.
 
 |            | Front | Near-front | Central | Near-back | Back  |
 |------------|-------|------------|---------|-----------|-------|
@@ -37,6 +37,19 @@ Rirī features the classic five-vowel system.
 | Open       |       |            | a, a:   |           |       |
 
 ## Phonotactics
+
+### Syllable Shape
+
+Rirī permits both open and closed syllables.
+
+General constraints:
+
+- The maximum number of codas in any given syllable is 1.
+- Codas may only feature nasals and unvoiced plosives & affricates.
+
+### Stress
+
+Rirī has no fixed lexical stress. However, in poetry or song, speakers may wish to apply stress to induce the effect of a rhythmic meter.
 
 ## Grammar
 
