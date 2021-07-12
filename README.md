@@ -49,7 +49,7 @@ General constraints:
 
 ### Stress
 
-Rirī has no fixed lexical stress. However, in poetry or song, speakers may wish to apply stress to induce the effect of a rhythmic meter.
+Rirī lacks lexical stress. However, in poetry or song, speakers may wish to apply patterns of stressed and unstressed syllables to induce the effect of a rhythmic meter.
 
 ## Grammar
 
