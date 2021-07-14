@@ -97,8 +97,6 @@ _Ema nenu kronue dwukro._ — She must have waited for a while.
 
 Rirī features three marked cases: possessive, instrumental, and accusative. They are indicated with suffixes. For vowel-final nouns, endings are replaced with the given inflection's beginning vowel (if one exists). If both are the same, a long vowel is used.
 
-The following table shows inflection for consonant-final nouns:
-
 |              | Singular | Plural    | Example                                                                     |
 |--------------|----------|-----------|-----------------------------------------------------------------------------|
 | Possessive   | n. + cha | n. + -chi | _Em gapum ashirasa jagapane gaprām._ — He tidied the store's messy restroom.|
