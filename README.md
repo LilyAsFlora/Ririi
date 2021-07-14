@@ -46,11 +46,11 @@ General constraints:
 
 - All syllables have a nucleus
 - Maximum 1 coda
-- Only nasals and unvoiced plosives & affricates in codas
+- Only nasals and unvoiced consonants in codas (excluding /h/)
 - Maximum of 2 consonants in onset
 - Only liquids in secondary onset consonants
 - No consonantal clusters joining liquids and fricatives
-- The first consonant in a complex onset must be an obstruent
+- Complex onsets cannot cluster obstruents & sonorants together
 
 ### Stress
 
@@ -92,6 +92,18 @@ _Ema nenu kronue dwukro._ — She must have waited for a while.
 |       present: unmarked      |      _sa kronu_ — I wait     |     _sa okronu_ — I have waited     |      _sa kronue_ — I have waited     |      _sa okronue_ — I have been waiting     |
 |      future: suffix -sh      |  _sa kronush_ — I will wait  |  _sa okronushe_ — I will be waiting |  _sa kronushe_ — I will have waited  |  _sa okronushe_ — I will have been waiting  |
 | conditional: + chū, nenu, etc| _sa chū kronu_ — I would wait| _sa chū okronu_ — I would be waiting| _sa chū kronue_ — I would have waited| _sa chū okronue_ — I would have been waiting |
+
+### Noun Cases
+
+Rirī features two marked cases: possessive and instrumental, indicated with suffixes. For vowel-final nouns, endings are replaced with the given inflection's beginning vowel (if one exists).
+
+The following table shows inflection for consonant-final nouns:
+
+|              | Singular | Plural   | Example                                                                    |
+|--------------|----------|----------|----------------------------------------------------------------------------|
+| Possessive   | n. + cha  | n. + -chi | _Em gapum ashracha jagapane gapra._ — He tidied the store's messy restroom. |
+| Instrumental | n. + -ēm | n. + ēmi | _Sa oribum agrukēm._ — I was writing on impulse.                           |
+
 
 ## Writing System
 
