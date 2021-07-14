@@ -62,9 +62,9 @@ Rirī lacks lexical stress. However, in poetry or song, speakers may wish to app
 
 Generally, Rirī uses a default word order of SVO (subject-verb-object). This may be changed for poetic effect. Possessors and adjectives may come before or after the noun they modify, whereas adpositions and auxiliary verbs usually precede. 
 
-_Ema vidum mam wariua._ — She saw the small sign.
+_Ema vidum mam wariuām._ — She saw the small sign.
 
-_Waruia mam vidum ema._ — _lit._ The sign small saw she. (same meaning as above)
+_Waruiām mam vidum ema._ — _lit._ The sign small saw she. (same meaning as above)
 
 ## Grammar
 
@@ -76,9 +76,9 @@ Singular nouns are unmarked. Plurals are marked with suffixes -i or -ī, dependi
 - If the noun ends with a vowel, the vowel is replaced with the suffix -i
 - If the noun ends with -i, it is replaced with the suffix -ī
 
-_Sa rīum shosen._ — I read (a) poem (out loud).
+_Sa rīum shosenam._ — I read (a) poem (out loud).
 
-_Sa rīum shoseni._ — I read poems (out loud).
+_Sa rīum shosenami._ — I read poems (out loud).
 
 ### Tense
 
