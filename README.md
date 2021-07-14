@@ -101,8 +101,8 @@ The following table shows inflection for consonant-final nouns:
 
 |              | Singular | Plural    | Example                                                                     |
 |--------------|----------|-----------|-----------------------------------------------------------------------------|
-| Possessive   | n. + cha | n. + -chi | _Em gapum ashirasa jagapane gaprām._ — He tidied the store's messy restroom. |
-| Instrumental | n. + -em | n. + -emi | _Ti oribum agrukem?_ — Were you writing on impulse?.                        |
+| Possessive   | n. + cha | n. + -chi | _Em gapum ashirasa jagapane gaprām._ — He tidied the store's messy restroom.|
+| Instrumental | n. + -em | n. + -emi | _Ti oribum agrukem?_ — Were you writing on impulse?                         |
 | Accusative   | n. + am  | n. + -ami | _Ema tes mishu enane bariami!_ — She also loves British accents!            |
 
 
