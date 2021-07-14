@@ -93,7 +93,7 @@ _Ema nenu kronue dwukro._ — She must have waited for a while.
 |      future: suffix -sh      |  _sa kronush_ — I will wait  |  _sa okronushe_ — I will be waiting |  _sa kronushe_ — I will have waited  |  _sa okronushe_ — I will have been waiting  |
 | conditional: + chū, nenu, etc| _sa chū kronu_ — I would wait| _sa chū okronu_ — I would be waiting| _sa chū kronue_ — I would have waited| _sa chū okronue_ — I would have been waiting |
 
-### Noun Cases
+### Noun Case
 
 Rirī features two marked cases: possessive and instrumental. They are indicated with suffixes. For vowel-final nouns, endings are replaced with the given inflection's beginning vowel (if one exists).
 
