@@ -95,7 +95,7 @@ _Ema nenu kronue dwukro._ — She must have waited for a while.
 
 ### Noun Cases
 
-Rirī features two marked cases: possessive and instrumental, indicated with suffixes. For vowel-final nouns, endings are replaced with the given inflection's beginning vowel (if one exists).
+Rirī features two marked cases: possessive and instrumental. They are indicated with suffixes. For vowel-final nouns, endings are replaced with the given inflection's beginning vowel (if one exists).
 
 The following table shows inflection for consonant-final nouns:
 
