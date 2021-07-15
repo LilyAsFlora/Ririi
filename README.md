@@ -99,10 +99,28 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 
 |              | Singular | Plural    | Example                                                                     |
 |--------------|----------|-----------|-----------------------------------------------------------------------------|
-| Possessive   | n. + cha | n. + -chi | _Em gapum ashirasa jagapane gaprām._ — He tidied the store's messy restroom.|
-| Instrumental | n. + -em | n. + -emi | _Ti oribum agrukem?_ — Were you writing on impulse?                         |
-| Accusative   | n. + am  | n. + -ami | _Ema tes mishu enane barami!_ — She also loves British accents!            |
+| Possessive   | n. + cha | n. + -chi | _Em gapum ashira**cha** jagapane gaprām._ — He tidied the store's messy restroom.|
+| Instrumental | n. + -em | n. + -emi | _Ti oribum agruk**em**?_ — Were you writing on impulse?                         |
+| Accusative   | n. + am  | n. + -ami | _Ema tes mishu enane bar**ami**!_ — She also loves British accents!            |
 
+### Personal verb endings
+
+Personal endings can be used to inflect verbs by person, allowing omission of subject pronouns. This is one of my favourite grammatical features of any language.
+
+|                  | Suffix | Example                       |
+|------------------|--------|-------------------------------|
+| I                | -      | _Puchu_ — I think             |
+| you (s.)         | -esh   | _Puchuesh_ — You think        |
+| you (pl.)        | -ach  | _Puchuachi_ — You think       |
+| he/she/they (s.) | -ja    | _Puchuja_ - He/she/they think |
+| they (pl.)       | -inji  | _Puchuinji_ — They think      |
+| it               | -ove   | _Puchuove_ — It thinks        |
+| we               | -imi   | _Puchuimi_ — We think         |
+
+
+_Pashu**ja** enane; chū mishue**ja** eto rī._ — She's English; she would have loved these flowers.
+
+_Okronum**imi** e ti._ — We were waiting for you.
 
 ## Writing System
 
