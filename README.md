@@ -83,7 +83,7 @@ _Sa rīumge shosenami._ — I read poems (out loud).
 
 Rirī includes four basic tenses: past, present, future, and conditional. These are expressed with affixation and auxiliary verbs. 
 
-_Ema nenuja kronue dwukram._ — She must have waited for a while.
+_Ema nenja kronue dwukram._ — She must have waited for a while.
 
 |                              |       simple: unmarked       |        continuous: prefix o-        |          perfect: suffix -e          |   perfect continuous: prefix o-, suffix -e  |
 |:----------------------------:|:----------------------------:|:-----------------------------------:|:------------------------------------:|:-------------------------------------------:|
@@ -100,7 +100,7 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 |--------------|----------|-----------|-----------------------------------------------------------------------------|
 | Possessive   | n. + -cha | n. + -chi | _Em gapumja ashira**cha** jagapane gaprām._ — He tidied the store's messy restroom.|
 | Instrumental | n. + -em | n. + -emi | _Ti oribumesh agruk**em**?_ — Were you writing on impulse?                         |
-| Accusative   | n. + -am  | n. + -ami | _Ema tes mishuja enane bar**ami**!_ — She also loves British accents!            |
+| Accusative   | n. + -am  | n. + -ami | _Ema tes mishja enane bar**ami**!_ — She also loves British accents!            |
 
 ### Personal verb endings
 
@@ -108,16 +108,16 @@ Personal endings are used to inflect verbs by person, allowing omission of subje
 
 |                  | Suffix | Example                       |
 |------------------|--------|-------------------------------|
-| I                | -ge      | _Puchuge_ — I think             |
-| you (s.)         | -esh   | _Puchuesh_ — You think        |
-| you (pl.)        | -āch  | _Puchuachi_ — You think       |
-| he/she/they (s.) | -ja    | _Puchuja_ - He/she/they think |
+| I                | -ge      | _Puchge_ — I think             |
+| you (s.)         | -esh   | _Puchesh_ — You think        |
+| you (pl.)        | -āch  | _Puchachi_ — You think       |
+| he/she/they (s.) | -ja    | _Puchja_ - He/she/they think |
 | they (pl.)       | -ji  | _Puchuji_ — They think      |
-| it               | -o   | _Puchuo_ — It thinks        |
-| we               | -īm   | _Puchuim_ — We think         |
+| it               | -o   | _Pucho_ — It thinks        |
+| we               | -īm   | _Puchim_ — We think         |
 
 
-_Pashu**ja** enane; chū mishue**ja** eto riami._ — She's English; she would have loved these flowers.
+_Pash**ja** enane; chū mishue**ja** eto riami._ — She's English; she would have loved these flowers.
 
 _Okronum**īm** e tiam._ — We were waiting for you.
 
@@ -136,7 +136,7 @@ A table of common correlatives, all of which are affected by noun cases when use
 |   reason  |  _nē_ — why |               |               |                      |                   |                        |
 
 
-_Vitesh, shosenuge **hākē** mishem._ — You see, I always write with passion.
+_Vitesh, shosenge **hākē** mishem._ — You see, I always write with passion.
 
 ## Writing System
 
