@@ -136,7 +136,7 @@ A table of common correlatives, all of which are affected by noun cases when use
 |   reason  |  _nē_ — why |               |               |                      |                   |                        |
 
 
-_**Hākē** shosenuge mishem._ — I always write with passion.
+_Vitesh, shosenuge **hākē** mishem._ — You see, I always write with passion.
 
 ## Writing System
 
