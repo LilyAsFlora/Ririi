@@ -50,7 +50,6 @@ General constraints:
 - Maximum of 2 consonants in onset
 - Only liquids in secondary onset consonants
 - No consonantal clusters joining liquids and fricatives
-- Complex onsets cannot cluster obstruents & sonorants together
 
 ### Stress
 
@@ -62,9 +61,9 @@ Rirī lacks lexical stress. However, in poetry or song, speakers may wish to app
 
 Generally, Rirī uses a default word order of SVO (subject-verb-object). This may be changed for poetic effect. Possessors and adjectives may come before or after the noun they modify, whereas adpositions and auxiliary verbs usually precede. 
 
-_Ema vidum mam wariuām._ — She saw the small sign.
+_Ema vidumja mam wariuām._ — She saw the small sign.
 
-_Waruiām mam vidum ema._ — _lit._ The sign small saw she. (same meaning as above)
+_Waruiām mam vidumja ema._ — _lit._ The sign small saw she. (same meaning as above)
 
 ## Grammar
 
@@ -76,15 +75,15 @@ Singular nouns are unmarked. Plurals are marked with suffixes -i or -ī, dependi
 - If the noun ends with a vowel, the vowel is replaced with the suffix -i
 - If the noun ends with -i, it is replaced with the suffix -ī
 
-_Sa rīum shosenam._ — I read (a) poem (out loud).
+_Sa rīumge shosenam._ — I read (a) poem (out loud).
 
-_Sa rīum shosenami._ — I read poems (out loud).
+_Sa rīumge shosenami._ — I read poems (out loud).
 
 ### Tense
 
 Rirī includes four basic tenses: past, present, future, and conditional. These are expressed with affixation and auxiliary verbs. 
 
-_Ema nenu kronue dwukro._ — She must have waited for a while.
+_Ema nenuja kronue dwukram._ — She must have waited for a while.
 
 |                              |       simple: unmarked       |        continuous: prefix o-        |          perfect: suffix -e          |   perfect continuous: prefix o-, suffix -e  |
 |:----------------------------:|:----------------------------:|:-----------------------------------:|:------------------------------------:|:-------------------------------------------:|
@@ -99,9 +98,9 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 
 |              | Singular | Plural    | Example                                                                     |
 |--------------|----------|-----------|-----------------------------------------------------------------------------|
-| Possessive   | n. + cha | n. + -chi | _Em gapumja ashira**cha** jagapane gaprām._ — He tidied the store's messy restroom.|
+| Possessive   | n. + -cha | n. + -chi | _Em gapumja ashira**cha** jagapane gaprām._ — He tidied the store's messy restroom.|
 | Instrumental | n. + -em | n. + -emi | _Ti oribumesh agruk**em**?_ — Were you writing on impulse?                         |
-| Accusative   | n. + am  | n. + -ami | _Ema tes mishuja enane bar**ami**!_ — She also loves British accents!            |
+| Accusative   | n. + -am  | n. + -ami | _Ema tes mishuja enane bar**ami**!_ — She also loves British accents!            |
 
 ### Personal verb endings
 
@@ -109,7 +108,7 @@ Personal endings are used to inflect verbs by person, allowing omission of subje
 
 |                  | Suffix | Example                       |
 |------------------|--------|-------------------------------|
-| I                | -      | _Puchu_ — I think             |
+| I                | -ge      | _Puchuge_ — I think             |
 | you (s.)         | -esh   | _Puchuesh_ — You think        |
 | you (pl.)        | -āch  | _Puchuachi_ — You think       |
 | he/she/they (s.) | -ja    | _Puchuja_ - He/she/they think |
@@ -118,9 +117,26 @@ Personal endings are used to inflect verbs by person, allowing omission of subje
 | we               | -īm   | _Puchuim_ — We think         |
 
 
-_Pashu**ja** enane; chū mishue**ja** eto rī._ — She's English; she would have loved these flowers.
+_Pashu**ja** enane; chū mishue**ja** eto riami._ — She's English; she would have loved these flowers.
 
-_Okronum**īm** e ti._ — We were waiting for you.
+_Okronum**īm** e tiam._ — We were waiting for you.
+
+### Correlatives
+
+A table of common correlatives, all of which are affected by noun cases when used as pronouns.
+
+|           |     query    |      this     |      that     |         some         |         no        |          every         |
+|:---------:|:------------:|:-------------:|:-------------:|:--------------------:|:-----------------:|:----------------------:|
+| adjective | _ga_ — which |  _eto_ — this |  _ano_ — that |    _trōch_ — some   |     _ja_ — no     |     _hās_ — every     |
+|   person  |  _ko_ — who  |  _eto_ — this |  _ano_ — that |   _troip_ — someone  |  _jaip_ — no-one  |   _hāsip_ — everyone  |
+|   thing   | _soo_ — what |  _eto_ — this |  _ano_ — that | _trosō_ — something | _jasō_ — nothing |  _hāsō_ — everything |
+|   place   | _ra_ — where | _abon_ — here | _ane_ — there |  _trora_ — somewhere |  _jara_ — nowhere | _hāsura_ — everywhere |
+|    time   | _kē_ — when |  _tera_ — now |  _ana_ — then |  _trokē_ — sometime |  _jakē_ — never  |    _hākē_ — always   |
+|    way    |  _vā_ — how |               |  _vem_ — thus |  _trovā_ — somehow  |                   |                        |
+|   reason  |  _nē_ — why |               |               |                      |                   |                        |
+
+
+_**Hākē** shosenuge mishem._ — I always write with passion.
 
 ## Writing System
 
