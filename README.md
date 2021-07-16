@@ -49,7 +49,7 @@ General constraints:
 - Only nasals and unvoiced consonants in codas (excluding /h/)
 - Maximum of 2 consonants in onset
 - Only liquids in secondary onset consonants
-- No consonantal clusters joining liquids and fricatives
+- No consonantal clusters joining liquids with fricatives or affricates
 
 ### Stress
 
@@ -140,18 +140,23 @@ _Vitesh, shosenge **hākē** mishem._ — You see, I always write with passion.
 
 ### Adjectives
 
-Adjectives take three standard forms: positive, comparative, and superlative. The suffix **-twa** can be used for adverbialisation.
+Adjectives take three standard forms: positive, comparative, and superlative. 
 
 | Positive            | Comparative                | Superlative                 |
 |---------------------|----------------------------|-----------------------------|
-| _gaprane_ — clean   | _gapranhu_ — cleanest      | _gapranshe_ — cleanest      |
+| _gaprane_ — clean   | _gapranhu_ — cleaner     | _gapranshe_ — cleanest      |
 | _rīuch_ — talkative | _rīuchhu_ — more talkative | _rīuchshe_ — most talkative |
 
-| Adjective         | Adverb                 |
-|-------------------|------------------------|
-| _twū_ — strong    | _twūtwa_ — strongly    |
-| _vin_ — final     | _vintwa_ — finally     |
-| _abare_ — current | _abaretwa_ — currently |
+#### Useful Inflections
+
+| Meaning              | Affix     | Example                      |
+|----------------------|-----------|------------------------------|
+| opposite; not        | ja-, cha- | _jagroane_ — quiet, not loud |
+| lacking              | -mev      | _agruipmev_ — friendless     |
+| surfeit              | -nam      | _mishnam_ — lovely           |
+| able to              | -meu      | _eshmeu_ — edible            |
+| adverb               | -twa      | _vintwa_ — finally           |
+| weakening of meaning | -kich     | _prakich_ — girlish          |
 
 _A **vintwa**, mōe agruipi ashumji._ — And finally, my friends went shopping. 
 
