@@ -129,7 +129,7 @@ A table of common correlatives, all of which are affected by noun cases when use
 |:---------:|:------------:|:-------------:|:-------------:|:--------------------:|:-----------------:|:----------------------:|
 | adjective | _ga_ — which |  _eto_ — this |  _ano_ — that |    _trōch_ — some   |     _ja_ — no     |     _hās_ — every     |
 |   person  |  _ko_ — who  |  _eto_ — this |  _ano_ — that |   _troip_ — someone  |  _jaip_ — no-one  |   _hāsip_ — everyone  |
-|   thing   | _soo_ — what |  _eto_ — this |  _ano_ — that | _trosō_ — something | _jasō_ — nothing |  _hāsō_ — everything |
+|   thing   | _soo_ — what |  _eto_ — this |  _ano_ — that | _trosō_ — something | _jasc_ — nothing |  _hāsō_ — everything |
 |   place   | _ra_ — where | _abon_ — here | _ane_ — there |  _trora_ — somewhere |  _jara_ — nowhere | _hāsura_ — everywhere |
 |    time   | _kē_ — when |  _tera_ — now |  _ana_ — then |  _trokē_ — sometime |  _jakē_ — never  |    _hākē_ — always   |
 |    way    |  _vā_ — how |               |  _vem_ — thus |  _trovā_ — somehow  |                   |                        |
@@ -137,6 +137,25 @@ A table of common correlatives, all of which are affected by noun cases when use
 
 
 _Vitesh, shosenge **hākē** mishem._ — You see, I always write with passion.
+
+### Adjectives
+
+Adjectives take three standard forms: positive, comparative, and superlative. The suffix **-twa** can be used for adverbialisation.
+
+| Positive            | Comparative                | Superlative                 |
+|---------------------|----------------------------|-----------------------------|
+| _gaprane_ — clean   | _gapranhu_ — cleanest      | _gapranshe_ — cleanest      |
+| _rīuch_ — talkative | _rīuchhu_ — more talkative | _rīuchshe_ — most talkative |
+
+| Adjective         | Adverb                 |
+|-------------------|------------------------|
+| _twū_ — strong    | _twūtwa_ — strongly    |
+| _vin_ — final     | _vintwa_ — finally     |
+| _abare_ — current | _abaretwa_ — currently |
+
+_A **vintwa**, mōe agruipi ashumji._ — And finally, my friends went shopping. 
+
+Note that adjectives use the ending -e when when describing plural nouns.
 
 ## Writing System
 
