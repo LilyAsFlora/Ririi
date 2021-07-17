@@ -83,7 +83,7 @@ _Sa rīumge shosenami._ — I read poems (out loud).
 
 Rirī includes four basic tenses: past, present, future, and conditional. These are expressed with affixation and auxiliary verbs. 
 
-_Ema nenja kronue dwukroam._ — She must have waited for a while.
+_Ema nenja kronue dwukro._ — She must have waited for a while.
 
 |                              |       simple: unmarked       |        continuous: prefix o-        |          perfect: suffix -e          |   perfect continuous: prefix o-, suffix -e  |
 |:----------------------------:|:----------------------------:|:-----------------------------------:|:------------------------------------:|:-------------------------------------------:|
@@ -191,6 +191,7 @@ Conjunctions work similarly to English, with the addition of distinguishment bet
 _X chi Y_ means you may have X or Y or both. 
 
 _Chi X chi Y_ means you can have only either X or Y, not both.
+
 
 ## Writing System
 
