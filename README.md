@@ -61,9 +61,9 @@ Rirī lacks lexical stress. However, in poetry or song, speakers may wish to app
 
 Generally, Rirī uses a default word order of SVO (subject-verb-object). This may be changed for poetic effect. Possessors and adjectives may come before or after the noun they modify, whereas adpositions and auxiliary verbs usually precede. 
 
-_Ema vidumja mam wariuām._ — She saw the small sign.
+_Ema vidumja mam wariuam._ — She saw the small sign.
 
-_Waruiām mam vidumja ema._ — _lit._ The sign small saw she. (same meaning as above)
+_Waruiam mam vidumja ema._ — _lit._ The sign small saw she. (same meaning as above)
 
 ## Grammar
 
@@ -83,7 +83,7 @@ _Sa rīumge shosenami._ — I read poems (out loud).
 
 Rirī includes four basic tenses: past, present, future, and conditional. These are expressed with affixation and auxiliary verbs. 
 
-_Ema nenja kronue dwukram._ — She must have waited for a while.
+_Ema nenja kronue dwukroam._ — She must have waited for a while.
 
 |                              |       simple: unmarked       |        continuous: prefix o-        |          perfect: suffix -e          |   perfect continuous: prefix o-, suffix -e  |
 |:----------------------------:|:----------------------------:|:-----------------------------------:|:------------------------------------:|:-------------------------------------------:|
@@ -100,7 +100,7 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 |--------------|----------|-----------|-----------------------------------------------------------------------------|
 | Possessive   | n. + -cha | n. + -chi | _Em gapumja ashira**cha** jagapane gaprām._ — He tidied the store's messy restroom.|
 | Instrumental | n. + -em | n. + -emi | _Ti oribumesh agruk**em**?_ — Were you writing on impulse?                         |
-| Accusative   | n. + -am  | n. + -ami | _Ema tes mishja enane bar**ami**!_ — She also loves British accents!            |
+| Accusative   | n. + -am  | n. + -ami | _Ema tes mishja enane bari**ami**!_ — She also loves British accents!            |
 
 ### Personal verb endings
 
@@ -129,7 +129,7 @@ A table of common correlatives, all of which are affected by noun cases when use
 |:---------:|:------------:|:-------------:|:-------------:|:--------------------:|:-----------------:|:----------------------:|
 | adjective | _ga_ — which |  _eto_ — this |  _ano_ — that |    _trōch_ — some   |     _ja_ — no     |     _hās_ — every     |
 |   person  |  _ko_ — who  |  _eto_ — this |  _ano_ — that |   _troip_ — someone  |  _jaip_ — no-one  |   _hāsip_ — everyone  |
-|   thing   | _soo_ — what |  _eto_ — this |  _ano_ — that | _trosō_ — something | _jasc_ — nothing |  _hāsō_ — everything |
+|   thing   | _sō_ — what |  _eto_ — this |  _ano_ — that | _trosō_ — something | _jasō_ — nothing |  _hāsō_ — everything |
 |   place   | _ra_ — where | _abon_ — here | _ane_ — there |  _trora_ — somewhere |  _jara_ — nowhere | _hāsura_ — everywhere |
 |    time   | _kē_ — when |  _tera_ — now |  _ana_ — then |  _trokē_ — sometime |  _jakē_ — never  |    _hākē_ — always   |
 |    way    |  _vā_ — how |               |  _vem_ — thus |  _trovā_ — somehow  |                   |                        |
@@ -158,9 +158,39 @@ Adjectives take three standard forms: positive, comparative, and superlative.
 | adverb               | -twa      | _vintwa_ — finally           |
 | weakening of meaning | -kich     | _prakich_ — girlish          |
 
-_A **vintwa**, mōe agruipi ashumji._ — And finally, my friends went shopping. 
+_A **vintwa**, moe agruipi ashumji._ — And finally, my friends went shopping. 
 
-Note that adjectives use the ending -e when when describing plural nouns.
+**Adjectives must use the ending -e when when describing plural nouns.**
+
+### Yes-no Questions
+
+To form yes-no questions, particles _chī_, _chou_ and _chao_ may be applied at the beginning of a sentence.  _Chi_ can also be used as "or."
+
+#### Chi: neutral
+
+_Chī agresh sām?_ — Do you trust me?
+
+#### Chou: expecting "yes"
+
+_Chou pasho chān?_ — That's true, right?
+
+#### Chao: expecting "no"
+
+_Chao pasho tomjisushkām?_ — That's not a flamethrower, is it?
+
+### Negation
+
+To negative a sentence, add particle _ja_ (lit. "no") before the verb.
+
+_Em ja sūja ani groam._ — He did not make that noise.
+
+### Conjunctions
+
+Conjunctions work similarly to English, with the addition of distinguishment between exclusive and inclusive.
+
+_X chi Y_ means you may have X or Y or both. 
+
+_Chi X chi Y_ means you can have only either X or Y, not both.
 
 ## Writing System
 
