@@ -112,7 +112,7 @@ Personal endings are used to inflect verbs by person, allowing omission of subje
 | you (s.)         | -esh   | _Puchesh_ — You think        |
 | you (pl.)        | -āch  | _Puchachi_ — You think       |
 | he/she/they (s.) | -ja    | _Puchja_ - He/she/they think |
-| they (pl.)       | -ji  | _Puchuji_ — They think      |
+| they (pl.)       | -ji  | _Puchji_ — They think      |
 | it               | -o   | _Pucho_ — It thinks        |
 | we               | -īm   | _Puchim_ — We think         |
 
