@@ -71,6 +71,8 @@ _suff. suffix_
 
 # R
 
+**rīu** _infin._ to speak, say, utter, verbalise, word, convey, express, tell, voice
+
 # S
 
 **sa** _pron._ I 
@@ -82,6 +84,8 @@ _suff. suffix_
 **ti** _pron._ you
 
 **tī** _pl. pron._ you
+
+**trokē** _conj._ sometime, once
 
 # U
 
