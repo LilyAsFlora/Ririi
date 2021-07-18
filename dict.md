@@ -67,7 +67,11 @@ _suff. suffix_
 
 # O
 
+**oju** _infin._ to watch, observe, oversee, gaze, scope
+
 # P
+
+**pasen** 1. multiverse 2. interconnection of realms or universes
 
 # R
 
@@ -78,6 +82,8 @@ _suff. suffix_
 **sa** _pron._ I 
 
 **sai** _pl. pron._ we
+
+**sen** world, cosmos, universe, realm
 
 # T
 
@@ -106,5 +112,7 @@ _suff. suffix_
 **ja** _neg._ no, not
 
 **ja-** _pref._ un-
+
+**jasen** unreality, fantasy, illusion
 
 # SH
