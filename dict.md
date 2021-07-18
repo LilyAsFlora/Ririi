@@ -63,6 +63,8 @@ _suff. suffix_
 
 # M
 
+**michu** _infin._ to go by, pass, proceed, cross, progress
+
 # N
 
 # O
@@ -74,6 +76,8 @@ _suff. suffix_
 **pasen** 1. multiverse 2. interconnection of realms or universes
 
 # R
+
+**richu** _inform._ bye, goodbye
 
 **rīu** _infin._ to speak, say, utter, verbalise, word, convey, express, tell, voice
 
