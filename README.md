@@ -220,3 +220,5 @@ Conjunctions work similarly to English, with the addition of distinguishment bet
 _X chi Y_ means you may have X or Y or both. 
 
 _Chi X chi Y_ means you can have only either X or Y, not both.
+
+## Examples
