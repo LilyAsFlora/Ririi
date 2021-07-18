@@ -13,6 +13,10 @@ _quant. quantifier_
 
 # A
 
+**a** _conj._ and. a... a... both... and. **a āi** even so
+
+**āi** yes
+
 # B
 
 # D
