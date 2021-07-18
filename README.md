@@ -50,6 +50,7 @@ General constraints:
 - Maximum of 2 consonants in onset
 - Only liquids in secondary onset consonants
 - No consonantal clusters joining liquids with fricatives or affricates
+- Clusters of two of the same consonant are combined into one (e.g. _amma_ -> _ama_)
 
 #### Stress
 
@@ -61,9 +62,16 @@ Rirī lacks lexical stress. However, in poetry or song, speakers may wish to app
 
 Generally, Rirī uses a default word order of SVO (subject-verb-object). This may be changed for poetic effect. Possessors and adjectives may come before or after the noun they modify, whereas adpositions and auxiliary verbs usually precede. 
 
-_Ema vidumja mam wariuam._ — She saw the small sign.
+_Ema vidumja amam wariuam._ — She saw the small sign.
 
-_Waruiam mam vidumja ema._ — _lit._ The sign small saw she. (same meaning as above)
+_Waruiam amam vidumja ema._ — _lit._ The sign small saw she. (same meaning as above)
+
+### Existentials
+
+To say there is something, use the verb _pashu_ (to be). 
+
+_Ane pashuo onjiam._ — There is a place.
+__
 
 ## Grammar
 
@@ -118,9 +126,9 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 
 |              | Singular | Plural    | Example                                                                     |
 |--------------|----------|-----------|-----------------------------------------------------------------------------|
-| Possessive   | n. + -cha | n. + -chi | _Em gapumja ashira**cha** jagapane gaprām._ — He tidied the store's messy restroom.|
+| Possessive   | n. + -cha | n. + -chi | _Em gapumja ashira**cha** amjagapane gaprām._ — He tidied the store's messy restroom.|
 | Instrumental | n. + -em | n. + -emi | _Ti oribumesh agruk**em**?_ — Were you writing on impulse?                         |
-| Accusative   | n. + -am  | n. + -ami | _Ema tes mishja enane bari**ami**!_ — She also loves British accents!            |
+| Accusative   | n. + -am  | n. + -ami | _Ema tes mishja amenane bari**ami**!_ — She also loves British accents!            |
 
 
 ### Personal verb endings
@@ -138,7 +146,7 @@ Personal endings are used to inflect verbs by person, allowing omission of subje
 | we               | -īm   | _Puchuīm_ — We think         |
 
 
-_Pash**ja** enane; chū mishue**ja** eto riami._ — She's English; she would have loved these flowers.
+_Pash**ja** enane; chū mishue**ja** etoe riami._ — She's English; she would have loved these flowers.
 
 _Okronum**īm** e tiam._ — We were waiting for you.
 
@@ -181,7 +189,7 @@ _Rīuge amtwū chānam._ — I speak hard truth.
 | adverb               | -twa      | _vintwa_ — finally           |
 | weakening of meaning | -kich     | _prakich_ — girlish          |
 
-_A **vintwa**, moe agruipi ashumji._ — And finally, my friends went shopping. 
+_A **vintwa**, mōe agruipi ashumji._ — And finally, my friends went shopping. 
 
 ### Yes-no Questions
 
@@ -197,13 +205,13 @@ _Chou pasho chān?_ — That's true, right?
 
 #### Chao: expecting "no"
 
-_Chao pasho tomjisushkām?_ — That's not a flamethrower, is it?
+_Chao pashuo tomjisushkām?_ — That's not a flamethrower, is it?
 
 ### Negation
 
 To negative a sentence, add particle _ja_ (lit. "no") before the verb.
 
-_Em ja sūja ani groam._ — He did not make that noise.
+_Em ja sūja amani groam._ — He did not make that noise.
 
 ### Conjunctions
 
