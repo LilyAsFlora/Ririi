@@ -36,9 +36,9 @@ Rirī features the typical five-vowel system.
 | Near-open  |       |            |         |           |       |
 | Open       |       |            | a, a:   |           |       |
 
-## Phonotactics
+### Phonotactics
 
-### Syllable Shape
+#### Syllable Shape
 
 Rirī permits both open and closed syllables, using a pattern of **(C)(C)V(C)**.
 
@@ -51,7 +51,7 @@ General constraints:
 - Only liquids in secondary onset consonants
 - No consonantal clusters joining liquids with fricatives or affricates
 
-### Stress
+#### Stress
 
 Rirī lacks lexical stress. However, in poetry or song, speakers may wish to apply patterns of stressed and unstressed syllables to induce the effect of a rhythmic meter.
 
@@ -212,8 +212,3 @@ Conjunctions work similarly to English, with the addition of distinguishment bet
 _X chi Y_ means you may have X or Y or both. 
 
 _Chi X chi Y_ means you can have only either X or Y, not both.
-
-
-## Writing System
-
-## Romanisation
