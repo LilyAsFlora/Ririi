@@ -2,7 +2,7 @@
 
 Rirī is a personal [artistic language](https://en.wikipedia.org/wiki/Artistic_language) (*artlang* for short) designed for art, poetry, song, and diaries. Stemming from "ri", "flower" and "rī", "speech", its name roughly translates to "flower speech" or "floral language".
 
-Rirī phonetics are consistent. You can access a dictionary [here](https://gist.github.com/LilyAsFlora/b89e47fe391010c54a54462f0f354cd0).
+Rirī is agglutinative and phonetically consistent. You can access a dictionary [here](https://gist.github.com/LilyAsFlora/b89e47fe391010c54a54462f0f354cd0).
 
 ## Phonology
 
@@ -67,6 +67,29 @@ _Waruiam mam vidumja ema._ — _lit._ The sign small saw she. (same meaning as a
 
 ## Grammar
 
+### Personal Pronouns
+
+Rirī includes the universal first, second, and third person pronouns. Notice the distinction between plural and singular _they_.
+
+#### Singular
+
+| Person | Subject                  | Object                        |   
+|--------|--------------------------|-------------------------------|
+| 1      | _sa_ — I                 | _sām_ — me                    |   
+| 2      | _ti_ — you               | _tiam_ — you                   |   
+| 3      | _em/ema/ano/ami_ — he/she/it/they | _emam/emām_/anoam/amiam — him/her/it/they |   
+
+| Person | Subject      | Object         |
+|--------|--------------|----------------|
+| 1      | _sai_ — we   | _saiam_ — me   |
+| 2      | _tī_ — you   | _tiam_ — you   |
+| 3      | _emi_ — they | _emiam_ — them |
+
+
+#### Plural
+
+
+
 ### Plurality
 
 Singular nouns are unmarked. Plurals are marked with suffixes -i or -ī, depending on the noun's ending.
@@ -88,13 +111,13 @@ _Ema nenja kronue dwukro._ — She must have waited for a while.
 |                              |       simple: unmarked       |        continuous: prefix o-        |          perfect: suffix -e          |   perfect continuous: prefix o-, suffix -e  |
 |:----------------------------:|:----------------------------:|:-----------------------------------:|:------------------------------------:|:-------------------------------------------:|
 |        past: suffix -m       |    _sa kronum_ — I waited    |     _sa okronum_ — I was waiting    |      _sa kronume_ — I had waited     |      _sa okronume_ — I had been waiting     |
-|       present: unmarked      |      _sa kronu_ — I wait     |     _sa okronu_ — I have waited     |      _sa kronue_ — I have waited     |      _sa okronue_ — I have been waiting     |
+|       present: unmarked      |      _sa kronu_ — I wait     |     _sa okronu_ — I have waited     |      _sa krone_ — I have waited     |      _sa okrone_ — I have been waiting     |
 |      future: suffix -sh      |  _sa kronush_ — I will wait  |  _sa okronushe_ — I will be waiting |  _sa kronushe_ — I will have waited  |  _sa okronushe_ — I will have been waiting  |
-| conditional: + chū, nenu, etc| _sa chū kronu_ — I would wait| _sa chū okronu_ — I would be waiting| _sa chū kronue_ — I would have waited| _sa chū okronue_ — I would have been waiting |
+| conditional: + chū, nenu, etc| _sa chū kronu_ — I would wait| _sa chū okronu_ — I would be waiting| _sa chū kronue_ — I would have waited| _sa chū okrone_ — I would have been waiting |
 
 ### Noun Case
 
-Rirī features three marked cases: possessive, instrumental, and accusative. They are indicated with suffixes. For vowel-final nouns, endings are replaced with the given inflection's beginning vowel (if one exists). If both are the same, a long vowel is used.
+Rirī features three marked cases: possessive, instrumental, and accusative. They are indicated with suffixes. 
 
 |              | Singular | Plural    | Example                                                                     |
 |--------------|----------|-----------|-----------------------------------------------------------------------------|
@@ -102,19 +125,20 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 | Instrumental | n. + -em | n. + -emi | _Ti oribumesh agruk**em**?_ — Were you writing on impulse?                         |
 | Accusative   | n. + -am  | n. + -ami | _Ema tes mishja enane bari**ami**!_ — She also loves British accents!            |
 
+
 ### Personal verb endings
 
 Personal endings are used to inflect verbs by person, allowing omission of subject pronouns. This is one of my favourite grammatical features of any language.
 
 |                  | Suffix | Example                       |
 |------------------|--------|-------------------------------|
-| I                | -ge      | _Puchge_ — I think             |
-| you (s.)         | -esh   | _Puchesh_ — You think        |
-| you (pl.)        | -āch  | _Puchachi_ — You think       |
-| he/she/they (s.) | -ja    | _Puchja_ - He/she/they think |
-| they (pl.)       | -ji  | _Puchji_ — They think      |
-| it               | -o   | _Pucho_ — It thinks        |
-| we               | -īm   | _Puchim_ — We think         |
+| I                | -ge      | _Puchuge_ — I think             |
+| you (s.)         | -esh   | _Puchuesh_ — You think        |
+| you (pl.)        | -āch  | _Puchuachi_ — You think       |
+| he/she/they (s.) | -ja    | _Puchuja_ - He/she/they think |
+| they (pl.)       | -ji  | _Puchuji_ — They think      |
+| it               | -o   | _Puchuo_ — It thinks        |
+| we               | -īm   | _Puchuīm_ — We think         |
 
 
 _Pash**ja** enane; chū mishue**ja** eto riami._ — She's English; she would have loved these flowers.
