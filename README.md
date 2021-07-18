@@ -127,7 +127,7 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 |              | Singular | Plural    | Example                                                                     |
 |--------------|----------|-----------|-----------------------------------------------------------------------------|
 | Possessive   | n. + -cha | n. + -chi | _Em gapumja ashira**cha** amjagapane gaprām._ — He tidied the store's messy restroom.|
-| Instrumental | n. + -em | n. + -emi | _Ti oribumesh agruk**em**?_ — Were you writing on impulse?                         |
+| Instrumental | n. + -chu | n. + -che | _Ti oribumesh agruk**chu**?_ — Were you writing on impulse?                         |
 | Accusative   | n. + -am  | n. + -ami | _Ema tes mishja amenane bari**ami**!_ — She also loves British accents!            |
 
 
@@ -165,7 +165,7 @@ A table of common correlatives, all of which are affected by noun cases when use
 |   reason  |  _nē_ — why |               |               |                      |                   |                        |
 
 
-_Vitesh, shosenge **hākē** mishem._ — You see, I always write with passion.
+_Vitesh, shosenge **hākē** mishchu._ — You see, I always write with passion.
 
 ### Adjectives
 
