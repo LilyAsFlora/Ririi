@@ -8,8 +8,10 @@ _fig. figurative_
 _infin. infinitive_  
 _inform. informal_  
 _ad. adposition_  
+_prefix. prefix_  
 _pron. pronoun_  
 _quant. quantifier_  
+_suff. suffix_  
 
 # A
 
