@@ -69,7 +69,7 @@ _Waruiam mam vidumja ema._ — _lit._ The sign small saw she. (same meaning as a
 
 ### Personal Pronouns
 
-Rirī includes the universal first, second, and third person pronouns. Notice the distinction between plural and singular _they_.
+Rirī includes the universal first, second, and third person pronouns. Notice the distinction between plural and singular _they_. _Emi_ is used in reference to groups with one or more masculine entities. _Emai_ is used in reference to groups of strictly feminine entities. In unclear or non-binary cases, _amī_ may be used.
 
 #### Singular
 
@@ -85,7 +85,7 @@ Rirī includes the universal first, second, and third person pronouns. Notice th
 |--------|--------------|----------------|
 | 1      | _sai_ — we   | _saiam_ — me   |
 | 2      | _tī_ — you   | _tiam_ — you   |
-| 3      | _emi_ — they | _emiam_ — them |
+| 3      | _emi (m.) / emai (f.)_ — they | _emiam (m.) / emaiam (f.)_ — them |
 
 ### Plurality
 
@@ -161,7 +161,9 @@ _Vitesh, shosenge **hākē** mishem._ — You see, I always write with passion.
 
 ### Adjectives
 
-Adjectives take three standard forms: positive, comparative, and superlative. 
+Adjectives take three standard forms: positive, comparative, and superlative. Adjectives must use the ending _-e_ when describing plural nouns. Since they act like nouns, they should agree in case. This is done by taking the noun's case inflection (e.g. _-am_) and appending it as a prefix to the adjective.
+
+_Rīuge amtwū chānam._ — I speak hard truth.
 
 | Positive            | Comparative                | Superlative                 |
 |---------------------|----------------------------|-----------------------------|
@@ -180,8 +182,6 @@ Adjectives take three standard forms: positive, comparative, and superlative.
 | weakening of meaning | -kich     | _prakich_ — girlish          |
 
 _A **vintwa**, moe agruipi ashumji._ — And finally, my friends went shopping. 
-
-**Adjectives must use the ending -e when when describing plural nouns.**
 
 ### Yes-no Questions
 
