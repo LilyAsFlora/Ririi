@@ -1,18 +1,15 @@
 # Abbreviations
-_aj. adjective  
-av. adverb  
-aux. auxiliary (verb)  
-conj. conjunction  
-derog. derogatory  
-fig. figurative  
-infin. infinitive  
-inform. informal 
-ad. adposition  
-pron. pronoun  
-quant. quantifier  _
-
-
-
+_aj. adjective_  
+_av. adverb_  
+_aux. auxiliary (verb)_  
+_conj. conjunction_  
+_derog. derogatory_  
+_fig. figurative_  
+_infin. infinitive_  
+_inform. informal_  
+_ad. adposition_  
+_pron. pronoun_  
+_quant. quantifier_  
 
 # A
 
