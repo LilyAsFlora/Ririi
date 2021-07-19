@@ -53,6 +53,8 @@ _suff. suffix_
 
 # I
 
+**-ia** _suff._ denoting a process or state
+
 # K
 
 **kron** _1._ time(span), moment _2._ _fig._ the unstoppable marching of time
@@ -61,7 +63,7 @@ _suff. suffix_
 
 **kronu** _infin._ to (a)wait, stall, stick around, stand by
 
-**kronuch** _aj._ old, aged, ancient, elderly
+**kronos** _aj._ old, aged, ancient, elderly
 
 # M
 
@@ -72,6 +74,10 @@ _suff. suffix_
 # O
 
 **oju** _infin._ to watch, observe, oversee, gaze, scope
+
+**-on** _suff._ place, area
+
+**-os** _suff._ denoting a process or state
 
 # P
 
@@ -90,6 +96,8 @@ _suff. suffix_
 **sa** _pron._ I 
 
 **sai** _pl. pron._ we
+
+**-sea** _suff._ denoting a process or state
 
 **sen** world, cosmos, universe, realm
 
@@ -119,13 +127,11 @@ _suff. suffix_
 
 # W
 
-**-on** _suff._ place, area
-
 # Z
 
 # CH
 
-**chakrane** _aj._ new, modern, recent
+**chakroko** _aj._ new, modern, recent
 
 **cha-** _pref._ un-
 
@@ -141,6 +147,6 @@ _suff. suffix_
 
 **jasen** _1._ unreality, fantasy, illusion _2._ imitation, counterfeit, imposter, forgery, deception, phony, hoax, sham
 
-**jasuch** _aj._ fake, bogus, counterfeit, fabricated, forged, phony, artificial
+**jasos** _aj._ fake, bogus, counterfeit, fabricated, forged, phony, artificial
 
 # SH
