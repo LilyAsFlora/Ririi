@@ -29,6 +29,8 @@ _suff. suffix_
 
 **amī** _pl. n. pron._ they 
 
+**-ane** _suff._ characterised by
+
 **ano** _pron._ it, that
 
 # B
@@ -57,13 +59,15 @@ _suff. suffix_
 
 # K
 
+**-kō** _suff._ characterised by
+
 **kron** _1._ time(span), moment _2._ _fig._ the unstoppable marching of time
 
 **kronga** clock, sundial, watch, timekeeping device
 
 **kronu** _infin._ to (a)wait, stall, stick around, stand by
 
-**kronos** _aj._ old, aged, ancient, elderly
+**kronkō** _aj._ old, aged, ancient, elderly
 
 # M
 
@@ -128,6 +132,8 @@ _suff. suffix_
 # W
 
 # Z
+
+**-za** _suff._ characterised by
 
 # CH
 
