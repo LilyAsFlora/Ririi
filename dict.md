@@ -133,6 +133,8 @@ _suff. suffix_
 
 **ja-** _pref._ not
 
-**jasen** unreality, fantasy, illusion
+**jasen** 1. unreality, fantasy, illusion 2. imitation, counterfeit, imposter, forgery, deception, phony, hoax, sham
+
+**jasuch** _aj._ fake, bogus, counterfeit, fabricated, forged, phony, artificial
 
 # SH
