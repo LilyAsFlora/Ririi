@@ -75,6 +75,8 @@ _suff. suffix_
 
 # N
 
+**ne-** _pref._ not
+
 # O
 
 **oju** _infin._ to watch, observe, oversee, gaze, scope
@@ -139,7 +141,7 @@ _suff. suffix_
 
 **chakroko** _aj._ new, modern, recent
 
-**cha-** _pref._ un-
+**cha-** _pref._ not
 
 **chosu** _infin._ to understand, grasp, interpret, register, comprehend
 
