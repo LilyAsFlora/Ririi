@@ -73,13 +73,15 @@ _suff. suffix_
 
 # P
 
-**pasen** 1. multiverse 2. interconnection of realms or universes
+**pasen** 1. multiverse 2. interconnection of realms or universes 3. nexus, center, connection, core, network, link
 
 # R
 
 **richu** _inform._ bye, goodbye
 
 **rīu** _infin._ to speak, say, utter, verbalise, word, convey, express, tell, voice
+
+**rīsum** word, term, unit of language
 
 # S
 
@@ -88,6 +90,14 @@ _suff. suffix_
 **sai** _pl. pron._ we
 
 **sen** world, cosmos, universe, realm
+
+**sum** part, component, chunk, element, factor, piece, unit, segment
+
+**sumka** 1. knife, blade, dagger, cutter, machete, sword 2. any tool used to divide an object into segments
+
+**sumu** _infin._ to divide, break down, cut, partition, segregate, split, subdivide, chop, tear
+
+**sumane** _aj._ separated, detached, divorced, partitioned, divided, split, cut apart
 
 # T
 
@@ -103,19 +113,25 @@ _suff. suffix_
 
 # W
 
+**-on** _suff._ place, area
+
 # Z
 
 # CH
 
-**chakronane** _aj._ new, modern, recent, 
+**chakrane** _aj._ new, modern, recent
 
 **cha-** _pref._ un-
+
+**chosu** _infin._ to understand, grasp, interpret, register, comprehend
+
+**choson** laboratory, testing room
 
 # J
 
 **ja** _neg._ no, not
 
-**ja-** _pref._ un-
+**ja-** _pref._ not
 
 **jasen** unreality, fantasy, illusion
 
