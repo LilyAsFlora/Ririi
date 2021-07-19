@@ -46,6 +46,8 @@ _suff. suffix_
 **emi** _pl. m. pron._ they
 
 # G
+
+**gok** _1._ leg, stake, stump _2._ any appendage used for support _3. fig._ backbone, upholder, source of strength or movement
  
 # H
 
@@ -110,6 +112,10 @@ _suff. suffix_
 # U
 
 # V
+
+**vim** _aj._ many, a lot, much, a good / great deal
+
+**vimgokche** _1._ caterpillar, worm _2. fig._ one which is like a flower waiting to blossom 
 
 # W
 
