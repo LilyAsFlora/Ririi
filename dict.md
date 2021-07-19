@@ -53,7 +53,7 @@ _suff. suffix_
 
 # K
 
-**kron** 1. time(span), moment 2. _fig._ the unstoppable marching of time
+**kron** _1._ time(span), moment _2._ _fig._ the unstoppable marching of time
 
 **kronga** clock, sundial, watch, timekeeping device
 
@@ -73,7 +73,7 @@ _suff. suffix_
 
 # P
 
-**pasen** 1. multiverse 2. interconnection of realms or universes 3. nexus, center, connection, core, network, link
+**pasen** _1._ multiverse _2._ interconnection of realms or universes _3._ nexus, center, connection, core, network, link
 
 # R
 
@@ -93,7 +93,7 @@ _suff. suffix_
 
 **sum** part, component, chunk, element, factor, piece, unit, segment
 
-**sumka** 1. knife, blade, dagger, cutter, machete, sword 2. any tool used to divide an object into segments
+**sumka** _1._ knife, blade, dagger, cutter, machete, sword _2._ any tool used to divide an object into segments
 
 **sumu** _infin._ to divide, break down, cut, partition, segregate, split, subdivide, chop, tear
 
@@ -133,7 +133,7 @@ _suff. suffix_
 
 **ja-** _pref._ not
 
-**jasen** 1. unreality, fantasy, illusion 2. imitation, counterfeit, imposter, forgery, deception, phony, hoax, sham
+**jasen** _1._ unreality, fantasy, illusion _2._ imitation, counterfeit, imposter, forgery, deception, phony, hoax, sham
 
 **jasuch** _aj._ fake, bogus, counterfeit, fabricated, forged, phony, artificial
 
