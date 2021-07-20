@@ -35,6 +35,10 @@ _suff. suffix_
 
 # B
 
+**bās** smile, grin, beam, smirk
+
+**bāsu** _infin._ _1._ to smile, put on a positive expression _2._ to be friendly towards
+
 # D
 
 # E
@@ -58,6 +62,8 @@ _suff. suffix_
 **-ia** _suff._ denoting a process or state
 
 # K
+
+**ku** _ad._ at, in
 
 **-kō** _suff._ characterised by
 
@@ -97,6 +103,8 @@ _suff. suffix_
 
 **rīsum** word, term, unit of language
 
+**rīzē** secret, confidential or classified information, enigma
+
 # S
 
 **sa** _pron._ I 
@@ -129,7 +137,7 @@ _suff. suffix_
 
 **vim** _aj._ many, a lot, much, a good / great deal
 
-**vimgokche** _1._ caterpillar, worm _2. fig._ one which is like a flower waiting to blossom 
+**vimgokuchi** _1._ caterpillar, worm _2. fig._ one which is like a flower waiting to blossom 
 
 # W
 
