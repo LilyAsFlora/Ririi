@@ -65,6 +65,8 @@ _suff. suffix_
 
 **himip** ruler, emperor
 
+**himiawān** _1._ bird, fowl, game _2._ any flying feathered creature
+
 # I
 
 **-ia** _suff._ denoting a process or state
@@ -148,6 +150,10 @@ _suff. suffix_
 **vimgokuchi** _1._ caterpillar, worm _2. fig._ one which is like a flower waiting to blossom 
 
 # W
+
+**wān** drone, robot, automation
+
+**wankō** _aj._ robotic, robot-like
 
 # Z
 
