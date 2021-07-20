@@ -41,6 +41,8 @@ _suff. suffix_
 
 # D
 
+**de** _ad._ to, towards
+
 # E
 
 **em** _pron._ he 
@@ -56,6 +58,12 @@ _suff. suffix_
 **gok** _1._ leg, stake, stump _2._ any appendage used for support _3. fig._ backbone, upholder, source of strength or movement
  
 # H
+
+**hīmu** _infin._ _1._ to rule, govern, oversee, regulate, supervise _2._  to control, command, conduct, handle, manage, manipulate
+
+**hīmia** government, authority, ministry, regime, union
+
+**himip** ruler, emperor
 
 # I
 
@@ -144,6 +152,8 @@ _suff. suffix_
 # Z
 
 **-za** _suff._ characterised by
+
+**zē**
 
 # CH
 
