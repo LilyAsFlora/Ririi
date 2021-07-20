@@ -63,9 +63,9 @@ _suff. suffix_
 
 **hīmia** government, authority, ministry, regime, union
 
-**himip** ruler, emperor
+**hīmip** ruler, emperor
 
-**himiawān** _1._ bird, fowl, game _2._ any flying feathered creature
+**hīmiawān** _1._ bird, fowl, game _2._ any flying feathered creature
 
 # I
 
