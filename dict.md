@@ -181,4 +181,6 @@ _suff. suffix_
 
 **jasos** _aj._ fake, bogus, counterfeit, fabricated, forged, phony, artificial
 
+**jomu** _infin._ _1._ to be in possession; have, own, possess, hold _2._ to like, adore, appreciate (romantically) 
+
 # SH
