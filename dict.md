@@ -121,7 +121,7 @@ _suff. suffix_
 
 **prēbī** spy, secret or undercover agent 
 
-**prekō** _aj._ shadowy, dim, obscured, cloudy, darkened, dingy, gloomy, 
+**prekō** _aj._ shadowy, dim, obscured, cloudy, darkened, dingy, gloomy
 
 **prezē** cave, cavern, cavity, pothole
 
