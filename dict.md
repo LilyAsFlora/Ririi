@@ -11,7 +11,7 @@ _infin. infinitive_
 _inform. informal_  
 _m. masculine_  
 _n. neuter_  
-_neg. negative_  
+_num. numeral_  
 _pl. plural_  
 _prefix. prefix_  
 _pron. pronoun_  
@@ -29,6 +29,8 @@ _suff. suffix_
 
 **amī** _pl. n. pron._ they 
 
+**an** _num. aj_ three. **onan** third
+
 **-ane** _suff._ characterised by
 
 **ano** _pron._ it, that
@@ -38,6 +40,8 @@ _suff. suffix_
 **bās** smile, grin, beam, smirk
 
 **bāsu** _infin._ _1._ to smile, put on a positive expression _2._ to be friendly towards
+
+**bīzum** _num. aj_ four. **onbīzum** fourth
 
 # D
 
@@ -54,6 +58,8 @@ _suff. suffix_
 **emi** _pl. m. pron._ they
 
 # G
+
+**gāri** _num. aj._ ten. **ongāri** tenth
 
 **gok** _1._ leg, stake, stump _2._ any appendage used for support _3. fig._ backbone, upholder, source of strength or movement
  
@@ -73,9 +79,13 @@ _suff. suffix_
 
 # K
 
-**ku** _ad._ at, in
+**kāro** _num. aj._ seven. **onkāro** seventh
+
+**kiri** _num. aj._ six. **onkiri** sixth
 
 **-kō** _suff._ characterised by
+
+**kōpu** _num. aj._ two. **onkōpu** second
 
 **kron** _1._ time(span), moment _2._ _fig._ the unstoppable marching of time
 
@@ -84,6 +94,8 @@ _suff. suffix_
 **kronu** _infin._ to (a)wait, stall, stick around, stand by
 
 **kronkō** _aj._ old, aged, ancient, elderly
+
+**ku** _ad._ at, in
 
 # M
 
@@ -105,9 +117,13 @@ _suff. suffix_
 
 **pasen** _1._ multiverse _2._ interconnection of realms or universes _3._ nexus, center, connection, core, network, link
 
+**puru** _num. aj._ five. **onpuru** fifth
+
 # R
 
 **richu** _inform._ bye, goodbye
+
+**rita** _num. aj._ nine. **onrita** ninth
 
 **rīu** _infin._ to speak, say, utter, verbalise, word, convey, express, tell, voice
 
@@ -132,6 +148,8 @@ _suff. suffix_
 **sumu** _infin._ to divide, break down, cut, partition, segregate, split, subdivide, chop, tear
 
 **sumane** _aj._ separated, detached, divorced, partitioned, divided, split, cut apart
+
+**suru** _num. aj._ eight. **onsuru** eighth
 
 # T
 
@@ -171,9 +189,11 @@ _suff. suffix_
 
 **choson** laboratory, testing room
 
+**churi** _num._ _aj._ one, a certain. **onchuri** first
+
 # J
 
-**ja** _neg._ no, not
+**ja** no, not
 
 **ja-** _pref._ not
 
