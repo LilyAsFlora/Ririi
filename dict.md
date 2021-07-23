@@ -117,6 +117,14 @@ _suff. suffix_
 
 **pasen** _1._ multiverse _2._ interconnection of realms or universes _3._ nexus, center, connection, core, network, link
 
+**prē** _1._ shadow, shade, trace _2. fig._ one who is like a shadow; an unknown or enigmatic entity, especially difficult to identify
+
+**prēbī** spy, secret or undercover agent 
+
+**prekō** _aj._ shadowy, dim, obscured, cloudy, darkened, dingy, gloomy, 
+
+**prezē** cave, cavern, cavity, pothole
+
 **puru** _num. aj._ five. **onpuru** fifth
 
 # R
@@ -176,8 +184,6 @@ _suff. suffix_
 # Z
 
 **-za** _suff._ characterised by
-
-**zē**
 
 # CH
 
