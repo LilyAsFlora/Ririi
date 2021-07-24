@@ -25,6 +25,8 @@ _suff. suffix_
 
 **āi** yes
 
+**am** _aj._ _1._ small, meager, miniature, tiny, slight, little _2._ unimportant, insignificant, negligible, trivial
+
 **ami** _sg. pron._ they
 
 **amī** _pl. n. pron._ they 
@@ -33,13 +35,17 @@ _suff. suffix_
 
 **-ane** _suff._ characterised by
 
-**ano** _pron._ it, that
+**ano** _aj._ that
+
+**-ap** _suff._ entity associated with
 
 # B
 
 **bās** smile, grin, beam, smirk
 
 **bāsu** _infin._ _1._ to smile, put on a positive expression _2._ to be friendly towards
+
+**-bī** _suff._ entity associated with
 
 **bīzum** _num. aj_ four. **onbīzum** fourth
 
@@ -57,13 +63,23 @@ _suff. suffix_
 
 **emi** _pl. m. pron._ they
 
+**eto** _aj. 1._ this _2. pron._ it
+
 # G
+
+**ga** _aj._ which
 
 **gāri** _num. aj._ ten. **ongāri** tenth
 
 **gok** _1._ leg, stake, stump _2._ any appendage used for support _3. fig._ backbone, upholder, source of strength or movement
  
 # H
+
+**hās** _aj._ every, each
+
+**hāsip** _pron._ everyone, everybody
+
+**hāsō** everything
 
 **hīmu** _infin._ _1._ to rule, govern, oversee, regulate, supervise _2._  to control, command, conduct, handle, manage, manipulate
 
@@ -77,11 +93,15 @@ _suff. suffix_
 
 **-ia** _suff._ denoting a process or state
 
+**-ip** _suff._ entity associated with
+
 # K
 
 **kāro** _num. aj._ seven. **onkāro** seventh
 
 **kiri** _num. aj._ six. **onkiri** sixth
+
+**ko** _pron._ who, whom
 
 **-kō** _suff._ characterised by
 
@@ -111,6 +131,8 @@ _suff. suffix_
 
 **-on** _suff._ place, area
 
+**onji** _1._ place, area, point, site, spot, venue, zone _2._ rank, class, division, grade, status
+
 **-os** _suff._ denoting a process or state
 
 # P
@@ -128,6 +150,8 @@ _suff. suffix_
 **puru** _num. aj._ five. **onpuru** fifth
 
 # R
+
+**ra** _av._ where. **rajara** here and there
 
 **richu** _inform._ bye, goodbye
 
@@ -149,6 +173,8 @@ _suff. suffix_
 
 **sen** world, cosmos, universe, realm
 
+**sō** _pron._ what. **sō a sō** _inform._ whatever, I don't care
+
 **sum** part, component, chunk, element, factor, piece, unit, segment
 
 **sumka** _1._ knife, blade, dagger, cutter, machete, sword _2._ any tool used to divide an object into segments
@@ -167,9 +193,21 @@ _suff. suffix_
 
 **trokē** _conj._ sometime, once
 
+**trōch** _aj._ some, a few
+
+**troip** _pron._ someone, somebody
+
+**trosō** something. **trosō āi** _inform._ you don't say
+
 # U
 
 # V
+
+**vid** eye, eyeball, peeper
+
+**vidki** _pl._ glasses, frames, goggles, rims. **vidka** telescope
+
+**vidu** _infin._ to see, look (at), observe, regard, spot, view
 
 **vim** _aj._ many, a lot, much, a good / great deal
 
@@ -203,7 +241,11 @@ _suff. suffix_
 
 **ja-** _pref._ not
 
+**jasen** _pron._ nobody, no-one
+
 **jasen** _1._ unreality, fantasy, illusion _2._ imitation, counterfeit, imposter, forgery, deception, phony, hoax, sham
+
+**jasō** nothing
 
 **jasos** _aj._ fake, bogus, counterfeit, fabricated, forged, phony, artificial
 
