@@ -51,6 +51,7 @@ General constraints:
 - /si/ and /ti/ become /ʃi/ and /t̠ʃi/
 - If the first consonant in a complex onset is a nasal, the second cannot be /w/ (e.g. disallowing /mwa/)
 - If the secondary consonant in a complex onset contains a w, the coda must contain a nasal (e.g. disallowing /pwat/)
+- No consonantal clusters combining obstruents (e.g. disallowing /apta/)
 
 #### Stress
 
