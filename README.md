@@ -44,13 +44,13 @@ Rirī permits both open and closed syllables, using a pattern of **(C)(C)V(C)**.
 
 General constraints:
 
-- All syllables have a nucleus
-- Maximum 1 coda
 - Only nasals and unvoiced consonants in codas (excluding /h/)
-- Maximum of 2 consonants in onset
-- Only liquids in secondary onset consonants
-- No consonantal clusters joining liquids with fricatives or affricates
+- Only liquids in secondary onset consonants (e.g. disallowing /pba/)
+- No consonantal clusters joining liquids with fricatives or affricates (e.g. disallowing /sra/)
 - Clusters of two of the same consonant are combined into one (e.g. _amma_ -> _ama_)
+- /si/ and /ti/ become /ʃi/ and /t̠ʃi/
+- If the first consonant in a complex onset is a nasal, the second cannot be /w/ (e.g. disallowing /mwa/)
+- If the secondary consonant in a complex onset contains a w, the coda must contain a nasal (e.g. disallowing /pwat/)
 
 #### Stress
 
