@@ -44,7 +44,7 @@ Rirī permits both open and closed syllables, using a pattern of **(C)(C)V(C)**.
 
 General constraints:
 
-- Only nasals and unvoiced consonants in codas (excluding /h/)
+- Only nasals, unvoiced consonants and non-glottals in codas
 - Only liquids in secondary onset consonants (e.g. disallowing /pba/)
 - No consonantal clusters joining liquids with fricatives or affricates (e.g. disallowing /sra/)
 - Clusters of two of the same consonant are combined into one (e.g. _amma_ -> _ama_)
