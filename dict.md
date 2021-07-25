@@ -171,6 +171,8 @@ _suff. suffix_
 
 **sa** _pron._ I 
 
+**sak** ash, cinder, ember. **saki** _pl. fig._ remains, especially of something destroyed calamitously
+
 **sai** _pl. pron._ we
 
 **-sea** _suff._ denoting a process or state
