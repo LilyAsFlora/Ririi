@@ -75,9 +75,13 @@ _suff. suffix_
  
 # H
 
+**han** air, wind, breeze, zephyr
+
+**hanu** _infin._ to blow, drive, rush, stream, waft, wave, fan
+
 **hās** _aj._ every, each
 
-**hāsip** _pron._ everyone, everybody
+**hāship** _pron._ everyone, everybody
 
 **hāsō** everything
 
@@ -187,9 +191,9 @@ _suff. suffix_
 
 # T
 
-**ti** _pron._ you
+**chi** _pron._ you
 
-**tī** _pl. pron._ you
+**chī** _pl. pron._ you
 
 **trokē** _conj._ sometime, once
 
