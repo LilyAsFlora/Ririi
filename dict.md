@@ -173,6 +173,10 @@ _suff. suffix_
 
 **sak** ash, cinder, ember. **saki** _pl. fig._ remains, especially of something destroyed calamitously
 
+**sakek** flamethrower; any tool or weapon that harnesses fire
+
+**sakōja** place of the condemned; hell, underworld
+
 **sai** _pl. pron._ we
 
 **-sea** _suff._ denoting a process or state
