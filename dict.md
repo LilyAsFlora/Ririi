@@ -53,6 +53,8 @@ _suff. suffix_
 
 **de** _ad._ to, towards
 
+**dwūn** cave, cavern, grotto, cavity, den
+
 # E
 
 **em** _pron._ he 
@@ -94,6 +96,18 @@ _suff. suffix_
 **hīmiawān** _1._ bird, fowl, game _2._ any flying feathered creature
 
 # I
+
+**īsh** death, annihilation, demise, cessation
+
+**īshbī** _1._ grim reaper, angel of death _2._ dangerous leader or individual
+
+**īshga** twine, rope, cable, thread, string
+
+**īshkō** _aj._ deadly, dangerous, destructive, fatal, harmful, lethal, murderous, violent
+
+**īshosh** burial ground; graveyard, cemetery, boneyard, necropolis
+
+**īshuk** _1._ burial chamber; tomb, coffin, crypt _2. fig._ a situation or event likely to result in great harm or destruction
 
 **-ia** _suff._ denoting a process or state
 
@@ -148,8 +162,6 @@ _suff. suffix_
 **prēbī** spy, secret or undercover agent 
 
 **prekō** _aj._ shadowy, dim, obscured, cloudy, darkened, dingy, gloomy
-
-**prezē** cave, cavern, cavity, pothole
 
 **puru** _num. aj._ five. **onpuru** fifth
 
@@ -210,6 +222,10 @@ _suff. suffix_
 **trosō** something. **trosō āi** _inform._ you don't say
 
 # U
+
+**uk** hole, crack, crater, gap, pit, tunnel
+
+**ukek** gun, rifle, blaster
 
 # V
 
