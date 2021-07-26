@@ -165,6 +165,8 @@ _suff. suffix_
 
 **puru** _num. aj._ five. **onpuru** fifth
 
+**pwatom** chandelier, candelabrum
+
 # R
 
 **ra** _av._ where. **rajara** here and there
@@ -208,6 +210,18 @@ _suff. suffix_
 **suru** _num. aj._ eight. **onsuru** eighth
 
 # T
+
+**tom** _1._ fire, flame, blaze, inferno _2._ barrage, bombardment, hail, shelling, volley
+
+**tombī** mythical beast; dragon 
+
+**tombri** candle, torch, taper
+
+**tomkō** _aj. 1._ fiery, blazing, burning, flaming, ablaze _2._ impassioned, heated, intense, passionate, ardent
+
+**tomon** fireplace, campfire, fireside, bonfire
+
+**tomu** _infin._ to be or set on fire; burn, char, heat, ignite 
 
 **trokē** _conj._ sometime, once
 
