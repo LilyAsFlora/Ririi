@@ -85,7 +85,7 @@ Rirī includes the universal first, second, and third person pronouns. Notice th
 | Person | Subject                  | Object                        |   
 |--------|--------------------------|-------------------------------|
 | 1      | _sa_ — I                 | _sām_ — me                    |   
-| 2      | _ti_ — you               | _tiam_ — you                   |   
+| 2      | _chi_ — you               | _chiam_ — you                   |   
 | 3      | _em/ema/ano/ami_ — he/she/it/they | _emam/emām_/anoam/amiam — him/her/it/they |   
 
 #### Plural
@@ -93,7 +93,7 @@ Rirī includes the universal first, second, and third person pronouns. Notice th
 | Person | Subject      | Object         |
 |--------|--------------|----------------|
 | 1      | _sai_ — we   | _saiam_ — me   |
-| 2      | _tī_ — you   | _tiam_ — you   |
+| 2      | _tī_ — you   | _chiam_ — you   |
 | 3      | _emi (m.) / emai (f.)_ — they | _emiam (m.) / emaiam (f.)_ — them |
 
 ### Plurality
@@ -128,7 +128,7 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 |              | Singular | Plural    | Example                                                                     |
 |--------------|----------|-----------|-----------------------------------------------------------------------------|
 | Possessive   | n. + -cha | n. + -chi | _Em gapumja ashira**cha** amjagapane gaprām._ — He tidied the store's messy restroom.|
-| Instrumental | n. + -chu | n. + -che | _Ti oribumesh agruk**chu**?_ — Were you writing on impulse?                         |
+| Instrumental | n. + -chu | n. + -che | _Chi oribumesh agruk**chu**?_ — Were you writing on impulse?                         |
 | Accusative   | n. + -am  | n. + -ami | _Ema tes mishja amenane bari**ami**!_ — She also loves British accents!            |
 
 
@@ -196,9 +196,9 @@ _A **vintwa**, mōe agruipi ashumji._ — And finally, my friends went shopping.
 
 To form yes-no questions, particles _chī_, _chou_ and _chao_ may be applied at the beginning of a sentence.  _Chi_ can also be used as "or."
 
-#### Chi: neutral
+#### Chaī: neutral
 
-_Chī agresh sām?_ — Do you trust me?
+_Chaī agresh sām?_ — Do you trust me?
 
 #### Chou: expecting "yes"
 
