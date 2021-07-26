@@ -209,10 +209,6 @@ _suff. suffix_
 
 # T
 
-**chi** _pron._ you
-
-**chī** _pl. pron._ you
-
 **trokē** _conj._ sometime, once
 
 **trōch** _aj._ some, a few
@@ -254,6 +250,10 @@ _suff. suffix_
 **chakroko** _aj._ new, modern, recent
 
 **cha-** _pref._ not
+
+**chi** _pron._ you
+
+**chī** _pl. pron._ you
 
 **chosu** _infin._ to understand, grasp, interpret, register, comprehend
 
