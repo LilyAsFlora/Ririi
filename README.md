@@ -112,7 +112,7 @@ _Sa rīumge shosenami._ — I read poems (out loud).
 
 Rirī includes four basic tenses: past, present, future, and conditional. These are expressed with affixation and auxiliary verbs. 
 
-_Ema nenja kronue dwukro._ — She must have waited for a while.
+_Ema nenja krone dwukro._ — She must have waited for a while.
 
 |                              |       simple: unmarked       |        continuous: prefix o-        |          perfect: suffix -e          |   perfect continuous: prefix o-, suffix -e  |
 |:----------------------------:|:----------------------------:|:-----------------------------------:|:------------------------------------:|:-------------------------------------------:|
@@ -138,16 +138,16 @@ Personal endings are used to inflect verbs by person, allowing omission of subje
 
 |                  | Suffix | Example                       |
 |------------------|--------|-------------------------------|
-| I                | -ge      | _Puchuge_ — I think             |
-| you (s.)         | -esh   | _Puchuesh_ — You think        |
-| you (pl.)        | -āch  | _Puchuachi_ — You think       |
-| he/she/they (s.) | -ja    | _Puchuja_ - He/she/they think |
-| they (pl.)       | -ji  | _Puchuji_ — They think      |
-| it               | -o   | _Puchuo_ — It thinks        |
-| we               | -īm   | _Puchuīm_ — We think         |
+| I                | -ge      | _Puchge_ — I think             |
+| you (s.)         | -esh   | _Puchesh_ — You think        |
+| you (pl.)        | -āchi  | _Puchāchi_ — You think       |
+| he/she/they (s.) | -ja    | _Puchja_ - He/she/they think |
+| they (pl.)       | -ji  | _Puchji_ — They think      |
+| it               | -o   | _Pucho_ — It thinks        |
+| we               | -īm   | _Puchīm_ — We think         |
 
 
-_Pash**ja** enane; chū mishue**ja** etoe riami._ — She's English; she would have loved these flowers.
+_Pash**ja** enane; chū mish**ja**e ete riami._ — She's English; she would have loved these flowers.
 
 _Okronum**īm** e tiam._ — We were waiting for you.
 
@@ -190,7 +190,7 @@ _Rīuge amtwū chānam._ — I speak hard truth.
 | adverb               | -twa      | _vintwa_ — finally           |
 | weakening of meaning | -kich     | _prakich_ — girlish          |
 
-_A **vintwa**, mōe agruipi ashumji._ — And finally, my friends went shopping. 
+_A **vintwa**, moe agruipi ashumji._ — And finally, my friends went shopping. 
 
 ### Yes-no Questions
 
