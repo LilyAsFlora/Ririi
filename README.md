@@ -117,7 +117,7 @@ _Ema nenja krone dwukro._ — She must have waited for a while.
 |                              |       simple: unmarked       |        continuous: prefix o-        |          perfect: suffix -e          |   perfect continuous: prefix o-, suffix -e  |
 |:----------------------------:|:----------------------------:|:-----------------------------------:|:------------------------------------:|:-------------------------------------------:|
 |        past: suffix -m       |    _sa kronum_ — I waited    |     _sa okronum_ — I was waiting    |      _sa kronume_ — I had waited     |      _sa okronume_ — I had been waiting     |
-|       present: unmarked      |      _sa kronu_ — I wait     |     _sa okronu_ — I have waited     |      _sa krone_ — I have waited     |      _sa okrone_ — I have been waiting     |
+|       present: unmarked      |      _sa kron_ — I wait      m|     _sa okron_ — I am waiting      |      _sa krone_ — I have waited     |      _sa okrone_ — I have been waiting     |
 |      future: suffix -sh      |  _sa kronush_ — I will wait  |  _sa okronushe_ — I will be waiting |  _sa kronushe_ — I will have waited  |  _sa okronushe_ — I will have been waiting  |
 | conditional: + chū, nenu, etc| _sa chū kronu_ — I would wait| _sa chū okronu_ — I would be waiting| _sa chū kronue_ — I would have waited| _sa chū okrone_ — I would have been waiting |
 
