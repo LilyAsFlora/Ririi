@@ -18,7 +18,7 @@ Aside from the voiced alveolar tap (/ɾ/), all of Rirī's consonants are present
 |     Tap or flap     |          |             |        |     ɾ    |              |           |         |       |        |            |         |
 |      Fricative      |          |      v      |        |   s, z   |       ʃ      |           |         |       |        |            |    h    |
 |  Lateral fricative  |          |             |        |          |              |           |         |       |        |            |         |
-|     Approximant     |          |             |        |          |              |           |         |   w   |        |            |         |
+|     Approximant     |          |             |        |          |       l      |           |         |   w   |        |            |         |
 | Lateral approximant |          |             |        |          |              |           |         |       |        |            |         |
 |      Affricate      |          |             |        |          |     t̠ʃ, d̠ʒ   |           |         |       |        |            |         |
 
