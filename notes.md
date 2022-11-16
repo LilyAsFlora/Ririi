@@ -14,7 +14,7 @@
 
 **tom** associated with fire  
 
-**vid** vision  
+**vid** vision, presence
 
 # Unbound Morphemes  
 
