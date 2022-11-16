@@ -33,19 +33,13 @@ _suff. suffix_
 
 **an** _num. aj_ three. **onan** third
 
-**-ane** _suff._ characterised by
-
 **ano** _aj._ that
-
-**-ap** _suff._ entity associated with
 
 # B
 
 **bās** smile, grin, beam, smirk
 
 **bāsu** _infin._ _1._ to smile, put on a positive expression _2._ to be friendly towards
-
-**-bī** _suff._ entity associated with
 
 **bīzum** _num. aj_ four. **onbīzum** fourth
 
@@ -109,10 +103,6 @@ _suff. suffix_
 
 **īshuk** _1._ burial chamber; tomb, coffin, crypt _2. fig._ a situation or event likely to result in great harm or destruction
 
-**-ia** _suff._ denoting a process or state
-
-**-ip** _suff._ entity associated with
-
 # K
 
 **kāro** _num. aj._ seven. **onkāro** seventh
@@ -120,8 +110,6 @@ _suff. suffix_
 **kiri** _num. aj._ six. **onkiri** sixth
 
 **ko** _pron._ who, whom
-
-**-kō** _suff._ characterised by
 
 **kōpu** _num. aj._ two. **onkōpu** second
 
@@ -143,17 +131,12 @@ _suff. suffix_
 
 # N
 
-**ne-** _pref._ not
-
 # O
 
 **oju** _infin._ to watch, observe, oversee, gaze, scope
 
-**-on** _suff._ place, area
 
 **onji** _1._ place, area, point, site, spot, venue, zone _2._ rank, class, division, grade, status
-
-**-os** _suff._ denoting a process or state
 
 # P
 
@@ -194,8 +177,6 @@ _suff. suffix_
 **sakōja** place of the condemned; hell, underworld
 
 **sai** _pl. pron._ we
-
-**-sea** _suff._ denoting a process or state
 
 **sen** world, cosmos, universe, realm
 
@@ -259,7 +240,6 @@ _suff. suffix_
 
 # Z
 
-**-za** _suff._ characterised by
 
 # CH
 
@@ -280,8 +260,6 @@ _suff. suffix_
 # J
 
 **ja** no, not
-
-**ja-** _pref._ not
 
 **jasen** _pron._ nobody, no-one
 
