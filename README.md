@@ -8,7 +8,7 @@ Rirī is agglutinative and phonetically consistent. You can access a dictionary 
 
 ### Consonants
 
-Aside from the voiced alveolar tap (/ɾ/), all of Rirī's consonants are present in English. This wasn't always the case. As a Polish speaker, Rirī originally included retroflex affricates /ʈʂ/ and /ɖʐ/ (alongside retroflex fricative /ʂ/) to add variety from English. I removed them later due to their unaesthetic sounds.
+Aside from the voiced alveolar tap (/ɾ/), all of Rirī's consonants are present in English. This wasn't always the case. As a Polish speaker, I originally included retroflex affricates /ʈʂ/ and /ɖʐ/ (alongside retroflex fricative /ʂ/) for variety. I removed them later because I decided they sound too harsh for a soft-spoken language.
 
 |                     | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Epiglottal | Glottal |
 |:-------------------:|:--------:|:-----------:|:------:|:--------:|:------------:|:---------:|:-------:|:-----:|:------:|:----------:|:-------:|
@@ -40,14 +40,14 @@ Rirī features the typical five-vowel system.
 
 #### Syllable Shape
 
-Rirī permits both open and closed syllables, using a pattern of **(C)(C)V(C)**.
+Rirī permits both open and closed syllables: **(C)(C)V(C)**.
 
 General constraints:
 
 - Only nasals, unvoiced consonants and non-glottals in codas
 - Only approximants in secondary onset consonants (e.g. disallowing /pba/)
 - Clusters of two of the same consonant are combined into one (e.g. _amma_ -> _ama_)
-- /si/ and /ti/ become /ʃi/ and /t̠ʃi/
+- "ci" is pronounced /t̠ʃi/
 - If the first consonant in a complex onset is a nasal, the second cannot be /w/ (e.g. disallowing /mwa/)
 - If the secondary consonant in a complex onset contains a w, the coda must contain a nasal (e.g. disallowing /pwat/)
 - No consonantal clusters combining obstruents (e.g. disallowing /apta/)
@@ -55,7 +55,7 @@ General constraints:
 
 #### Stress
 
-Rirī lacks lexical stress. However, in poetry or song, speakers may wish to apply patterns of stressed and unstressed syllables to induce the effect of a rhythmic meter.
+Rirī lacks lexical stress. However, in poetry or song, speakers may wish to apply patterns of stressed and unstressed syllables to evoke a rhythmic [meter](https://en.wikipedia.org/wiki/Metre_(poetry)).
 
 ## Syntax
 
