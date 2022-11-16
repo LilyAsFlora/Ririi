@@ -137,6 +137,8 @@ _suff. suffix_
 
 # M
 
+**madora**  _n._ a dream one experiences while asleep
+
 **michu** _infin._ to go by, pass, proceed, cross, progress
 
 # N
