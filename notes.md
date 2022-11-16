@@ -18,11 +18,13 @@
 
 # Unbound Morphemes  
 
-**ja**, **cha** negation, opposite  
+**ja**, **cha**, **ne** negation, opposite  
 
-**za** characterised by  
+**sa**, **ane**, **kō** characterised by  
 
-**sea**, **os** denoting process or state  
+**sea**, **so** denoting process or state  
 
 **on** place, area  
+
+**ap**, **pī** entity associated with
 
