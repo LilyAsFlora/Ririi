@@ -222,4 +222,8 @@ _X chi Y_ means you may have X or Y or both.
 
 _Chi X chi Y_ means you can have only either X or Y, not both.
 
+## Writing
+
+Rirī makes use of the Latin alphabet, similarly to English. Note the postalveolar affricate (t̠ʃ) can show up as both _c_ or _ch_. 
+
 ## Examples
