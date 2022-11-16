@@ -43,6 +43,10 @@ _suff. suffix_
 
 **bīzum** _num. aj_ four. **onbīzum** fourth
 
+# C
+
+**cora** _av._ infrequently, seldom, rarely, hardly ever
+
 # D
 
 **de** _ad._ to, towards
@@ -111,6 +115,8 @@ _suff. suffix_
 
 **ko** _pron._ who, whom
 
+**kora** _av._ often, frequently
+
 **kōpu** _num. aj._ two. **onkōpu** second
 
 **kron** _1._ time(span), moment _2._ _fig._ the unstoppable marching of time
@@ -130,6 +136,8 @@ _suff. suffix_
 **michu** _infin._ to go by, pass, proceed, cross, progress
 
 # N
+
+**nōla** _av._ sometimes, occasionally (with unspecified frequency)
 
 # O
 
