@@ -44,7 +44,7 @@ Rirī permits both open and closed syllables: **(C)(C)V(C)**.
 
 General constraints:
 
-- Only nasals, unvoiced consonants and non-glottals in codas, with the exception of /l/
+- Only nasals, unvoiced consonants and non-glottals in codas
 - Only approximants and taps in secondary onset consonants (e.g. disallowing /pba/)
 - Clusters of two of the same consonant are combined into one (e.g. _amma_ -> _ama_)
 - If the first consonant in a complex onset is a nasal, the second cannot be /w/ (e.g. disallowing /mwa/)
@@ -125,7 +125,7 @@ Personal endings are used to inflect verbs by person, allowing omission of subje
 
 |                  | Suffix | Example                       |
 |------------------|--------|-------------------------------|
-| I                | -el      | _Puchel_ — I think             |
+| I                | -en      | _Puchen_ — I think             |
 | you (s.)         | -esh   | _Puchesh_ — You think        |
 | you (pl.)        | -īn  | _Puchīn_ — You think       |
 | he/she/they (s.) | -ja    | _Puja_ - He/she/they think |
