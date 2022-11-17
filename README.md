@@ -40,16 +40,15 @@ Rirī features the typical five-vowel system.
 
 #### Syllable Shape
 
-Rirī permits both open and closed syllables: **(C)(C)V(C)**.
+Rirī permits both open and closed syllables: **(C)(C)V(C)**, though open syllables are more common.
 
 General constraints:
 
 - Only nasals, unvoiced consonants and non-glottals in codas
-- Only approximants and taps in secondary onset consonants (e.g. disallowing /pba/)
 - Clusters of two of the same consonant are combined into one (e.g. _amma_ -> _ama_)
 - If the first consonant in a complex onset is a nasal, the second cannot be /w/ (e.g. disallowing /mwa/)
 - If the secondary consonant in a complex onset contains a w, the coda must contain a nasal (e.g. disallowing /pwat/)
-- No consonantal clusters combining obstruents (e.g. disallowing /apta/)
+- Obstruents can only cluster with sonorants
 - The first consonant in a complex onset must be an obstruent (e.g. disallowing mra)
 
 #### Stress
@@ -61,10 +60,6 @@ Rirī lacks lexical stress. However, in poetry or song, speakers may wish to app
 ### Word Order
 
 Generally, Rirī uses a default word order of SVO (subject-verb-object). This may be changed for poetic effect. Possessors and adjectives may come before or after the noun they modify, whereas adpositions and auxiliary verbs usually precede. 
-
-### Existentials
-
-To say there is something, use the verb _pashu_ (to be). 
 
 ## Grammar
 
@@ -83,9 +78,9 @@ Rirī includes the universal first, second, and third person pronouns. Notice th
 #### Plural
 
 | Person | Subject      | Object         |
-|--------|--------------|----------------|
-| 1      | _sai_ — we   | _saiam_ — me   |
-| 2      | _cī_ — you   | _chiam_ — you   |
+|--------|--------------|----------------|iō
+| 1      | _sai_ — we   | _saī_ — me   |
+| 2      | _cī_ — you   | _cīm_ — you   |
 | 3      | _emi (m.) / emai (f.)_ — they | _emiam (m.) / emaiam (f.)_ — them |
 
 ### Plurality
@@ -103,25 +98,25 @@ Rirī includes four tenses: past, present, future, and conditional. These are ex
 
 |                              |       simple: unmarked       |        continuous: prefix o-        |          perfect: suffix -e          |   perfect continuous: prefix o-, suffix -e  |
 |:----------------------------:|:----------------------------:|:-----------------------------------:|:------------------------------------:|:-------------------------------------------:|
-|        past: suffix -m       |    _sa kronum_ — I waited    |     _sa okronum_ — I was waiting    |      _sa kronume_ — I had waited     |      _sa okronume_ — I had been waiting     |
+|        past: suffix -m       |    _sa kronum_ — I waited    |     _sa okronum_ — I was waiting    |      _sa kronme_ — I had waited     |      _sa okronme_ — I had been waiting     |
 |       present: unmarked      |      _sa kron_ — I wait      m|     _sa okron_ — I am waiting      |      _sa krone_ — I have waited     |      _sa okrone_ — I have been waiting     |
-|      future: suffix -sh      |  _sa kronush_ — I will wait  |  _sa okronushe_ — I will be waiting |  _sa kronushe_ — I will have waited  |  _sa okronushe_ — I will have been waiting  |
-| conditional: + chū, nenu, etc| _sa chū kronu_ — I would wait| _sa chū okronu_ — I would be waiting| _sa chū kronue_ — I would have waited| _sa chū okrone_ — I would have been waiting |
+|      future: suffix -sh      |  _sa kronush_ — I will wait  |  _sa okronshe_ — I will be waiting |  _sa kronshe_ — I will have waited  |  _sa okronshe_ — I will have been waiting  |
+| conditional: + chū, nenu, etc| _sa chū kronu_ — I would wait| _sa chū okronu_ — I would be waiting| _sa chū krone_ — I would have waited| _sa chū okrone_ — I would have been waiting |
 
 ### Noun Case
 
-Rirī features three marked cases: possessive, instrumental, and accusative. They are indicated with suffixes. 
+Rirī features three marked cases: possessive, instrumental, and accusative. They are indicated with suffixes. If the final syllable of a noun and its corresponding case inflection have matching rimes, the inflection replaces the syllable. To illustrate: the possessive case of *madora* ("dream") is *madola*, not *madorala*.
 
 |              | Singular | Plural    | Example                                                                     |
 |--------------|----------|-----------|-----------------------------------------------------------------------------|
-| Possessive   | n. + -la | n. + -li | _Em gapumja ashi**la** amjagapane gaprām._ — He tidied the store's messy restroom.|
-| Instrumental | n. + -chu | n. + -che | _Chi oribumesh agru**chu**?_ — Were you writing on impulse?                         |
-| Accusative   | n. + -am  | n. + -mi | _Ema tes mishja amenane bari**mi**!_ — She also loves British accents!            |
+| Possessive   | n. + -la | n. + -li | Tomla               |
+| Instrumental | n. + -chu | n. + -chi | |
+| Accusative   | n. + -am  | n. + -mi | |
 
 
 ### Personal verb endings
 
-Personal endings are used to inflect verbs by person, allowing omission of subject pronouns. This is one of my favourite grammatical features of any language.
+Personal endings are used to inflect verbs by person, allowing omission of subject pronouns.
 
 |                  | Suffix | Example                       |
 |------------------|--------|-------------------------------|
@@ -141,8 +136,6 @@ _Okronum**īm** e tiam._ — We were waiting for you.
 ### Correlatives
 
 A table of common correlatives, all of which are affected by noun cases when used as pronouns.
-
-# OUTDATED
 
 |           |     query    |      this     |      that     |         some         |         no        |          every         |
 |:---------:|:------------:|:-------------:|:-------------:|:--------------------:|:-----------------:|:----------------------:|
