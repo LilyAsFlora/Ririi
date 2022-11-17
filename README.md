@@ -2,7 +2,7 @@
 
 Rirī is a personal [artistic language](https://en.wikipedia.org/wiki/Artistic_language) (*artlang* for short) designed for art, poetry, song, and diaries. Stemming from "ri", "flower" and "rī", "speech", its name roughly translates to "flower speech" or "floral language".
 
-Rirī is agglutinative and phonetically consistent. You can access a dictionary [here](https://github.com/LilyAsFlora/Ririi/blob/master/dict.md).
+Rirī is inflected and phonetically consistent. You can access a dictionary [here](https://github.com/LilyAsFlora/Ririi/blob/master/dict.md).
 
 ## Phonology
 
@@ -44,10 +44,9 @@ Rirī permits both open and closed syllables: **(C)(C)V(C)**.
 
 General constraints:
 
-- Only nasals, unvoiced consonants and non-glottals in codas
-- Only approximants in secondary onset consonants (e.g. disallowing /pba/)
+- Only nasals, unvoiced consonants and non-glottals in codas, with the exception of /l/
+- Only approximants and taps in secondary onset consonants (e.g. disallowing /pba/)
 - Clusters of two of the same consonant are combined into one (e.g. _amma_ -> _ama_)
-- "ci" is pronounced /t̠ʃi/
 - If the first consonant in a complex onset is a nasal, the second cannot be /w/ (e.g. disallowing /mwa/)
 - If the secondary consonant in a complex onset contains a w, the coda must contain a nasal (e.g. disallowing /pwat/)
 - No consonantal clusters combining obstruents (e.g. disallowing /apta/)
@@ -63,16 +62,9 @@ Rirī lacks lexical stress. However, in poetry or song, speakers may wish to app
 
 Generally, Rirī uses a default word order of SVO (subject-verb-object). This may be changed for poetic effect. Possessors and adjectives may come before or after the noun they modify, whereas adpositions and auxiliary verbs usually precede. 
 
-_Ema vidumja amam wariuam._ — She saw the small sign.
-
-_Waruiam amam vidumja ema._ — _lit._ The sign small saw she. (same meaning as above)
-
 ### Existentials
 
 To say there is something, use the verb _pashu_ (to be). 
-
-_Ane pashuo onjiam._ — There is a place.
-__
 
 ## Grammar
 
@@ -86,14 +78,14 @@ Rirī includes the universal first, second, and third person pronouns. Notice th
 |--------|--------------------------|-------------------------------|
 | 1      | _sa_ — I                 | _sām_ — me                    |   
 | 2      | _chi_ — you               | _chiam_ — you                   |   
-| 3      | _em/ema/ano/ami_ — he/she/it/they | _emam/emām_/anoam/amiam — him/her/it/they |   
+| 3      | _em/ema/ano/ami_ — he/she/it/they | _emam/emām_/anam/amam — him/her/it/they |   
 
 #### Plural
 
 | Person | Subject      | Object         |
 |--------|--------------|----------------|
 | 1      | _sai_ — we   | _saiam_ — me   |
-| 2      | _tī_ — you   | _chiam_ — you   |
+| 2      | _cī_ — you   | _chiam_ — you   |
 | 3      | _emi (m.) / emai (f.)_ — they | _emiam (m.) / emaiam (f.)_ — them |
 
 ### Plurality
@@ -103,16 +95,11 @@ Singular nouns are unmarked. Plurals are marked with suffixes -i or -ī, dependi
 - If the noun ends with a consonant, the suffix -i is appended
 - If the noun ends with a vowel, the vowel is replaced with the suffix -i
 - If the noun ends with -i, it is replaced with the suffix -ī
-
-_Sa rīumge shosenam._ — I read (a) poem (out loud).
-
-_Sa rīumge shosenami._ — I read poems (out loud).
+- If the noun already ends with -i, it can be left alone. Optionally, plurality can be enforced with an auxiliary word (e.g. an adjective meaning "many").
 
 ### Tense
 
-Rirī includes four basic tenses: past, present, future, and conditional. These are expressed with affixation and auxiliary verbs. 
-
-_Ema nenja krone dwukro._ — She must have waited for a while.
+Rirī includes four tenses: past, present, future, and conditional. These are expressed with affixation and auxiliary verbs. 
 
 |                              |       simple: unmarked       |        continuous: prefix o-        |          perfect: suffix -e          |   perfect continuous: prefix o-, suffix -e  |
 |:----------------------------:|:----------------------------:|:-----------------------------------:|:------------------------------------:|:-------------------------------------------:|
@@ -127,9 +114,9 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 
 |              | Singular | Plural    | Example                                                                     |
 |--------------|----------|-----------|-----------------------------------------------------------------------------|
-| Possessive   | n. + -cha | n. + -chi | _Em gapumja ashira**cha** amjagapane gaprām._ — He tidied the store's messy restroom.|
-| Instrumental | n. + -chu | n. + -che | _Chi oribumesh agruk**chu**?_ — Were you writing on impulse?                         |
-| Accusative   | n. + -am  | n. + -ami | _Ema tes mishja amenane bari**ami**!_ — She also loves British accents!            |
+| Possessive   | n. + -la | n. + -li | _Em gapumja ashi**la** amjagapane gaprām._ — He tidied the store's messy restroom.|
+| Instrumental | n. + -chu | n. + -che | _Chi oribumesh agru**chu**?_ — Were you writing on impulse?                         |
+| Accusative   | n. + -am  | n. + -mi | _Ema tes mishja amenane bari**mi**!_ — She also loves British accents!            |
 
 
 ### Personal verb endings
@@ -157,16 +144,13 @@ A table of common correlatives, all of which are affected by noun cases when use
 
 |           |     query    |      this     |      that     |         some         |         no        |          every         |
 |:---------:|:------------:|:-------------:|:-------------:|:--------------------:|:-----------------:|:----------------------:|
-| adjective | _ga_ — which |  _eto_ — this |  _ano_ — that |    _trōch_ — some   |     _ja_ — no     |     _hās_ — every     |
-|   person  |  _ko_ — who  |  _eto_ — this |  _ano_ — that |   _troip_ — someone  |  _jaip_ — no-one  |   _hāsip_ — everyone  |
-|   thing   | _sō_ — what |  _eto_ — this |  _ano_ — that | _trosō_ — something | _jasō_ — nothing |  _hāsō_ — everything |
-|   place   | _ra_ — where | _abon_ — here | _ane_ — there |  _trora_ — somewhere |  _jara_ — nowhere | _hāsura_ — everywhere |
-|    time   | _kē_ — when |  _tera_ — now |  _ana_ — then |  _trokē_ — sometime |  _jakē_ — never  |    _hākē_ — always   |
-|    way    |  _vā_ — how |               |  _vem_ — thus |  _trovā_ — somehow  |                   |                        |
+| adjective | _ga_ — which |  _eto_ — this |  _ano_ — that |    _tōch_ — some   |     _ja_ — no     |     _hās_ — every     |
+|   person  |  _ko_ — who  |  _eto_ — this |  _ano_ — that |   _tore_ — someone  |  _jare_ — no-one  |   _hāsip_ — everyone  |
+|   thing   | _sō_ — what |  _eto_ — this |  _ano_ — that | _tosō_ — something | _jasō_ — nothing |  _hāsō_ — everything |
+|   place   | _ra_ — where | _abon_ — here | _ane_ — there |  _tora_ — somewhere |  _jara_ — nowhere | _hāsura_ — everywhere |
+|    time   | _kē_ — when |  _tera_ — now |  _ana_ — then |  _tokē_ — sometime |  _jakē_ — never  |    _hākē_ — always   |
+|    way    |  _vā_ — how |               |  _vem_ — thus |  _tovā_ — somehow  |                   |                        |
 |   reason  |  _nē_ — why |               |               |                      |                   |                        |
-
-
-_Vitesh, shosenge **hākē** mishchu._ — You see, I always write with passion.
 
 ### Adjectives
 
@@ -227,3 +211,7 @@ _Chi X chi Y_ means you can have only either X or Y, not both.
 Rirī makes use of the Latin alphabet, similarly to English. Note the postalveolar affricate (t̠ʃ) can show up as both _c_ or _ch_. 
 
 ## Examples
+
+I know a girl who speaks English well. — _Lage mamī ko volce rī ānon._
+
+No one contributed more to the understanding of dreams than Freud. — _Jare ētakum jamlu madoli chosam nin Freud._
