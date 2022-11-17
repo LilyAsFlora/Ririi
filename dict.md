@@ -25,6 +25,8 @@ _suff. suffix_
 
 **āi** yes
 
+**ānon** *n.* the English language
+
 **am** _aj._ _1._ small, meager, miniature, tiny, slight, little _2._ unimportant, insignificant, negligible, trivial
 
 **ami** _sg. pron._ they
@@ -64,6 +66,8 @@ _suff. suffix_
 **emi** _pl. m. pron._ they
 
 **eto** _aj. 1._ this _2. pron._ it
+
+**ētaku** _inf._ to contribute to; aid, supply
 
 # G
 
@@ -144,6 +148,8 @@ _suff. suffix_
 # N
 
 **nōla** _av._ sometimes, occasionally (with unspecified frequency)
+
+**nin** *conj.* used to introduce the second element in a comparison; than
 
 # O
 
@@ -246,6 +252,8 @@ _suff. suffix_
 
 **vimgokuchi** _1._ caterpillar, worm _2. fig._ one which is like a flower waiting to blossom 
 
+**volce** *av.* effectively, successfully, well
+
 # W
 
 **wān** drone, robot, automation
@@ -274,6 +282,10 @@ _suff. suffix_
 # J
 
 **ja** no, not
+
+**jam** *1. aj.* big, large, huge, great *2. aj.* intimidating or menacing in a predatory manner
+
+**jamlu** *av.* more, to a greater extent
 
 **jasen** _pron._ nobody, no-one
 
