@@ -78,7 +78,7 @@ Rirī includes the universal first, second, and third person pronouns. Notice th
 #### Plural
 
 | Person | Subject      | Object         |
-|--------|--------------|----------------|iō
+|--------|--------------|----------------|
 | 1      | _sai_ — we   | _saī_ — me   |
 | 2      | _cī_ — you   | _cīm_ — you   |
 | 3      | _emi (m.) / emai (f.)_ — they | _emiam (m.) / emaiam (f.)_ — them |
