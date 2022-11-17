@@ -129,6 +129,10 @@ _suff. suffix_
 
 **ku** _ad._ at, in
 
+# L
+
+**lazu** _infin._ to know (someone personally), to be familiar with
+
 # M
 
 **madora**  _n._ a dream one experiences while asleep
