@@ -95,7 +95,7 @@ Singular nouns are unmarked. Plurals are marked with suffixes -i or -ī, dependi
 - If the noun ends with a consonant, the suffix -i is appended
 - If the noun ends with a vowel, the vowel is replaced with the suffix -i
 - If the noun ends with -i, it is replaced with the suffix -ī
-- If the noun already ends with -i, it can be left alone. Optionally, plurality can be enforced with an auxiliary word (e.g. an adjective meaning "many").
+- If the noun already ends with -ī, it can be left alone. Optionally, plurality can be enforced with an auxiliary word (e.g. an adjective meaning "many").
 
 ### Tense
 
