@@ -139,6 +139,8 @@ _suff. suffix_
 
 **michu** _infin._ to go by, pass, proceed, cross, progress
 
+**mīa** _1. n._ a female child (girl) _1. n._ a young woman 
+
 # N
 
 **nōla** _av._ sometimes, occasionally (with unspecified frequency)
