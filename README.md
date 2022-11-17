@@ -110,8 +110,8 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 |              | Singular | Plural    | Example                                                                     |
 |--------------|----------|-----------|-----------------------------------------------------------------------------|
 | Possessive   | n. + -la | n. + -li | Tomla               |
-| Instrumental | n. + -chu | n. + -chi | |
-| Accusative   | n. + -am  | n. + -mi | |
+| Instrumental | n. + -chu | n. + -chi | a|
+| Accusative   | n. + -am  | n. + -mi | a|
 
 
 ### Personal verb endings
@@ -140,9 +140,9 @@ A table of common correlatives, all of which are affected by noun cases when use
 |           |     query    |      this     |      that     |         some         |         no        |          every         |
 |:---------:|:------------:|:-------------:|:-------------:|:--------------------:|:-----------------:|:----------------------:|
 | adjective | _ga_ — which |  _eto_ — this |  _ano_ — that |    _tōch_ — some   |     _ja_ — no     |     _hās_ — every     |
-|   person  |  _ko_ — who  |  _eto_ — this |  _ano_ — that |   _tore_ — someone  |  _jare_ — no-one  |   _hāsip_ — everyone  |
+|   person  |  _ko_ — who  |  _eto_ — this |  _ano_ — that |   _tore_ — someone  |  _jare_ — no-one  |   _hāsi_ — everyone  |
 |   thing   | _sō_ — what |  _eto_ — this |  _ano_ — that | _tosō_ — something | _jasō_ — nothing |  _hāsō_ — everything |
-|   place   | _ra_ — where | _abon_ — here | _ane_ — there |  _tora_ — somewhere |  _jara_ — nowhere | _hāsura_ — everywhere |
+|   place   | _ra_ — where | _abon_ — here | _ane_ — there |  _tora_ — somewhere |  _jara_ — nowhere | _hāsu_ — everywhere |
 |    time   | _kē_ — when |  _tera_ — now |  _ana_ — then |  _tokē_ — sometime |  _jakē_ — never  |    _hākē_ — always   |
 |    way    |  _vā_ — how |               |  _vem_ — thus |  _tovā_ — somehow  |                   |                        |
 |   reason  |  _nē_ — why |               |               |                      |                   |                        |
