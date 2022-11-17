@@ -28,3 +28,5 @@
 
 **ap**, **pī** entity associated with
 
+**lu** indicating an adverb
+
