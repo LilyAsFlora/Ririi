@@ -125,11 +125,11 @@ Personal endings are used to inflect verbs by person, allowing omission of subje
 
 |                  | Suffix | Example                       |
 |------------------|--------|-------------------------------|
-| I                | -ge      | _Puchge_ — I think             |
+| I                | -el      | _Puchel_ — I think             |
 | you (s.)         | -esh   | _Puchesh_ — You think        |
-| you (pl.)        | -āchi  | _Puchāchi_ — You think       |
-| he/she/they (s.) | -ja    | _Puchja_ - He/she/they think |
-| they (pl.)       | -ji  | _Puchji_ — They think      |
+| you (pl.)        | -īn  | _Puchīn_ — You think       |
+| he/she/they (s.) | -ja    | _Puja_ - He/she/they think |
+| they (pl.)       | -ji  | _Puji_ — They think      |
 | it               | -o   | _Pucho_ — It thinks        |
 | we               | -īm   | _Puchīm_ — We think         |
 
@@ -141,6 +141,8 @@ _Okronum**īm** e tiam._ — We were waiting for you.
 ### Correlatives
 
 A table of common correlatives, all of which are affected by noun cases when used as pronouns.
+
+# OUTDATED
 
 |           |     query    |      this     |      that     |         some         |         no        |          every         |
 |:---------:|:------------:|:-------------:|:-------------:|:--------------------:|:-----------------:|:----------------------:|
@@ -162,19 +164,6 @@ _Rīuge amtwū chānam._ — I speak hard truth.
 |---------------------|----------------------------|-----------------------------|
 | _gaprane_ — clean   | _gapranhu_ — cleaner     | _gapranshe_ — cleanest      |
 | _rīuch_ — talkative | _rīuchhu_ — more talkative | _rīuchshe_ — most talkative |
-
-#### Useful Inflections
-
-| Meaning              | Affix     | Example                      |
-|----------------------|-----------|------------------------------|
-| opposite; not        | ja-, cha- | _jagroane_ — quiet, not loud |
-| lacking              | -mev      | _agruipmev_ — friendless     |
-| surfeit              | -nam      | _mishnam_ — lovely           |
-| able to              | -meu      | _eshmeu_ — edible            |
-| adverb               | -twa      | _vintwa_ — finally           |
-| weakening of meaning | -kich     | _prakich_ — girlish          |
-
-_A **vintwa**, moe agruipi ashumji._ — And finally, my friends went shopping. 
 
 ### Yes-no Questions
 
