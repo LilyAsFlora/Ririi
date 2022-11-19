@@ -118,6 +118,8 @@ _quant. quantifier_
 
 **lazu** _infin._ to know (someone personally), to be familiar with
 
+**lu** *infin.* to be, exist
+
 # M
 
 **madora**  _n._ a dream (one experiences while asleep)
