@@ -2,28 +2,25 @@
 _ad. adposition_  
 _aj. adjective_  
 _av. adverb_  
-_aux. auxiliary (verb)_  
+_aux. auxiliary_  
 _conj. conjunction_  
-_derog. derogatory_  
-_f. feminine_  
+_derog. derogatory_   
 _fig. figurative_  
 _infin. infinitive_  
 _inform. informal_  
-_m. masculine_  
-_n. neuter_  
+*interj. interjection*
 _num. numeral_  
-_pl. plural_  
+*pl. plural*
 _prefix. prefix_  
 _pron. pronoun_  
 _quant. quantifier_  
-_sg. singular_  
-_suff. suffix_  
+*sg. singular*
 
 # A
 
 **a** _conj._ and. a... a... both... and. **a āi** even so
 
-**āi** yes
+**āi** *1. interj.* yes; an expression of agreement *2. av.* in this way, like this
 
 **ānon** *n.* the English language
 
@@ -33,11 +30,11 @@ _suff. suffix_
 
 **amī** _pl. n. pron._ they 
 
-**ano** _aj._ that
+**ano** _aj._ that, yonder
 
 # B
 
-**bās** smile, grin, beam, smirk
+**bās** *n.* smile, grin, beam, smirk
 
 **bāsu** _infin._ _1._ to smile, put on a positive expression _2._ to be friendly towards
 
@@ -75,47 +72,41 @@ _suff. suffix_
  
 # H
 
-**han** air, wind, breeze, zephyr
+**han** *n.* air, wind, breeze, zephyr
 
 **haku** _infin._ to blow, drive, rush, stream, waft, wave, fan
 
 **hīmu** _infin._ _1._ to rule, govern, oversee, regulate, supervise _2._  to control, command, conduct, handle, manage, manipulate
 
-**hīmia** government, authority, ministry, regime, union
+**hīmia** *n.* government, authority, ministry, regime, union
 
 **hīmi** ruler, emperor
 
-**hīmiawān** _1._ bird, fowl, game _2._ any flying feathered creature
+**hīmiawān** _1. n._ bird, fowl, game _2. n._ any flying feathered creature
 
 # I
 
-**īsh** death, annihilation, demise, cessation
+**īsh** *n.* death, annihilation, demise, cessation
 
-**īshbī** _1._ grim reaper, angel of death _2._ dangerous leader or individual
+**īshbī** *n.* _1._ grim reaper, angel of death _2._ dangerous leader or individual
 
-**īshga** twine, rope, cable, thread, string
+**īshga** *n.* twine, rope, cable, thread, string
 
 **īshkō** _aj._ deadly, dangerous, destructive, fatal, harmful, lethal, murderous, violent
 
-**īsho** burial ground; graveyard, cemetery, boneyard, necropolis
+**īsho** *n.* burial ground; graveyard, cemetery, boneyard, necropolis
 
 **īshuk** _1._ burial chamber; tomb, coffin, crypt _2. fig._ a situation or event likely to result in great harm or destruction
 
 # K
 
-**kāro** _num. aj._ seven. **onkāro** seventh
-
-**kiri** _num. aj._ six. **onkiri** sixth
-
 **ko** _pron._ who, whom
 
 **kora** _av._ often, frequently
 
-**kōpu** _num. aj._ two. **onkōpu** second
+**kron** _1. n._ time(span), moment _2._ _fig._ the unstoppable marching of time
 
-**kron** _1._ time(span), moment _2._ _fig._ the unstoppable marching of time
-
-**kronga** clock, sundial, watch; any timekeeping device
+**kronga** *n.* clock, sundial, watch; any timekeeping device
 
 **kronu** _infin._ to (a)wait, stall, stick around, stand by
 
@@ -155,7 +146,7 @@ _suff. suffix_
 
 **prē** _1._ shadow, shade, trace _2. fig._ one who is like a shadow; an unknown or enigmatic entity, especially difficult to identify
 
-**prēbī** spy, secret or undercover agent 
+**prēbī** *n.* spy; secret or undercover agent 
 
 **prekō** _aj._ shadowy, dim, obscured, cloudy, darkened, dingy, gloomy
 
@@ -174,29 +165,29 @@ _suff. suffix_
 
 **riu** _infin._ to speak, say, utter, verbalise, word, convey, express, tell, voice
 
-**rīsum** word, term, unit of language
+**rīsum** *n.* word, term
 
-**rīzē** secret, confidential or classified information, enigma
+**rīze** *n.* secret, confidential or classified information
 
 # S
 
 **sa** _pron._ I 
 
-**sak** ash, cinder, ember. **saki** _pl. fig._ remains, especially of something destroyed calamitously
+**sak** *n.* ash, cinder, ember. **saki** _pl. fig._ remains (of something killed or destroyed) 
 
-**sakek** flamethrower; any tool or weapon that harnesses fire
+**sakek** *n.* flamethrower; any tool or weapon that harnesses fire
 
-**sakōja** place of the condemned; hell, underworld
+**sakōja** *n.* place of the condemned; hell, underworld
 
 **sai** _pl. pron._ we
 
-**sen** world, cosmos, universe, realm
+**sen** *n.* world, cosmos, universe, realm
 
 **sō** _pron._ what. **sō a sō** _inform._ whatever, I don't care
 
-**sum** part, component, chunk, element, factor, piece, unit, segment
+**sum** *n* part, component, element (of something larger)
 
-**sumka** _1._ knife, blade, dagger, cutter, machete, sword _2._ any tool used to divide an object into segments
+**sumka** *n.* _1._ knife, blade, dagger, cutter, machete, sword _2._ any tool used to divide an object into segments
 
 **sumu** _infin._ to divide, break down, cut, partition, segregate, split, subdivide, chop, tear
 
@@ -206,13 +197,13 @@ _suff. suffix_
 
 **tom** _1._ fire, flame, blaze, inferno _2._ barrage, bombardment, volley
 
-**tombī** mythical beast; dragon 
+**tombī** *n.* mythical beast; a dragon 
 
-**tombri** candle, torch, taper
+**tombri** *n.* candle, torch, taper
 
 **tomkō** _aj. 1._ fiery, blazing, burning, flaming, ablaze _2._ impassioned, heated, intense, passionate, ardent
 
-**tomon** fireplace, campfire, fireside, bonfire
+**tomon** *n.* fireplace, campfire, fireside, bonfire
 
 **tomu** _infin._ to be or set on fire; burn, char, heat, ignite 
 
@@ -222,31 +213,31 @@ _suff. suffix_
 
 **troip** _pron._ someone, somebody
 
-**trosō** something. **trosō āi** _inform._ you don't say
+**tosō** *n.* something. **tosō āi** _inform._ you don't say
 
 # U
 
-**uk** hole, crack, crater, gap
+**uk** *n.* hole, crack, crater, gap
 
-**uke** gun, rifle, blaster; generic term for a ranged weapon
+**uke** *n.* gun, rifle, blaster; generic term for a ranged weapon
 
 # V
 
-**vid** eye, eyeball, peeper
+**vid** *n.* eye, eyeball, peeper
 
-**viki** _pl._ glasses, frames, goggles, rims. **vidka** telescope
+**viki** *n.* _pl._ glasses, frames, goggles, rims. **vidka** telescope
 
 **vidu** _infin._ to see, look (at), observe, regard, spot, view
 
 **vim** _aj._ many, a lot, much, a good / great deal
 
-**vigochi** _1._ caterpillar, worm _2. fig._ one which is like a flower waiting to blossom 
+**vigochi** *n.* _1._ caterpillar, worm _2. fig._ one which is like a flower waiting to blossom 
 
 **volce** *av.* effectively, successfully, well
 
 # W
 
-**wān** drone, robot, automation
+**wān** *n.* drone, robot, automation
 
 **wankō** _aj._ robotic, robot-like
 
@@ -263,17 +254,17 @@ _suff. suffix_
 
 **chosu** _infin._ to understand, grasp, interpret, register, comprehend
 
-**choson** laboratory, testing room
+**choson** *n.* laboratory, testing room
 
 # J
 
-**ja** no, not
+**ja** *n.* no, not
 
 **jam** *1. aj.* big, large, huge, great *2. aj.* intimidating or menacing in a predatory manner
 
 **jalu** *av.* more, to a greater extent
 
-**jasen** _1._ unreality, fantasy, illusion _2._ imitation, counterfeit, imposter, forgery, deception, phony, hoax, sham
+**jasen** *n.* _1._ unreality, fantasy, illusion _2._ imitation, counterfeit, imposter, forgery, deception, phony, hoax, sham
 
 **jasos** _aj._ fake, bogus, counterfeit, fabricated, forged, phony, artificial
 
