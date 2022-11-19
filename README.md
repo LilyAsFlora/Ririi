@@ -10,17 +10,17 @@ Rirī is inflected and phonetically consistent. You can access a dictionary [her
 
 Aside from the voiced alveolar tap (/ɾ/), all of Rirī's consonants are present in English. This wasn't always the case. As a Polish speaker, I originally included retroflex affricates /ʈʂ/ and /ɖʐ/ (alongside retroflex fricative /ʂ/) for variety. I removed them later because I decided they sound too harsh for a soft-spoken language.
 
-|                     | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Epiglottal | Glottal |
-|:-------------------:|:--------:|:-----------:|:------:|:--------:|:------------:|:---------:|:-------:|:-----:|:------:|:----------:|:-------:|
-|       Plosive       |   p, b   |             |        |   t, d   |              |           |         |  k, g |        |            |         |
-|        Nasal        |     m    |             |        |     n    |              |           |         |       |        |            |         |
-|        Trill        |          |             |        |          |              |           |         |       |        |            |         |
-|     Tap or flap     |          |             |        |     ɾ    |              |           |         |       |        |            |         |
-|      Fricative      |          |      v      |        |   s, z   |       ʃ      |           |         |       |        |            |    h    |
-|  Lateral fricative  |          |             |        |          |              |           |         |       |        |            |         |
-|     Approximant     |          |             |        |          |       l      |           |         |   w   |        |            |         |
-| Lateral approximant |          |             |        |          |              |           |         |       |        |            |         |
-|      Affricate      |          |             |        |          |     t̠ʃ, d̠ʒ   |           |         |       |        |            |         |
+|                     | Bilabial | Labiodental | Alveolar | Postalveolar | Velar | Glottal |
+|:-------------------:|:--------:|:-----------:|:--------:|:------------:|:-----:|:-------:|
+|       Plosive       |   p, b   |             |   t, d   |              |  k, g |         |
+|        Nasal        |     m    |             |     n    |              |       |         |
+|        Trill        |          |             |          |              |       |         |
+|     Tap or flap     |          |             |     ɾ    |              |       |         |
+|      Fricative      |          |      v      |   s, z   |       ʃ      |       |    h    |
+|  Lateral fricative  |          |             |          |              |       |         |
+|     Approximant     |          |             |          |       l      |   w   |         |
+| Lateral approximant |          |             |          |              |       |         |
+|      Affricate      |          |             |          |     t̠ʃ, d̠ʒ   |       |         |
 
 ### Vowels
 
@@ -63,7 +63,7 @@ Rirī has a de facto word order of SVO (subject-verb-object), but this can chang
 
 ### Personal Pronouns
 
-Rirī includes the universal first, second, and third person pronouns. Notice the distinction between plural and singular _they_. _Emi_ is used in reference to groups with one or more masculine entities. _Emai_ is used in reference to groups of strictly feminine entities. In unclear or non-binary cases, _amī_ may be used.
+Rirī includes the universal first, second, and third person pronouns. Notice the distinction between plural and singular _they_. _Emi_ is used in reference to groups with one or more masculine entities. _Emai_ is used in reference to groups of strictly feminine entities. If ambiguous, _amī_ may be used.
 
 #### Singular
 
@@ -92,16 +92,39 @@ Singular nouns are unmarked. Plurals are marked with suffixes -i or -ī, dependi
 
 ### Verbs
 
-### OUTDATED SECTION
+Verb conjugation depends on suffixes, particles, and auxiliary verbs. Regular verbs follow this order of conjugaton:
 
-Rirī includes four tenses: past, present, future, and conditional. All infinitives end with /u/.
+1. Aspect
+2. Person
+3. Number
+4. Tense
 
-|                              |       simple: unmarked       |        continuous: particle _ni_       |          perfect: suffix -e          |   perfect continuous: prefix o-, suffix -e  |
-|:----------------------------:|:----------------------------:|:-----------------------------------:|:------------------------------------:|:-------------------------------------------:|
-|        past: suffix -m       |    _sa kronum_ — I waited    |     _sa ni kronum_ — I was waiting    |      _sa kronme_ — I had waited     |      _sa okronme_ — I had been waiting     |
-|       present: unmarked      |      _sa kron_ — I wait      m|     _sa ni kron_ — I am waiting      |      _sa krone_ — I have waited     |      _sa okrone_ — I have been waiting     |
-|      future: suffix -sh      |  _sa kronush_ — I will wait  |  _sa ni kronshe_ — I will be waiting |  _sa kronshe_ — I will have waited  |  _sa okronshe_ — I will have been waiting  |
-| conditional: auxiliary | _sa chū kronu_ — I would wait| _sa chū ni kronu_ — I would be waiting| _sa chū krone_ — I would have waited| _sa chū okrone_ — I would have been waiting |
+#### Number
+
+Singular: (unmarked)
+Plural: suffix *e*
+
+#### Person
+
+1st person: (unmarked)
+2nd person: suffix *la*
+3rd person: suffix *li*
+
+#### Tense
+
+Present: unmarked
+Past: suffix *n*
+Future: suffix *ta*
+
+#### Aspect
+
+Simple: unmarked
+Continuous: particle *li*
+Perfect continuous: particle *le*
+
+#### Mood
+
+Indicated by auxiliary verbs.
 
 ### 
 
