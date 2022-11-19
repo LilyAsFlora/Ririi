@@ -82,7 +82,7 @@ _quant. quantifier_
 
 **hīmi** ruler, emperor
 
-**hīmiawān** _1. n._ bird, fowl, game _2. n._ any flying feathered creature
+**hīwan** _1. n._ bird, fowl, game _2. n._ any flying feathered creature
 
 # I
 
