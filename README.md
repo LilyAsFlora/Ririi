@@ -63,23 +63,15 @@ Rirī has a de facto word order of SVO (subject-verb-object), but this can chang
 
 ### Personal Pronouns
 
-Rirī includes the universal first, second, and third person pronouns. Notice the distinction between plural and singular _they_. _Emi_ is used in reference to groups with one or more masculine entities. _Emai_ is used in reference to groups of strictly feminine entities. If ambiguous, _amī_ may be used.
+Rirī includes the universal first, second, and third person pronouns. Notice the distinction between plural and singular _they_. _Emi_ is used in reference to groups with one or more masculine entities, whereas_emī_ is used in reference to groups of strictly feminine entities. If ambiguous, _amī_ may be used.
 
 #### Singular
 
-| Person | Subject                  | Object                        |   
+| Person | Singular                  | Plural                        |   
 |--------|--------------------------|-------------------------------|
-| 1      | _sa_ — I                 | _sām_ — me                    |   
-| 2      | _chi_ — you               | _cham_ — you                   |   
-| 3      | _em/ema/ano/ami_ — he/she/it/they | _emam/emām_/anam/amam — him/her/it/they |   
-
-#### Plural
-
-| Person | Subject      | Object         |
-|--------|--------------|----------------|
-| 1      | _sai_ — we   | _saī_ — me   |
-| 2      | _cī_ — you   | _cīm_ — you   |
-| 3      | _emi (m.) / emai (f.)_ — they | _emiam (m.) / emaiam (f.)_ — them |
+| 1      | _sa_ — I                 | _si_ — we                   |   
+| 2      | _cha_ — you               | _chi_ — you                   |   
+| 3      | _em/ema/ano/ami_ — he/she/it/they | _emi/emī_/ani/amī- — him/her/it/they |   
 
 ### Plurality
 
@@ -190,21 +182,21 @@ To form yes-no questions, one can apply the particles _chi_, _chou_ and _chao_ a
 
 #### **Chi: neutral**
 
-_Chi ani chila sumchi?_ Are those your knives?
+_Chi ani chali sumchi?_ Are those your knives?
 
 #### Chou: expecting "yes"
 
-*Chou ani chila sumchi?* Those are your knives, right?
+*Chou ani chali sumchi?* Those are your knives, right?
 
 #### Chao: expecting "no"
 
-*Chao ani chila sumchi?* Those aren't your knives, are they?
+*Chao ani chali sumchi?* Those aren't your knives, are they?
 
 ### Negation
 
 To negative a sentence, add the particle _ja_ (lit. "no") before the verb.
 
-Ani chila sumchi
+Ani ja le chali sumchi. *Those are not your knives.*
 
 ### Conjunctions
 
@@ -216,4 +208,4 @@ _Chi X chi Y_ means you can have only either X or Y, not both.
 
 ## Examples
 
-I am the girl of your dreams. *Lu michu cilu madoli.*
+I am the girl of your dreams. *Lu michu chali madoli.*
