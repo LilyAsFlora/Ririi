@@ -33,7 +33,6 @@ _suff. suffix_
 
 **amī** _pl. n. pron._ they 
 
-
 **ano** _aj._ that
 
 # B
@@ -49,6 +48,8 @@ _suff. suffix_
 # D
 
 **de** _ad._ to, towards
+
+**dolu** *infin.* to come, arrive
 
 # E
 
@@ -77,7 +78,7 @@ _suff. suffix_
 
 **han** air, wind, breeze, zephyr
 
-**hanu** _infin._ to blow, drive, rush, stream, waft, wave, fan
+**haku** _infin._ to blow, drive, rush, stream, waft, wave, fan
 
 **hās** _aj._ every, each
 
@@ -135,9 +136,11 @@ _suff. suffix_
 
 # M
 
-**madora**  _n._ a dream one experiences while asleep
+**madora**  _n._ a dream (one experiences while asleep)
 
-**michu** _infin._ to go by, pass, proceed, cross, progress
+**miku** *infin.* to give, grant
+
+**michu** _infin._ to go by, pass
 
 **mīa** _1. n._ a female child (girl) _1. n._ a young woman 
 
@@ -151,8 +154,7 @@ _suff. suffix_
 
 **oju** _infin._ to watch, observe, oversee, gaze, scope
 
-
-**onji** _1._ place, area, point, site, spot, venue, zone _2._ rank, class, division, grade, status
+**onji** _1._ place, area, site _2._ rank, class, division, grade, status
 
 # P
 
@@ -172,8 +174,6 @@ _suff. suffix_
 **ra** _av._ where. **rajara** here and there
 
 **richu** _inform._ bye, goodbye
-
-**rita** _num. aj._ nine. **onrita** ninth
 
 **rīu** _infin._ to speak, say, utter, verbalise, word, convey, express, tell, voice
 
