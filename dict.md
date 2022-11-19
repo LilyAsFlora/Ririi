@@ -43,7 +43,7 @@ _suff. suffix_
 
 # C
 
-**cora** _av._ infrequently, seldom, rarely, hardly ever
+**cora** _av._ infrequently, seldom, rarely
 
 # D
 
@@ -71,8 +71,7 @@ _suff. suffix_
 
 **ga** _aj._ which
 
-
-**gok** _1._ leg, stake, stump _2._ any appendage used for support _3. fig._ backbone, upholder, source of strength or movement
+**go** _1._ leg, stake, stump _2._ any appendage used for support _3. fig._ backbone, upholder, source of strength or movement
  
 # H
 
@@ -80,17 +79,11 @@ _suff. suffix_
 
 **haku** _infin._ to blow, drive, rush, stream, waft, wave, fan
 
-**hās** _aj._ every, each
-
-**hāship** _pron._ everyone, everybody
-
-**hāsō** everything
-
 **hīmu** _infin._ _1._ to rule, govern, oversee, regulate, supervise _2._  to control, command, conduct, handle, manage, manipulate
 
 **hīmia** government, authority, ministry, regime, union
 
-**hīmip** ruler, emperor
+**hīmi** ruler, emperor
 
 **hīmiawān** _1._ bird, fowl, game _2._ any flying feathered creature
 
@@ -104,7 +97,7 @@ _suff. suffix_
 
 **īshkō** _aj._ deadly, dangerous, destructive, fatal, harmful, lethal, murderous, violent
 
-**īshosh** burial ground; graveyard, cemetery, boneyard, necropolis
+**īsho** burial ground; graveyard, cemetery, boneyard, necropolis
 
 **īshuk** _1._ burial chamber; tomb, coffin, crypt _2. fig._ a situation or event likely to result in great harm or destruction
 
@@ -122,7 +115,7 @@ _suff. suffix_
 
 **kron** _1._ time(span), moment _2._ _fig._ the unstoppable marching of time
 
-**kronga** clock, sundial, watch, timekeeping device
+**kronga** clock, sundial, watch; any timekeeping device
 
 **kronu** _infin._ to (a)wait, stall, stick around, stand by
 
@@ -175,7 +168,11 @@ _suff. suffix_
 
 **richu** _inform._ bye, goodbye
 
-**rīu** _infin._ to speak, say, utter, verbalise, word, convey, express, tell, voice
+**ri** *1. n.* flower (bush), any vivid or colourful plant *2. n.* an expression of childlike endearment 
+
+**rī** language, tongue
+
+**riu** _infin._ to speak, say, utter, verbalise, word, convey, express, tell, voice
 
 **rīsum** word, term, unit of language
 
@@ -205,11 +202,9 @@ _suff. suffix_
 
 **sumane** _aj._ separated, detached, divorced, partitioned, divided, split, cut apart
 
-**suru** _num. aj._ eight. **onsuru** eighth
-
 # T
 
-**tom** _1._ fire, flame, blaze, inferno _2._ barrage, bombardment, hail, shelling, volley
+**tom** _1._ fire, flame, blaze, inferno _2._ barrage, bombardment, volley
 
 **tombī** mythical beast; dragon 
 
@@ -231,21 +226,21 @@ _suff. suffix_
 
 # U
 
-**uk** hole, crack, crater, gap, pit, tunnel
+**uk** hole, crack, crater, gap
 
-**ukek** gun, rifle, blaster
+**uke** gun, rifle, blaster; generic term for a ranged weapon
 
 # V
 
 **vid** eye, eyeball, peeper
 
-**vidki** _pl._ glasses, frames, goggles, rims. **vidka** telescope
+**viki** _pl._ glasses, frames, goggles, rims. **vidka** telescope
 
 **vidu** _infin._ to see, look (at), observe, regard, spot, view
 
 **vim** _aj._ many, a lot, much, a good / great deal
 
-**vimgokuchi** _1._ caterpillar, worm _2. fig._ one which is like a flower waiting to blossom 
+**vigochi** _1._ caterpillar, worm _2. fig._ one which is like a flower waiting to blossom 
 
 **volce** *av.* effectively, successfully, well
 
@@ -270,21 +265,15 @@ _suff. suffix_
 
 **choson** laboratory, testing room
 
-**churi** _num._ _aj._ one, a certain. **onchuri** first
-
 # J
 
 **ja** no, not
 
 **jam** *1. aj.* big, large, huge, great *2. aj.* intimidating or menacing in a predatory manner
 
-**jamlu** *av.* more, to a greater extent
-
-**jasen** _pron._ nobody, no-one
+**jalu** *av.* more, to a greater extent
 
 **jasen** _1._ unreality, fantasy, illusion _2._ imitation, counterfeit, imposter, forgery, deception, phony, hoax, sham
-
-**jasō** nothing
 
 **jasos** _aj._ fake, bogus, counterfeit, fabricated, forged, phony, artificial
 
