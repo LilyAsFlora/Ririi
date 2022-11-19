@@ -43,8 +43,6 @@ _suff. suffix_
 
 **bāsu** _infin._ _1._ to smile, put on a positive expression _2._ to be friendly towards
 
-**bīzum** _num. aj_ four. **onbīzum** fourth
-
 # C
 
 **cora** _av._ infrequently, seldom, rarely, hardly ever
@@ -69,11 +67,12 @@ _suff. suffix_
 
 **ētaku** _inf._ to contribute to; aid, supply
 
+**eli** *aj.* wet, damp
+
 # G
 
 **ga** _aj._ which
 
-**gāri** _num. aj._ ten. **ongāri** tenth
 
 **gok** _1._ leg, stake, stump _2._ any appendage used for support _3. fig._ backbone, upholder, source of strength or movement
  
