@@ -92,6 +92,8 @@ Singular nouns are unmarked. Plurals are marked with suffixes -i or -ī, dependi
 
 ### Verbs
 
+### OUTDATED SECTION
+
 Rirī includes four tenses: past, present, future, and conditional. All infinitives end with /u/.
 
 |                              |       simple: unmarked       |        continuous: particle _ni_       |          perfect: suffix -e          |   perfect continuous: prefix o-, suffix -e  |
