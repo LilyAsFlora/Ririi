@@ -8,7 +8,7 @@ _derog. derogatory_
 _fig. figurative_  
 _infin. infinitive_  
 _inform. informal_  
-*interj. interjection*
+*interj. interjection*  
 _num. numeral_    
 *pl. plural*
 _prefix. prefix_  
