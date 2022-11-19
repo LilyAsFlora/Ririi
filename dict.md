@@ -33,7 +33,6 @@ _suff. suffix_
 
 **amī** _pl. n. pron._ they 
 
-**an** _num. aj_ three. **onan** third
 
 **ano** _aj._ that
 
@@ -50,8 +49,6 @@ _suff. suffix_
 # D
 
 **de** _ad._ to, towards
-
-**dwūn** cave, cavern, grotto, cavity, den
 
 # E
 
@@ -169,7 +166,6 @@ _suff. suffix_
 
 **puru** _num. aj._ five. **onpuru** fifth
 
-**pwatom** chandelier, candelabrum
 
 # R
 
@@ -263,8 +259,6 @@ _suff. suffix_
 
 
 # CH
-
-**chakroko** _aj._ new, modern, recent
 
 **cha-** _pref._ not
 
