@@ -45,21 +45,19 @@ Rirī permits both open and closed syllables: **(C)(C)V(C)**, though open syllab
 General constraints:
 
 - Only nasals, unvoiced consonants and non-glottals in codas
-- Clusters of two of the same consonant are combined into one (e.g. _amma_ -> _ama_)
-- If the first consonant in a complex onset is a nasal, the second cannot be /w/ (e.g. disallowing /mwa/)
-- If the secondary consonant in a complex onset contains a w, the coda must contain a nasal (e.g. disallowing /pwat/)
+- If the first consonant in a complex onset is a nasal, the second cannot be /w/
 - Obstruents can only cluster with sonorants
 - The first consonant in a complex onset must be an obstruent (e.g. disallowing mra)
 
 #### Stress
 
-Rirī lacks lexical stress. However, in poetry or song, speakers may wish to apply patterns of stressed and unstressed syllables to evoke a rhythmic [meter](https://en.wikipedia.org/wiki/Metre_(poetry)).
+Rirī lacks lexical stress. However, in poetry or song, speakers may wish to apply patterns of accents to evoke a rhythmic [meter](https://en.wikipedia.org/wiki/Metre_(poetry)). Such a system is useful because it allows singers to freely emphasise syllables that land on strong beats.
 
 ## Syntax
 
 ### Word Order
 
-Generally, Rirī uses a default word order of SVO (subject-verb-object). This may be changed for poetic effect. Possessors and adjectives may come before or after the noun they modify, whereas adpositions and auxiliary verbs usually precede. 
+Rirī has a de facto word order of SVO (subject-verb-object), but this can change for poetic effect. Possessors and adjectives may come before or after the noun they modify, whereas adpositions and auxiliary verbs precede. 
 
 ## Grammar
 
@@ -92,20 +90,28 @@ Singular nouns are unmarked. Plurals are marked with suffixes -i or -ī, dependi
 - If the noun ends with -i, it is replaced with the suffix -ī
 - If the noun already ends with -ī, it can be left alone. Optionally, plurality can be enforced with an auxiliary word (e.g. an adjective meaning "many").
 
-### Tense
+### Verbs
 
-Rirī includes four tenses: past, present, future, and conditional. These are expressed with affixation and auxiliary verbs. 
+Rirī includes four tenses: past, present, future, and conditional. All infinitives end with /u/.
 
-|                              |       simple: unmarked       |        continuous: prefix o-        |          perfect: suffix -e          |   perfect continuous: prefix o-, suffix -e  |
+|                              |       simple: unmarked       |        continuous: particle _ni_       |          perfect: suffix -e          |   perfect continuous: prefix o-, suffix -e  |
 |:----------------------------:|:----------------------------:|:-----------------------------------:|:------------------------------------:|:-------------------------------------------:|
-|        past: suffix -m       |    _sa kronum_ — I waited    |     _sa okronum_ — I was waiting    |      _sa kronme_ — I had waited     |      _sa okronme_ — I had been waiting     |
-|       present: unmarked      |      _sa kron_ — I wait      m|     _sa okron_ — I am waiting      |      _sa krone_ — I have waited     |      _sa okrone_ — I have been waiting     |
-|      future: suffix -sh      |  _sa kronush_ — I will wait  |  _sa okronshe_ — I will be waiting |  _sa kronshe_ — I will have waited  |  _sa okronshe_ — I will have been waiting  |
-| conditional: + chū, nenu, etc| _sa chū kronu_ — I would wait| _sa chū okronu_ — I would be waiting| _sa chū krone_ — I would have waited| _sa chū okrone_ — I would have been waiting |
+|        past: suffix -m       |    _sa kronum_ — I waited    |     _sa ni kronum_ — I was waiting    |      _sa kronme_ — I had waited     |      _sa okronme_ — I had been waiting     |
+|       present: unmarked      |      _sa kron_ — I wait      m|     _sa ni kron_ — I am waiting      |      _sa krone_ — I have waited     |      _sa okrone_ — I have been waiting     |
+|      future: suffix -sh      |  _sa kronush_ — I will wait  |  _sa ni kronshe_ — I will be waiting |  _sa kronshe_ — I will have waited  |  _sa okronshe_ — I will have been waiting  |
+| conditional: auxiliary | _sa chū kronu_ — I would wait| _sa chū ni kronu_ — I would be waiting| _sa chū krone_ — I would have waited| _sa chū okrone_ — I would have been waiting |
+
+### 
+
+### Morphology
+
+1. If simply pasting an affix onto a word results in joined vowels, the affix's vowel always replacs the word's vowel. If the word's vowel is long, this vowel is shortened and joined to the affix.
+
+2. If the final syllable of a word and the affix have matching rimes, the affix replaces the syllable. To illustrate: the possessive case of *madora* ("dream") is *madola*, not *madorala*.
 
 ### Noun Case
 
-Rirī features three marked cases: possessive, instrumental, and accusative. They are indicated with suffixes. If the final syllable of a noun and its corresponding case inflection have matching rimes, the inflection replaces the syllable. To illustrate: the possessive case of *madora* ("dream") is *madola*, not *madorala*.
+Rirī features three marked cases: possessive, instrumental, and accusative. They are indicated with suffixes. 
 
 |              | Singular | Plural    | Example                                                                     |
 |--------------|----------|-----------|-----------------------------------------------------------------------------|
@@ -126,7 +132,7 @@ Personal endings are used to inflect verbs by person, allowing omission of subje
 | he/she/they (s.) | -ja    | _Puja_ - He/she/they think |
 | they (pl.)       | -ji  | _Puji_ — They think      |
 | it               | -o   | _Pucho_ — It thinks        |
-| we               | -īm   | _Puchīm_ — We think         |
+| we               | -īr   | _Puchīr_ — We think         |
 
 
 _Pash**ja** enane; chū mish**ja**e ete riami._ — She's English; she would have loved these flowers.
@@ -135,7 +141,7 @@ _Okronum**īm** e tiam._ — We were waiting for you.
 
 ### Correlatives
 
-A table of common correlatives, all of which are affected by noun cases when used as pronouns.
+A table of common correlatives.
 
 |           |     query    |      this     |      that     |         some         |         no        |          every         |
 |:---------:|:------------:|:-------------:|:-------------:|:--------------------:|:-----------------:|:----------------------:|
@@ -149,13 +155,11 @@ A table of common correlatives, all of which are affected by noun cases when use
 
 ### Adjectives
 
-Adjectives take three standard forms: positive, comparative, and superlative. Adjectives must use the ending _-e_ when describing plural nouns. Since they act like nouns, they should agree in case. This is done by taking the noun's case inflection (e.g. _-am_) and appending it as a prefix to the adjective.
+Adjectives take three standard forms: positive, comparative, and superlative. Adjectives must use the ending _-e_ when describing plural nouns. 
 
-_Rīuge amtwū chānam._ — I speak hard truth.
-
-| Positive            | Comparative                | Superlative                 |
+| Positive: unmarked            | Comparative: suffix *ē*                 | Superlative: suffix *u*                 |
 |---------------------|----------------------------|-----------------------------|
-| _gaprane_ — clean   | _gapranhu_ — cleaner     | _gapranshe_ — cleanest      |
+| _eli_ — clean   | _elē_ — cleaner     | _elu_ — cleanest      |
 | _rīuch_ — talkative | _rīuchhu_ — more talkative | _rīuchshe_ — most talkative |
 
 ### Yes-no Questions
@@ -188,12 +192,8 @@ _X chi Y_ means you may have X or Y or both.
 
 _Chi X chi Y_ means you can have only either X or Y, not both.
 
-## Writing
+## Orthography
 
-Rirī makes use of the Latin alphabet, similarly to English. Note the postalveolar affricate (t̠ʃ) can show up as both _c_ or _ch_. 
+Undefined. Rirī currently uses the Latin alphabet.
 
 ## Examples
-
-I know a girl who speaks English well. — _Lage mamī ko volce rī ānon._
-
-No one contributed more to the understanding of dreams than Freud. — _Jare ētakum jamlu madoli chosam nin Freud._
