@@ -70,7 +70,7 @@ Rirī includes the universal first, second, and third person pronouns. Notice th
 | Person | Subject                  | Object                        |   
 |--------|--------------------------|-------------------------------|
 | 1      | _sa_ — I                 | _sām_ — me                    |   
-| 2      | _chi_ — you               | _chiam_ — you                   |   
+| 2      | _chi_ — you               | _cham_ — you                   |   
 | 3      | _em/ema/ano/ami_ — he/she/it/they | _emam/emām_/anam/amam — him/her/it/they |   
 
 #### Plural
@@ -98,6 +98,16 @@ Verb conjugation depends on suffixes, particles, and auxiliary verbs. Regular ve
 2. Person
 3. Number
 4. Tense
+
+Causativity can be described with the verb *miku* (to give), with the action that is caused in the infinitive, and the causee in the accusative.
+
+*Mikun kronu cham.* I made you wait.
+
+Passive actions are indicated with the particle *do* (from *dolu*, "to come").
+
+*Han hali.* The wind blows.
+
+*Han do hali.* The wind is blown.
 
 #### Number
 
@@ -131,7 +141,7 @@ Perfect continuous: particle *le*
 
 #### Mood
 
-Indicated by auxiliary verbs.
+Indicated by auxiliary verbss.
 
 ### Noun Case
 
