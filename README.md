@@ -141,7 +141,7 @@ Perfect continuous: particle *le*
 
 #### Mood
 
-Indicated by auxiliary verbss.
+Indicated by auxiliary verbs.
 
 ### Noun Case
 
@@ -151,13 +151,15 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 
 2. If clustered obstruents or sonorants occur, the affix replaces the noun's consonant.
 
-3. If the final syllable of a word and the affix have matching rimes, the affix replaces the syllable. To illustrate: the possessive case of *madora* ("dream") is *madola*, not *madorala*.
+3. If the final syllable of a word and the affix have matching rimes, the affix replaces the syllable. To illustrate: the possessive case of *madora* ("dream") is *madola*, not *madorala*. This does not apply to monosyllabic nouns.
 
 |              | Singular | Plural    | 
 |--------------|----------|-----------|
 | Possessive   | n. + -la | n. + -li |              
 | Instrumental | n. + -chu | n. + -chi | 
 | Accusative   | n. + -am  | n. + -mi |
+
+Note that the instrumental case is used for the noun complement of *lu* (to be).
 
 ### Correlatives
 
@@ -168,33 +170,41 @@ A table of common correlatives.
 | adjective | _ga_ — which |  _eto_ — this |  _ano_ — that |    _tōch_ — some   |     _ja_ — no     |     _hās_ — every     |
 |   person  |  _ko_ — who  |  _eto_ — this |  _ano_ — that |   _tore_ — someone  |  _jare_ — no-one  |   _hāsi_ — everyone  |
 |   thing   | _sō_ — what |  _eto_ — this |  _ano_ — that | _tosō_ — something | _jasō_ — nothing |  _hāsō_ — everything |
-|   place   | _ra_ — where | _abon_ — here | _ane_ — there |  _tora_ — somewhere |  _jara_ — nowhere | _hāsu_ — everywhere |
+|   place   | _ra_ — where | _abo_ — here | _ane_ — there |  _tora_ — somewhere |  _jara_ — nowhere | _hāsu_ — everywhere |
 |    time   | _kē_ — when |  _tera_ — now |  _ana_ — then |  _tokē_ — sometime |  _jakē_ — never  |    _hākē_ — always   |
 |    way    |  _vā_ — how |               |  _vem_ — thus |  _tovā_ — somehow  |                   |                        |
 |   reason  |  _nē_ — why |               |               |                      |                   |                        |
 
 ### Adjectives
 
-Adjectives take three standard forms: positive, comparative, and superlative. Adjectives must use the ending _-e_ when describing plural nouns. 
+Adjectives are distinct from nouns and verbs, take three standard forms: positive, comparative, and superlative.
 
-| Positive: unmarked            | Comparative: suffix *ē*                 | Superlative: suffix *u*                 |
-|---------------------|----------------------------|-----------------------------|
-| _eli_ — clean   | _elē_ — cleaner     | _elu_ — cleanest      |
-| _rīuch_ — talkative | _rīuchhu_ — more talkative | _rīuchshe_ — most talkative |
+|| Positive: unmarked            | Comparative: suffix *ē*                 | Superlative: suffix *u*                 |
+|-|---------------------|----------------------------|-----------------------------|
+|Singular: unmarked| _eli_ — clean   | _elē_ — cleaner     | _elu_ — cleanest      |
+|Plural: suffix *i*| *elī* — clean (things)| elei — cleaner (things)| elui — cleanest (things)|
 
 ### Yes-no Questions
 
-To form yes-no questions, particles _chī_, _chou_ and _chao_ may be applied at the beginning of a sentence.  _Chi_ can also be used as "or."
+To form yes-no questions, one can apply the particles _chi_, _chou_ and _chao_ at the beginning or end of a sentence.  _Chi_ can also mean "or." Note that these particles are not necessary to form questions, and are more suited for emphasis.
 
-#### Chaī: neutral
+#### **Chi: neutral**
+
+_Chi ani chila sumchi?_ Are those your knives?
 
 #### Chou: expecting "yes"
 
+*Chou ani chila sumchi?* Those are your knives, right?
+
 #### Chao: expecting "no"
+
+*Chao ani chila sumchi?* Those aren't your knives, are they?
 
 ### Negation
 
-To negative a sentence, add particle _ja_ (lit. "no") before the verb.
+To negative a sentence, add the particle _ja_ (lit. "no") before the verb.
+
+Ani chila sumchi
 
 ### Conjunctions
 
@@ -206,4 +216,4 @@ _Chi X chi Y_ means you can have only either X or Y, not both.
 
 ## Examples
 
-
+I am the girl of your dreams. *Lu michu cilu madoli.*
