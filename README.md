@@ -102,67 +102,52 @@ Verb conjugation depends on suffixes, particles, and auxiliary verbs. Regular ve
 #### Number
 
 Singular: (unmarked)
+
 Plural: suffix *e*
 
 #### Person
 
 1st person: (unmarked)
+
 2nd person: suffix *la*
+
 3rd person: suffix *li*
 
 #### Tense
 
 Present: unmarked
+
 Past: suffix *n*
+
 Future: suffix *ta*
 
 #### Aspect
 
 Simple: unmarked
+
 Continuous: particle *li*
+
 Perfect continuous: particle *le*
 
 #### Mood
 
 Indicated by auxiliary verbs.
 
-### 
-
-### Morphology
-
-1. If simply pasting an affix onto a word results in joined vowels, the affix's vowel always replacs the word's vowel. If the word's vowel is long, this vowel is shortened and joined to the affix.
-
-2. If the final syllable of a word and the affix have matching rimes, the affix replaces the syllable. To illustrate: the possessive case of *madora* ("dream") is *madola*, not *madorala*.
-
 ### Noun Case
 
-Rirī features three marked cases: possessive, instrumental, and accusative. They are indicated with suffixes. 
+Rirī features three marked cases: possessive, instrumental, and accusative. They are indicated with suffixes. Note the following:
 
-|              | Singular | Plural    | Example                                                                     |
-|--------------|----------|-----------|-----------------------------------------------------------------------------|
-| Possessive   | n. + -la | n. + -li | Tomla               |
-| Instrumental | n. + -chu | n. + -chi | a|
-| Accusative   | n. + -am  | n. + -mi | a|
+1. If simply pasting an affix onto a word results in joined vowels, the affix's vowel always replacs the word's vowel. If the word's vowel is long, this vowel is shortened and joined to the affix. 
 
+2. If clustered obstruents or sonorants occur, the affix replaces the noun's consonant.
 
-### Personal verb endings
+3. If the final syllable of a word and the affix have matching rimes, the affix replaces the syllable. To illustrate: the possessive case of *madora* ("dream") is *madola*, not *madorala*.
 
-Personal endings are used to inflect verbs by person, allowing omission of subject pronouns.
-
-|                  | Suffix | Example                       |
-|------------------|--------|-------------------------------|
-| I                | -en      | _Puchen_ — I think             |
-| you (s.)         | -esh   | _Puchesh_ — You think        |
-| you (pl.)        | -īn  | _Puchīn_ — You think       |
-| he/she/they (s.) | -ja    | _Puja_ - He/she/they think |
-| they (pl.)       | -ji  | _Puji_ — They think      |
-| it               | -o   | _Pucho_ — It thinks        |
-| we               | -īr   | _Puchīr_ — We think         |
-
-
-_Pash**ja** enane; chū mish**ja**e ete riami._ — She's English; she would have loved these flowers.
-
-_Okronum**īm** e tiam._ — We were waiting for you.
+|              | Singular | Plural    | 
+|--------------|----------|-----------|
+| Possessive   | n. + -la | n. + -li |              
+| Instrumental | n. + -chu | n. + -chi | 
+| Accusative   | n. + -am  | n. + -mi |
 
 ### Correlatives
 
@@ -193,32 +178,22 @@ To form yes-no questions, particles _chī_, _chou_ and _chao_ may be applied at 
 
 #### Chaī: neutral
 
-_Chaī agresh sām?_ — Do you trust me?
-
 #### Chou: expecting "yes"
 
-_Chou pasho chān?_ — That's true, right?
-
 #### Chao: expecting "no"
-
-_Chao pashuo tomjisushkām?_ — That's not a flamethrower, is it?
 
 ### Negation
 
 To negative a sentence, add particle _ja_ (lit. "no") before the verb.
 
-_Em ja sūja amani groam._ — He did not make that noise.
-
 ### Conjunctions
 
-Conjunctions work similarly to English, with the addition of distinguishment between exclusive and inclusive.
+Conjunctions have the addition of distinguishment between exclusive and inclusive.
 
 _X chi Y_ means you may have X or Y or both. 
 
 _Chi X chi Y_ means you can have only either X or Y, not both.
 
-## Orthography
-
-Undefined. Rirī currently uses the Latin alphabet.
-
 ## Examples
+
+
