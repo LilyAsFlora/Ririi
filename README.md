@@ -65,8 +65,6 @@ Rirī has a de facto word order of SVO (subject-verb-object), but this can chang
 
 Rirī includes the universal first, second, and third person pronouns. Notice the distinction between plural and singular _they_. _Emi_ is used in reference to groups with one or more masculine entities, whereas_emī_ is used in reference to groups of strictly feminine entities. If ambiguous, _amī_ may be used.
 
-#### Singular
-
 | Person | Singular                  | Plural                        |   
 |--------|--------------------------|-------------------------------|
 | 1      | _sa_ — I                 | _si_ — we                   |   
@@ -90,16 +88,6 @@ Verb conjugation depends on suffixes, particles, and auxiliary verbs. Regular ve
 2. Person
 3. Number
 4. Tense
-
-Causativity can be described with the verb *miku* (to give), with the action that is caused in the infinitive, and the causee in the accusative.
-
-*Mikun kronu cham.* I made you wait.
-
-Passive actions are indicated with the particle *do* (from *dolu*, "to come").
-
-*Han hali.* The wind blows.
-
-*Han do hali.* The wind is blown.
 
 #### Number
 
@@ -134,6 +122,18 @@ Perfect continuous: particle *le*
 #### Mood
 
 Indicated by auxiliary verbs.
+
+#### Valency
+
+Causativity can be described with the verb *miku* (to give), with the action that is caused in the infinitive, and the causee in the accusative.
+
+*Mikun kronu cham.* I made you wait.
+
+Passive actions are indicated with the particle *do* (from *dolu*, "to come").
+
+*Han hali.* The wind blows.
+
+*Han do hali.* The wind is blown.
 
 ### Noun Case
 
