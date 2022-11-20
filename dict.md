@@ -86,6 +86,10 @@ _quant. quantifier_
 
 # I
 
+**ida** *num.* one (1).
+
+**ima** *num.* five (5).
+
 **īsh** *n.* death, annihilation, demise, cessation
 
 **īshbī** *n.* _1._ grim reaper, angel of death _2._ dangerous leader or individual
@@ -100,7 +104,11 @@ _quant. quantifier_
 
 # K
 
+**kava** *num.* eight (8).
+
 **ko** _pron._ who, whom
+
+**sola** *num.* four (4).
 
 **kora** _av._ often, frequently
 
@@ -117,6 +125,8 @@ _quant. quantifier_
 # L
 
 **lazu** _infin._ to know (someone personally), to be familiar with
+
+**lola** *num.* six (6)
 
 **lu** *infin.* to be, exist
 
@@ -146,14 +156,15 @@ _quant. quantifier_
 
 **pasen** _1._ multiverse _2._ interconnection of realms or universes _3._ nexus, center, connection, core, network, link
 
+**pi** *num.* three (3). From "pi" — its approximation.
+
 **prē** _1._ shadow, shade, trace _2. fig._ one who is like a shadow; an unknown or enigmatic entity, especially difficult to identify
 
 **prēbī** *n.* spy; secret or undercover agent 
 
 **prekō** _aj._ shadowy, dim, obscured, cloudy, darkened, dingy, gloomy
 
-**puru** _num. aj._ five. **onpuru** fifth
-
+**prim** *num.* two. From "prime" — 2 is the smallest prime number.
 
 # R
 
@@ -184,6 +195,10 @@ _quant. quantifier_
 **sai** _pl. pron._ we
 
 **sen** *n.* world, cosmos, universe, realm
+
+**sela** *num.* nine (9) 
+
+**solve** *num.* seven (7).
 
 **sō** _pron._ what. **sō a sō** _inform._ whatever, I don't care
 
