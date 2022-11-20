@@ -68,17 +68,25 @@ _quant. quantifier_
  
 # H
 
-**han** *n.* air, wind, breeze, zephyr
+**haba** *1. n.* fish, marine animal *2. fig. n.* one who is cute or childlike in an endearing way 
+
+**habu** *infin.* to play
+
+**han** *1. n.* air, wind, breeze, zephyr *2. n.* movement, relocation
 
 **haku** _infin._ to blow, drive, rush, stream, waft, wave, fan
+
+**hapo** *aj.* (amusingly) cute, adorable, childish
 
 **hīmu** _infin._ _1._ to rule, govern, oversee, regulate, supervise _2._  to control, command, conduct, handle, manage, manipulate
 
 **hīmia** *n.* government, authority, ministry, regime, union
 
-**hīmi** ruler, emperor
+**hīmi** *n.* ruler, leader (of a government or administration)
 
 **hīwan** _1. n._ bird, fowl, game _2. n._ any flying feathered creature
+
+**honba** *1. n.* river, lake, estuary; any natural body of water *2. n.* crowd, congregation, rabble
 
 # I
 
@@ -99,6 +107,10 @@ _quant. quantifier_
 **īshuk** _1._ burial chamber; tomb, coffin, crypt _2. fig._ a situation or event likely to result in great harm or destruction
 
 # K
+
+**kaha** *1. n.* fishing rod or net *2. n. fig.* an advantage, edge, secret weapon; an ace up one's sleeve
+
+**kahu** *1. infin.* to search or look for, seek *2. infin.* to prey on, hunt (with malicious or selfish intent)
 
 **kava** *num.* eight (8).
 
@@ -152,7 +164,9 @@ _quant. quantifier_
 
 **pasen** _1._ multiverse _2._ interconnection of realms or universes _3._ nexus, center, connection, core, network, link
 
-**pi** *num.* three (3). From "pi" — its approximation.
+**pi** *num.* three (3)
+
+**popo** *aj.* similar, alike
 
 **prē** _1._ shadow, shade, trace _2. fig._ one who is like a shadow; an unknown or enigmatic entity, especially difficult to identify
 
@@ -160,7 +174,9 @@ _quant. quantifier_
 
 **prekō** _aj._ shadowy, dim, obscured, cloudy, darkened, dingy, gloomy
 
-**prim** *num.* two. From "prime" — 2 is the smallest prime number.
+**prim** *num.* two (2)
+
+**puba** *n.* animal, creature
 
 # R
 
