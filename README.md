@@ -37,7 +37,7 @@ Rirī features the typical five-vowel system.
 
 #### Syllable Shape
 
-Rirī permits both open and closed syllables: **(C)(C)V(C)**, though the former are more common.
+Rirī permits both open and closed syllables in **(C)(H)V(C)** (where (H) denotes a glide or liquid).
 
 General constraints:
 
@@ -50,13 +50,11 @@ General constraints:
 
 Rirī lacks lexical stress. However, in poetry or song, speakers may wish to apply patterns of accents to evoke a rhythmic [meter](https://en.wikipedia.org/wiki/Metre_(poetry)). Such a system is useful because it allows singers to freely emphasise syllables that land on strong beats.
 
-## Syntax
+## Syntax and Grammar
 
 ### Word Order
 
-Rirī has a de facto word order of SVO (subject-verb-object), though this is malleable for poetic effect. Possessors and adjectives can come before or after their nouns, whereas adpositions and auxiliary verbs precede. 
-
-## Grammar
+Rirī has a de facto word order of SVO (subject-verb-object), though this is easily malleable for poetic effect. Possessors and adjectives can come before or after their nouns, whereas adpositions and auxiliary verbs precede. 
 
 ### Personal Pronouns
 
@@ -213,6 +211,24 @@ _X chi Y_ means you may have X or Y or both.
 
 _Chi X chi Y_ means you can have only either X or Y, not both.
 
+## Musical Features
+
+Rirī provides a set of monosyllabic "rhyme particles" that lack lexical semantics but aid in the evocation of tone, rhythm, consonance and assonance. One can construct these using any of the following consonants, followed by a vowel of the speaker's choosing, and an optional coda.
+
+|Consonant|b p|m n|l r|k g|w|v|s z|ch j|t d|sh|h|
+|-|-|-|-|-|-|-|-|-|-|-|-
+|Meaning|joy|sorrow|trust|fear|surprise|disgust|anger|anticipation|weakening of meaning|strengthening of meaning|(no mood)|
+
+To illustrate: the particles *da ma* can serve two purposes:
+- Evoking sorrow (as indicating by *m*) of a powerful nature (as indicated by *d*),  
+- Creating a rhyme with nearby syllables that include *a*
+
+Note that this would hold the same in reverse order (*ma da*).
+
+Such particles can be combined to create more complex meanings. Using *ve* and *tu* together, for example, mixes disgust and anger to create contempt. Placing one at the beginning of a sentence, and one at the end, could imply a change in mood, or that the speaker is ambivalent regarding their feelings. Nevertheless, this tool has most use in song: particles could emphasise certain beats, fill space not taken by other words, and as aforementioned, offer rhyme and alliteration.
+
 ## Examples
 
-I am the girl of your dreams. *Lu michu chali madoli.*
+*Lu michu chali madoli.* I am the girl of your dreams.
+
+*Primi habi lie ku koharam. Ide rīli de primpe, "Nula vā eto haku?"* Two fish are in a tank. One turns to the other and says, "Do you know how to drive this thing?"
