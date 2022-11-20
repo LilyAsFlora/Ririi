@@ -38,10 +38,6 @@ _quant. quantifier_
 
 **bāsu** _infin._ _1._ to smile, put on a positive expression _2._ to be friendly towards
 
-# C
-
-**cora** _av._ infrequently, seldom, rarely
-
 # D
 
 **de** _ad._ to, towards
@@ -268,6 +264,8 @@ _quant. quantifier_
 **chi** _pron._ you
 
 **chī** _pl. pron._ you
+
+**chora** _av._ infrequently, seldom, rarely
 
 **chosu** _infin._ to understand, grasp, interpret, register, comprehend
 
