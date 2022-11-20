@@ -63,7 +63,7 @@ Rirī has a de facto word order of SVO (subject-verb-object), but this can chang
 
 ### Personal Pronouns
 
-Rirī includes the universal first, second, and third person pronouns. Notice the distinction between plural and singular _they_. _Emi_ is used in reference to groups with one or more masculine entities, whereas_emī_ is used in reference to groups of strictly feminine entities. If ambiguous, _amī_ may be used.
+Rirī includes the universal first, second, and third person pronouns. Notice the distinction between plural and singular _they_. _Emi_ is used in reference to groups with one or more masculine entities, whereas _emī_ is used in reference to groups of strictly feminine entities. If ambiguous, _amī_ may be used.
 
 | Person | Singular                  | Plural                        |   
 |--------|--------------------------|-------------------------------|
