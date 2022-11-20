@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/LilyAsFlora/Ririi/blob/master/flagproject.png "Rirī flag")
 
-Rirī is a personal [artistic language](https://en.wikipedia.org/wiki/Artistic_language) (*artlang* for short) designed for art, poetry, song, and diaries. Stemming from "ri", "flower" and "rī", "speech", its name roughly translates to "flower speech" or "floral language".
+Rirī is a personal [artistic language](https://en.wikipedia.org/wiki/Artistic_language) (artlang) designed for poetry, song, diaries, other artistic expression. Stemming from "ri", "flower" and "rī", "speech", its name roughly translates to "flower speech" or "floral language".
 
 Rirī is inflected and phonetically consistent. You can access a dictionary [here](https://github.com/LilyAsFlora/Ririi/blob/master/dict.md).
 
@@ -10,18 +10,15 @@ Rirī is inflected and phonetically consistent. You can access a dictionary [her
 
 ### Consonants
 
-Aside from the voiced alveolar tap (/ɾ/), all of Rirī's consonants are present in English. This wasn't always the case. As a Polish speaker, I originally included retroflex affricates /ʈʂ/ and /ɖʐ/ (alongside retroflex fricative /ʂ/) for variety. I removed them later because I decided they sound too harsh for a soft-spoken language.
+Excluding the voiced alveolar tap (/ɾ/), the whole of Rirī's consonants are present in English. This wasn't always the case. As a Polish speaker, I initially included retroflex affricates /ʈʂ/ and /ɖʐ/ (alongside retroflex fricative /ʂ/). I removed them later after deciding they sound too harsh for a soft-spoken language.
 
 |                     | Bilabial | Labiodental | Alveolar | Postalveolar | Velar | Glottal |
 |:-------------------:|:--------:|:-----------:|:--------:|:------------:|:-----:|:-------:|
 |       Plosive       |   p, b   |             |   t, d   |              |  k, g |         |
 |        Nasal        |     m    |             |     n    |              |       |         |
-|        Trill        |          |             |          |              |       |         |
 |     Tap or flap     |          |             |     ɾ    |              |       |         |
 |      Fricative      |          |      v      |   s, z   |       ʃ      |       |    h    |
-|  Lateral fricative  |          |             |          |              |       |         |
 |     Approximant     |          |             |          |       l      |   w   |         |
-| Lateral approximant |          |             |          |              |       |         |
 |      Affricate      |          |             |          |     t̠ʃ, d̠ʒ   |       |         |
 
 ### Vowels
@@ -42,7 +39,7 @@ Rirī features the typical five-vowel system.
 
 #### Syllable Shape
 
-Rirī permits both open and closed syllables: **(C)(C)V(C)**, though open syllables are more common.
+Rirī permits both open and closed syllables: **(C)(C)V(C)**, though the former are more common.
 
 General constraints:
 
@@ -59,13 +56,13 @@ Rirī lacks lexical stress. However, in poetry or song, speakers may wish to app
 
 ### Word Order
 
-Rirī has a de facto word order of SVO (subject-verb-object), but this can change for poetic effect. Possessors and adjectives may come before or after the noun they modify, whereas adpositions and auxiliary verbs precede. 
+Rirī has a de facto word order of SVO (subject-verb-object), though this is malleable for poetic effect. Possessors and adjectives can come before or after their nouns, whereas adpositions and auxiliary verbs precede. 
 
 ## Grammar
 
 ### Personal Pronouns
 
-Rirī includes the universal first, second, and third person pronouns. Notice the distinction between plural and singular _they_. _Emi_ is used in reference to groups with one or more masculine entities, whereas _emī_ is used in reference to groups of strictly feminine entities. If ambiguous, _amī_ may be used.
+Rirī includes the gender-distinguished first, second, and third person pronouns. Notice the distinction between plural and singular _they_. _Emi_ is used in reference to groups with one or more masculine entities, whereas _emī_ is used in reference to groups of strictly feminine entities. If ambiguous or otherwise neuter, _amī_ may be used.
 
 | Person | Singular                  | Plural                        |   
 |--------|--------------------------|-------------------------------|
@@ -75,12 +72,12 @@ Rirī includes the universal first, second, and third person pronouns. Notice th
 
 ### Plurality
 
-Singular nouns are unmarked. Plurals are marked with suffixes -i or -ī, depending on the noun's ending.
+Singular nouns are unmarked, whereas plurals are marked with suffixes *i* or *ī*, depending on the noun's ending:
 
-- If the noun ends with a consonant, the suffix -i is appended
-- If the noun ends with a vowel, the vowel is replaced with the suffix -i
-- If the noun ends with -i, it is replaced with the suffix -ī
-- If the noun already ends with -ī, it can be left alone. Optionally, plurality can be enforced with an auxiliary word (e.g. an adjective meaning "many").
+- If the noun ends with a consonant, append the suffix *i*
+- If the noun ends with a vowel, replace the vowel with *i*
+- If the noun ends with *i*, lengthen it to *ī*
+- If the noun already ends with *ī*, it can be left alone with plurality up to context, but can be optionally enforced with an auxiliary word (e.g. an adjective meaning "many").
 
 ### Verbs
 
@@ -145,15 +142,17 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 
 2. If clustered obstruents or sonorants occur, the affix replaces the noun's consonant.
 
-3. If the final syllable of a word and the affix have matching rimes, the affix replaces the syllable. To illustrate: the possessive case of *madora* ("dream") is *madola*, not *madorala*. This does not apply to monosyllabic nouns.
+3. If the final syllable of a word and the suffix either both begin with a sonorant or an obstruent, the suffix replaces the syllable. This also happens if both syllables have matching rimes. To illustrate: the possessive case of *madora* ("dream") is *madola*, not *madorala*. This does not apply to monosyllabic nouns.
 
 |              | Singular | Plural    | 
 |--------------|----------|-----------|
-| Possessive   | n. + -la | n. + -li |              
-| Instrumental | n. + -chu | n. + -chi | 
-| Accusative   | n. + -am  | n. + -mi |
+| Possessive   | suffix *la* | suffix *li* |              
+| Instrumental | suffix *chu* | suffix *chi* | 
+| Accusative   | suffix *am*  | suffix *mi* |
 
-Note that the instrumental case is used for the noun complement of *lu* (to be).
+Note that the instrumental case, not accusative, is used for the noun complement of *lu* (to be).
+
+*Lu mīachu.* I am a girl.
 
 ### Correlatives
 
@@ -180,7 +179,7 @@ Adjectives are distinct from nouns and verbs, take three standard forms: positiv
 
 ### Yes-no Questions
 
-To form yes-no questions, one can apply the particles _chi_, _chou_ and _chao_ at the beginning or end of a sentence.  _Chi_ can also mean "or." Note that these particles are not necessary to form questions, and are more suited for emphasis.
+To form yes-no questions, one can apply the particles _chi_, _chou_ and _chao_ at either end of a sentence.  _Chi_ can also mean "or." These particles are not necessary to form questions, and are more suited for emphasis.
 
 #### **Chi: neutral**
 
