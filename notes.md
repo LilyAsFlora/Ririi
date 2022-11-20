@@ -1,21 +1,3 @@
-# Bound Morphemes
-
-**mado** associated with the supernatural  
-
-**ba** joy; positivity  
-
-**han** something ethereal; light, quick-moving  
-
-**īsh** death; not necessarily the end of life, but the end in general  
-
-**kron** passage of time  
-
-**sak** associated with destruction  
-
-**tom** associated with fire  
-
-**vid** vision, presence
-
 # Unbound Morphemes  
 
 **ja**, **cha**, **ne** negation, opposite  
@@ -29,4 +11,10 @@
 **ap**, **pī** entity associated with
 
 **lu** indicating an adverb
+
+**ka**, **ke** a tool
+
+**po** characteristic adjective
+
+
 
