@@ -1,5 +1,7 @@
 # Rirī
 
+![alt text](https://github.com/LilyAsFlora/Ririi/blob/master/flagproject.png "Rirī flag")
+
 Rirī is a personal [artistic language](https://en.wikipedia.org/wiki/Artistic_language) (*artlang* for short) designed for art, poetry, song, and diaries. Stemming from "ri", "flower" and "rī", "speech", its name roughly translates to "flower speech" or "floral language".
 
 Rirī is inflected and phonetically consistent. You can access a dictionary [here](https://github.com/LilyAsFlora/Ririi/blob/master/dict.md).
