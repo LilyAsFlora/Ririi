@@ -62,7 +62,7 @@ Rirī has a de facto word order of SVO (subject-verb-object), though this is mal
 
 ### Personal Pronouns
 
-Rirī includes the gender-distinguished first, second, and third person pronouns. Notice the distinction between plural and singular _they_. _Emi_ is used in reference to groups with one or more masculine entities, whereas _emī_ is used in reference to groups of strictly feminine entities. If ambiguous or otherwise neuter, _amī_ may be used.
+Rirī includes the gender-distinguished first, second, and third person pronouns. Notice the distinction between plural and singular _they_. _Emi_ is used in reference to groups with one or more masculine entities, whereas _emī_ is used in reference to groups of strictly feminine entities. If ambiguous, inanimate or otherwise neuter, _amī_ may be used.
 
 | Person | Singular                  | Plural                        |   
 |--------|--------------------------|-------------------------------|
@@ -170,12 +170,20 @@ A table of common correlatives.
 
 ### Adjectives
 
-Adjectives are distinct from nouns and verbs, take three standard forms: positive, comparative, and superlative.
+Adjectives are distinct, and agree with nouns in case and number.
 
-|| Positive: unmarked            | Comparative: suffix *ē*                 | Superlative: suffix *u*                 |
-|-|---------------------|----------------------------|-----------------------------|
-|Singular: unmarked| _eli_ — clean   | _elē_ — cleaner     | _elu_ — cleanest      |
-|Plural: suffix *i*| *elī* — clean (things)| elei — cleaner (things)| elui — cleanest (things)|
+||No marked case|Possessive (suf. *a*)|Instrumental (suf. *u*)|Accusative (suf. *e*)|
+|-|-|-|-|-|
+|Sing.|*eli* — clean|*ela* — clean (thing's [...])| *elu* — (using the) clean (thing)|*ele* — (something affects the) clean (thing) |
+|Plural (suf. *i*)|*elī* — clean (things)|*elai* — clean (things' [..])|*elui* — (using the) clean (things)|*elei* — (something affects the) clean (things)|
+
+Comparative adjectives can be expressed through reduplication of their first syllable, and superlatives through reduplication of their final syllable.
+
+The clean glasses. *Eli viki.*
+
+The cleaner glasses. *Ēli viki.*
+
+The cleanest glasses. *Elili viki.*
 
 ### Yes-no Questions
 
