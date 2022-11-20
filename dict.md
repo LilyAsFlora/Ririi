@@ -70,11 +70,11 @@ _quant. quantifier_
 
 **haba** *1. n.* fish, marine animal *2. fig. n.* one who is cute or childlike in an endearing way 
 
-**habu** *infin.* to play
+**habu** *infin.* to play (with) e.g. toys
 
 **han** *1. n.* air, wind, breeze, zephyr *2. n.* movement, relocation
 
-**haku** _infin._ to blow, drive, rush, stream, waft, wave, fan
+**haku** _1. infin._ to blow, drive, rush, stream, waft, wave, fan *2. infin.* to drive (a vehicle)
 
 **hapo** *aj.* (amusingly) cute, adorable, childish
 
@@ -114,11 +114,17 @@ _quant. quantifier_
 
 **kava** *num.* eight (8).
 
+**ke** *aj.* satisfying or effective; good
+
 **ko** _pron._ who, whom
 
-**sola** *num.* four (4).
+**kohara** *1. n.* fishbowl, aquarium *2. n. inform.* an unpleasant or inconvenient situation *3. n.* nursery, kindergarten; a school for young children
+
+**kola** *n. 1.* cage, box, enclosure (for animals) *2. n.* prison, jail *3. n.* an surprise attack launched from a hidden position
 
 **kora** _av._ often, frequently
+
+**koru** *1. infin.* to trap, imprison, confine *2.* to ambush, surprise (after lying in wait)
 
 **kron** _1. n._ time(span), moment _2._ _fig._ the unstoppable marching of time
 
@@ -153,6 +159,8 @@ _quant. quantifier_
 **nōla** _av._ sometimes, occasionally (with unspecified frequency)
 
 **nin** *conj.* used to introduce the second element in a comparison; than
+
+**nu** *infin.* to know, be aware of, have knowledge of
 
 # O
 
@@ -209,6 +217,8 @@ _quant. quantifier_
 **sen** *n.* world, cosmos, universe, realm
 
 **sela** *num.* nine (9) 
+
+**sola** *num.* four (4).
 
 **solve** *num.* seven (7).
 
