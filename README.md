@@ -10,30 +10,28 @@ Rirī is inflected and phonetically consistent. You can access a dictionary [her
 
 ### Consonants
 
-Excluding the voiced alveolar tap (/ɾ/), the whole of Rirī's consonants are present in English. This wasn't always the case. As a Polish speaker, I initially included retroflex affricates /ʈʂ/ and /ɖʐ/ (alongside retroflex fricative /ʂ/). I removed them later after deciding they sound too harsh for a soft-spoken language.
-
-|                     | Bilabial | Labiodental | Alveolar | Postalveolar | Velar | Glottal |
-|:-------------------:|:--------:|:-----------:|:--------:|:------------:|:-----:|:-------:|
-|       Plosive       |   p, b   |             |   t, d   |              |  k, g |         |
-|        Nasal        |     m    |             |     n    |              |       |         |
-|     Tap or flap     |          |             |     ɾ    |              |       |         |
-|      Fricative      |          |      v      |   s, z   |       ʃ      |       |    h    |
-|     Approximant     |          |             |          |       l      |   w   |         |
-|      Affricate      |          |             |          |     t̠ʃ, d̠ʒ   |       |         |
+|                     | Bilabial | Labiodental | Alveolar | Postalveolar |Palatal| Velar | Glottal |
+|:-------------------:|:--------:|:-----------:|:--------:|:------------:|:-:|:-----:|:-------:|
+|       Plosive       |   p, b   |             |   t, d   |              ||  k, g |         |
+|        Nasal        |     m    |             |     n    |              ||       |         |
+|     Tap or flap     |          |             |     ɾ    |              ||       |         |
+|      Fricative      |          |      v      |   s, z   |             |ç|       |    h    |
+|     Approximant     |          |             |          |       l      ||   w   |         |
+|      Affricate      |          |             |          |     t͡ɕ,  d͡ʑ   ||       |         |
 
 ### Vowels
 
 Rirī features the typical five-vowel system.
 
-|            | Front | Near-front | Central | Near-back | Back  |
-|------------|-------|------------|---------|-----------|-------|
-| Close      | i, i: |            |         |           | u, u: |
-| Near-close |       |            |         |           |       |
-| Close-mid  |       |            |         |           |       |
-| Mid        | e, e: |            |         |           |       |
-| Open-mid   |       |            |         |           | o, o: |
-| Near-open  |       |            |         |           |       |
-| Open       |       |            | a, a:   |           |       |
+|            | Front | Central | Back  |
+|------------|-------|---------|-------|
+| Close      | i, i: |         | u, u: |
+| Near-close |       |         |       |
+| Close-mid  |       |         |       |
+| Mid        | e, e: |         |       |
+| Open-mid   |       |         | o, o: |
+| Near-open  |       |         |       |
+| Open       |       | a, a:   |       |
 
 ### Phonotactics
 
