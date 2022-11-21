@@ -154,6 +154,8 @@ _quant. quantifier_
 
 **mīa** _1. n._ a female child (girl) _1. n._ a young woman 
 
+**mōru** *infin.* to think, suppose, believe
+
 # N
 
 **nōla** _av._ sometimes, occasionally (with unspecified frequency)
