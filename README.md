@@ -37,7 +37,7 @@ Rirī features the typical five-vowel system.
 
 #### Syllable Shape
 
-Rirī permits both open and closed syllables in **(C)(H)V(C)** (where (H) denotes a glide or liquid).
+Rirī permits both open and closed syllables in **(C)(H)V(C)** (where (H) denotes a glide, liquid or tap).
 
 General constraints:
 
