@@ -26,10 +26,6 @@ _quant. quantifier_
 
 **am** _aj._ _1._ small, meager, miniature, tiny, slight, little _2._ unimportant, insignificant, negligible, trivial
 
-**ami** _sg. pron._ they
-
-**amī** _pl. n. pron._ they 
-
 **ano** _aj._ that, yonder
 
 # B
@@ -45,16 +41,6 @@ _quant. quantifier_
 **dolu** *infin.* to come, arrive
 
 # E
-
-**em** _pron._ he 
-
-**ema** _pron._ she
-
-**emai** _pl. f. pron._ they
-
-**emi** _pl. m. pron._ they
-
-**eto** _aj. 1._ this _2. pron._ it
 
 **ētaku** _inf._ to contribute to; aid, supply
 
@@ -115,8 +101,6 @@ _quant. quantifier_
 **kava** *num.* eight (8).
 
 **ke** *aj.* satisfying or effective; good
-
-**ko** _pron._ who, whom
 
 **kohara** *1. n.* fishbowl, aquarium *2. n. inform.* an unpleasant or inconvenient situation *3. n.* nursery, kindergarten; a school for young children
 
@@ -214,8 +198,6 @@ _quant. quantifier_
 
 **sakōja** *n.* place of the condemned; hell, underworld
 
-**sai** _pl. pron._ we
-
 **sen** *n.* world, cosmos, universe, realm
 
 **sela** *num.* nine (9) 
@@ -251,8 +233,6 @@ _quant. quantifier_
 **trokē** _conj._ sometime, once
 
 **trōch** _aj._ some, a few
-
-**troip** _pron._ someone, somebody
 
 **tosō** *n.* something. **tosō āi** _inform._ you don't say
 
@@ -290,8 +270,6 @@ _quant. quantifier_
 **cha-** _pref._ not
 
 **chi** _pron._ you
-
-**chī** _pl. pron._ you
 
 **chora** _av._ infrequently, seldom, rarely
 
