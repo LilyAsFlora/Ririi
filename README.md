@@ -37,18 +37,22 @@ Rirī features the typical five-vowel system.
 
 #### Syllable Shape
 
-Rirī permits both open and closed syllables in **(C)(H)V(C)** (where (H) denotes a glide, liquid or tap).
+Rirī permits both open and closed syllables in **(C)(H)V(X)** where:
 
-General constraints:
+- (H) denotes an approximant or /ɾ/
+- (X) denotes nasals, unvoiced consonants and non-glottals
 
-- Only nasals, unvoiced consonants and non-glottals in codas
-- If the first consonant in a complex onset is a nasal, the second cannot be /w/
-- Obstruents can only cluster with sonorants
-- The first consonant in a complex onset must be an obstruent (e.g. disallowing mra)
+Additionally,
+
+- No obstruent-obstruent or sonorant-sonorant clusters may occur (even across syllables)
 
 #### Stress
 
 Rirī lacks lexical stress. However, in poetry or song, speakers may wish to apply patterns of accents to evoke a rhythmic [meter](https://en.wikipedia.org/wiki/Metre_(poetry)). Such a system is useful because it allows singers to freely emphasise syllables that land on strong beats.
+
+#### Pronunciation
+
+Often, clustered vowels (e.g. /ei/, /ai/) may become diphthongs when spoken quickly. While not strictly defined in Rirī's phonology, this is acceptable.
 
 ## Syntax and Grammar
 
