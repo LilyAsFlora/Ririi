@@ -54,7 +54,7 @@ Rirī lacks lexical stress. However, in poetry or song, speakers may wish to app
 
 ### Word Order
 
-Rirī has a de facto word order of SVO (subject-verb-object), though this is easily malleable for poetic effect. Possessors and adjectives can come before or after their nouns, whereas adpositions and auxiliary verbs precede. 
+Rirī has a de facto word order of SOV, though this is easily malleable for poetic effect. Possessors and adjectives can come before or after their nouns, whereas adpositions and auxiliary verbs tend to precede. 
 
 ### Personal Pronouns
 
@@ -148,7 +148,7 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 
 Note that the instrumental case, not accusative, is used for the noun complement of *lu* (to be).
 
-*Lu mīachu.* I am a girl.
+*Mīachu lu.* I am a girl.
 
 ### Correlatives
 
@@ -201,7 +201,7 @@ _Chi ani chali sumchi?_ Are those your knives?
 
 To negative a sentence, add the particle _ja_ (lit. "no") before the verb.
 
-Ani ja le chali sumchi. *Those are not your knives.*
+Ani chali sumchi ja le. *Those are not your knives.*
 
 ### Conjunctions
 
@@ -229,6 +229,6 @@ Such particles can be combined to create more complex meanings. Using *ve* and *
 
 ## Examples
 
-*Lu michu chali madoli.* I am the girl of your dreams.
+*Michu chali madoli lu.* I am the girl of your dreams.
 
-*Primi habi lie ku koharam. Ide rīli de primpe, "Nula vā eto haku?"* Two fish are in a tank. One turns to the other and says, "Do you know how to drive this thing?"
+*Primi habi ku koharam lie. Ide de primpe rīli, "Nula vā eto haku?"* Two fish are in a tank. One turns to the other and says, "Do you know how to drive this thing?"
