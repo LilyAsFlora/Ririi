@@ -58,7 +58,12 @@ Often, clustered vowels (e.g. /ei/, /ai/) may become diphthongs when spoken quic
 
 ### Word Order
 
-Rirī has a de facto word order of SOV, though this is easily malleable for poetic effect. Possessors and adjectives can come before or after their nouns, whereas adpositions and auxiliary verbs tend to precede. 
+Rirī has the following de facto word orders, though all are non-configurationally malleable for poetic effect.
+
+- Subject - object - verb
+- Auxiliary/negative - verb 
+- Adjective/demonstrative/numeral/possessor/adposition - noun - relative clause
+- Adverb - adjective
 
 ### Personal Pronouns
 
