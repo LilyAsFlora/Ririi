@@ -126,13 +126,13 @@ Indicated by auxiliary verbs.
 
 Causativity can be described with the verb *miku* (to give), with the action that is caused in the infinitive, and the causee in the accusative.
 
-*Mikun kronu cham.* I made you wait.
+*Cham mikun kronu.* I made you wait.
 
 Passive actions are indicated with the particle *do* (from *dolu*, "to come").
 
-*Hali han.* The wind blows.
+*Han hali.* The wind blows.
 
-*Do hali han.* The wind is blown.
+*Han do hali.* The wind is blown.
 
 ### Noun Case
 
