@@ -61,7 +61,7 @@ Often, clustered vowels (e.g. /ei/, /ai/) may become diphthongs when spoken quic
 Rirī has the following de facto word orders, though all are non-configurationally malleable for poetic effect.
 
 - Subject - object - verb
-- Auxiliary/negative - verb 
+- negative - auxiliary - adverb - verb 
 - Adjective/demonstrative/numeral/possessor/adposition - noun - relative clause
 - Adverb - adjective
 
@@ -159,7 +159,7 @@ In summary, affixes generally take priority.
 | Instrumental | suffix *chu* | suffix *chi* | 
 | Accusative   | suffix *am*  | suffix *mi* |
 
-Note that the instrumental case, not accusative, is used for the noun complement of *lu* (to be).
+Note that the instrumental case, not accusative, is used for the noun complement of *lu* (to be). 
 
 *Mīchu lu.* I am a girl.
 
@@ -212,7 +212,7 @@ _Chi ani chali sumchi?_ Are those your knives?
 
 ### Negation
 
-To negative a sentence, add the particle _ja_ (lit. "no") before the verb.
+The particle *ja* (lit. "no") indicates negation.
 
 Ani chali sumchi ja le. *Those are not your knives.*
 
@@ -242,6 +242,6 @@ Such particles can be combined to create more complex meanings. Using *ve* and *
 
 ## Examples
 
-*Mīchu chali madoli lu.* I am the girl of your dreams.
-
-*Primi habi ku koharam lie. Ide de primpe rīli, "Nula vā eto haku?"* Two fish are in a tank. One turns to the other and says, "Do you know how to drive this thing?"
+*Mī-chu cha-li madoli lu.*  
+`girl-INST you-GEN.PL dream-GEN.PL be`  
+I am the girl of your dreams.
