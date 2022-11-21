@@ -146,6 +146,8 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 
 4. If the noun ends with two vowels, the affix replaces the final vowel.
 
+In summary, affixes generally take priority.
+
 |              | Singular | Plural    | 
 |--------------|----------|-----------|
 | Possessive   | suffix *la* | suffix *li* |              
