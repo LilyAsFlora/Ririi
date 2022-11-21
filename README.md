@@ -77,7 +77,7 @@ Singular nouns are unmarked, whereas plurals are marked with suffixes *i* or *ī
 - If the noun ends with a consonant, append the suffix *i*
 - If the noun ends with a vowel, replace the vowel with *i*
 - If the noun ends with *i*, lengthen it to *ī*
-- If the noun already ends with *ī*, it can be left alone with plurality up to context, but can be optionally enforced with an auxiliary word (e.g. an adjective meaning "many").
+- If the noun already ends with *ī*, it can be left alone, or optionally enforced with an auxiliary word (e.g. an adjective meaning "many").
 
 ### Verbs
 
