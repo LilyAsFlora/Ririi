@@ -10,6 +10,8 @@ Rirī is inflected and phonetically consistent. You can access a dictionary [her
 
 ### Consonants
 
+Plosives are never aspirated.
+
 |                     | Bilabial | Labiodental | Alveolar | Postalveolar |Palatal| Velar | Glottal |
 |:-------------------:|:--------:|:-----------:|:--------:|:------------:|:-:|:-----:|:-------:|
 |       Plosive       |   p, b   |             |   t, d   |              ||  k, g |         |
@@ -73,7 +75,7 @@ Rirī includes the gender-distinguished first, second, and third person pronouns
 |--------|--------------------------|-------------------------------|
 | 1      | _sa_ — I                 | _si_ — we                   |   
 | 2      | _cha_ — you               | _chi_ — you                   |   
-| 3      | _em/ema/ano/ami_ — he/she/it/they | _emi/emī_/ani/amī- — him/her/it/they |   
+| 3      | _em/ema/ano/ami_ — he/she/it/they | _emi/emī_/ani/amī- — they (m.) / they (f.) /it/they |   
 
 ### Plurality
 
@@ -242,6 +244,6 @@ Such particles can be combined to create more complex meanings. Using *ve* and *
 
 ## Examples
 
-*Mī-chu cha-li madoli lu.*  
+*Mī-chu cha-li mado-li lu.*  
 `girl-INST you-GEN.PL dream-GEN.PL be`  
 I am the girl of your dreams.
