@@ -126,9 +126,9 @@ Causativity can be described with the verb *miku* (to give), with the action tha
 
 Passive actions are indicated with the particle *do* (from *dolu*, "to come").
 
-*Han hali.* The wind blows.
+*Hali han.* The wind blows.
 
-*Han do hali.* The wind is blown.
+*Do hali han.* The wind is blown.
 
 ### Noun Case
 
@@ -140,6 +140,8 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 
 3. If the final syllable of a word and the suffix either both begin with a sonorant or an obstruent, the suffix replaces the syllable. This also happens if both syllables have matching rimes. To illustrate: the possessive case of *madora* ("dream") is *madola*, not *madorala*. This does not apply to monosyllabic nouns.
 
+4. If the noun ends with two vowels, the affix replaces the final vowel.
+
 |              | Singular | Plural    | 
 |--------------|----------|-----------|
 | Possessive   | suffix *la* | suffix *li* |              
@@ -148,7 +150,7 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 
 Note that the instrumental case, not accusative, is used for the noun complement of *lu* (to be).
 
-*Mīachu lu.* I am a girl.
+*Mīchu lu.* I am a girl.
 
 ### Correlatives
 
@@ -229,6 +231,6 @@ Such particles can be combined to create more complex meanings. Using *ve* and *
 
 ## Examples
 
-*Michu chali madoli lu.* I am the girl of your dreams.
+*Mīchu chali madoli lu.* I am the girl of your dreams.
 
 *Primi habi ku koharam lie. Ide de primpe rīli, "Nula vā eto haku?"* Two fish are in a tank. One turns to the other and says, "Do you know how to drive this thing?"
