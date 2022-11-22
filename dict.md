@@ -140,6 +140,8 @@ _quant. quantifier_
 
 **mīa** _1. n._ a female child (girl) _1. n._ a young woman 
 
+**mō** *conj.* though, although, however, nevertheless
+
 **mōru** *infin.* to think, suppose, believe
 
 # N
