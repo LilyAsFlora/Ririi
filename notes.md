@@ -16,5 +16,9 @@
 
 **po** characteristic adjective
 
+**ma**  augmenting
+
+**am** diminishing
+
 
 
