@@ -120,6 +120,8 @@ _quant. quantifier_
 
 **ku** _ad._ at, in
 
+**kunu** *infin. 1.* to poke, nudge, prod *2.* to touch, feel, handle
+
 # L
 
 **lazu** _infin._ to know (someone personally), to be familiar with
@@ -142,11 +144,31 @@ _quant. quantifier_
 
 # N
 
+**namu** *infin.* to hide, conceal oneself
+
 **nōla** _av._ sometimes, occasionally (with unspecified frequency)
 
 **nin** *conj.* used to introduce the second element in a comparison; than
 
+**nika** *1. n.* twig, stick *2.* brick, building block *3.* element, facet (of a larger whole) 
+
+**nima** *n. 1.* a mansion, hall *2.* a large building or block
+
+**nini** *n. 1.* village; a small or countryside settlement *2.* community, organisation, society
+
+**nipī** *n. fig.* a withdrawn person; one who protects their values
+
+**nipo** *aj. 1.* comfortable, at home *2.* warm, heated
+
+**nire** *1. n.* house, home *2. n.* bird's nest
+
+**niru** *infin.* to build, construct
+
+**nono** *n.* city, muncipality
+
 **nu** *infin.* to know, be aware of, have knowledge of
+
+**nunu** *n.* town; an incorporated community
 
 # O
 
@@ -205,6 +227,10 @@ _quant. quantifier_
 **sola** *num.* four (4).
 
 **solve** *num.* seven (7).
+
+**sonu** *infin.* to comfort, assuage, soothe
+
+**sonā** *n.* comfort, warmth, ease
 
 **sō** _pron._ what. **sō a sō** _inform._ whatever, I don't care
 
@@ -284,6 +310,10 @@ _quant. quantifier_
 **jam** *1. aj.* big, large, huge, great *2. aj.* intimidating or menacing in a predatory manner
 
 **jalu** *av.* more, to a greater extent
+
+**jara** *1. n.* the outside, outdoors *2.* a foreign land or country; unfamiliar territory
+
+**jaru** *infin.* to exit, leave, depart
 
 **jasen** *n.* _1._ unreality, fantasy, illusion _2._ imitation, counterfeit, imposter, forgery, deception, phony, hoax, sham
 
