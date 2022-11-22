@@ -54,9 +54,9 @@ Rirī lacks lexical stress. However, in poetry or song, speakers may wish to app
 
 #### Pronunciation
 
-Often, clustered vowels (e.g. /ei/, /ai/) may become diphthongs when spoken quickly. While not strictly defined in Rirī's phonology, this is acceptable.
+Often, clustered vowels (e.g. /ei/, /ai/) may become diphthongs when spoken quickly. While not strictly defined in Rirī's phonology, this is acceptable. By default, one should not aspirate plosives, and touch articulators lightly, as if using as little breath as possible.
 
-## Syntax and Grammar
+## Syntax, Grammar and Morphology
 
 ### Word Order
 
@@ -64,7 +64,7 @@ Rirī has the following de facto word orders, though all are non-configurational
 
 - Subject - object - verb
 - negative - auxiliary - adverb - verb 
-- Adjective/demonstrative/numeral/possessor/adposition - noun - relative clause
+- Adjective/demonstrative/numeral/possessor/adposition/relative clause - noun
 - Adverb - adjective
 
 ### Personal Pronouns
@@ -164,6 +164,20 @@ In summary, affixes generally take priority.
 Note that the instrumental case, not accusative, is used for the noun complement of *lu* (to be). 
 
 *Mīchu lu.* I am a girl.
+
+### Subclauses
+
+#### Nominal Clauses
+
+Nominal clauses are unmarked, appearing wherever the noun they are acting as would.
+
+#### Relative Clauses
+
+Relative clauses are placed before the noun they modify.
+
+#### Adverbial Clauses
+
+TODO
 
 ### Correlatives
 
