@@ -22,6 +22,8 @@ _quant. quantifier_
 
 **āi** *1. interj.* yes; an expression of agreement *2. av.* in this way, like this
 
+**ampa** *n.* snow(flake, crystal)
+
 **ānon** *n.* the English language
 
 **am** _aj._ _1._ small, meager, miniature, tiny, slight, little _2._ unimportant, insignificant, negligible, trivial
@@ -29,6 +31,8 @@ _quant. quantifier_
 **ano** _aj._ that, yonder
 
 # B
+
+**babo** *aj.* calm, orderly, peaceful, tranquil
 
 **bās** *n.* smile, grin, beam, smirk
 
@@ -180,9 +184,19 @@ _quant. quantifier_
 
 # P
 
+**pam** *n.* snow, ice
+
+**pama** *n. 1.* blizzard, snowstorm *2.* chaos, entropy, disorder 
+
+**pane** *aj.* snowy, frigid, frosty, frozen
+
+**papī** *n. 1.* an arctic animal *2.* baby, infant
+
 **pasen** _1._ multiverse _2._ interconnection of realms or universes _3._ nexus, center, connection, core, network, link
 
 **pi** *num.* three (3)
+
+**pona** *n. 1.* snowfield, glacier *2.* an extremely cold area
 
 **popo** *aj.* similar, alike
 
