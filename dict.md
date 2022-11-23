@@ -196,6 +196,8 @@ _quant. quantifier_
 
 **pi** *num.* three (3)
 
+**pomu** *infin. 1.* to cover, envelop *2.* to fall, drop *3.* to freeze, solidify, cool
+
 **pona** *n. 1.* snowfield, glacier *2.* an extremely cold area
 
 **popo** *aj.* similar, alike
