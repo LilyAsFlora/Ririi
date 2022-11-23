@@ -257,7 +257,12 @@ Note that this would hold the same in reverse order (*ma da*).
 Such particles can be combined to create more complex meanings. Using *ve* and *tu* together, for example, mixes disgust and anger to create contempt. Placing one at the beginning of a sentence, and one at the end, could imply a change in mood, or that the speaker is ambivalent regarding their feelings. Nevertheless, this tool has most use in song: particles could emphasise certain beats, fill space not taken by other words, and as aforementioned, offer rhyme and alliteration.
 
 ## Examples
+The first two lines of Robert Frost's poem "Stopping by the Woods on a Snowy Evening":
 
-*Mī-chu cha-li mado-li lu.*  
-`girl-INST you-GEN.PL dream-GEN.PL be`  
-I am the girl of your dreams.
+K-la e-tu shi-chu l-i mōru nu  
+`who-ɢᴇɴ this-ᴀᴄᴄ forest-ᴀᴄᴄ be.3 suppose.1 know.1 `  
+Whose woods these are I think I know  
+
+Em-la nire de nin-am mō ku ru  
+`he-ɢᴇɴ house in village-ᴀᴄᴄ though`  
+His house is in the village though  
