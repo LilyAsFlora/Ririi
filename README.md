@@ -173,11 +173,13 @@ Nominal clauses are unmarked, appearing wherever the noun they are acting as wou
 
 #### Relative Clauses
 
-Relative clauses are placed before the noun they modify.
+Relative clauses are placed before the noun they modify. // TODO
 
 #### Adverbial Clauses
 
-TODO
+##### Purpose
+
+Turn the "purpose" phrase into a nominal clause and introduce the adposition *ku* (at, in).
 
 ### Correlatives
 
@@ -188,7 +190,7 @@ A table of common correlatives.
 | adjective | _ga_ — which |  _eto_ — this |  _ano_ — that |    _tōch_ — some   |     _ja_ — no     |     _hās_ — every     |
 |   person  |  _ko_ — who  |  _eto_ — this |  _ano_ — that |   _tore_ — someone  |  _jare_ — no-one  |   _hāsi_ — everyone  |
 |   thing   | _sō_ — what |  _eto_ — this |  _ano_ — that | _tosō_ — something | _jasō_ — nothing |  _hāsō_ — everything |
-|   place   | _ra_ — where | _abo_ — here | _ane_ — there |  _tora_ — somewhere |  _jara_ — nowhere | _hāsu_ — everywhere |
+|   place   | _ra_ — where | _bo_ — here | _ane_ — there |  _tora_ — somewhere |  _jara_ — nowhere | _hāsu_ — everywhere |
 |    time   | _kē_ — when |  _tera_ — now |  _ana_ — then |  _tokē_ — sometime |  _jakē_ — never  |    _hākē_ — always   |
 |    way    |  _vā_ — how |               |  _vem_ — thus |  _tovā_ — somehow  |                   |                        |
 |   reason  |  _nē_ — why |               |               |                      |                   |                        |
@@ -257,12 +259,27 @@ Note that this would hold the same in reverse order (*ma da*).
 Such particles can be combined to create more complex meanings. Using *ve* and *tu* together, for example, mixes disgust and anger to create contempt. Placing one at the beginning of a sentence, and one at the end, could imply a change in mood, or that the speaker is ambivalent regarding their feelings. Nevertheless, this tool has most use in song: particles could emphasise certain beats, fill space not taken by other words, and as aforementioned, offer rhyme and alliteration.
 
 ## Examples
-The first two lines of Robert Frost's poem "Stopping by the Woods on a Snowy Evening":
+The first stanza of Robert Frost's poem "Stopping by the Woods on a Snowy Evening":
 
+*Kla etu shichu li mōru nu*  
 K-la e-tu shi-chu l-i mōru nu  
 `who-ɢᴇɴ this-ᴀᴄᴄ forest-ᴀᴄᴄ be.3 suppose.1 know.1 `  
-Whose woods these are I think I know  
+"Whose woods these are I think I know"  
 
-Em-la nire de nin-am mō ku ru  
+*Ela nire de ninam mō ku ru*  
+E-la nire de nin-am mō ku ru  
 `he-ɢᴇɴ house in village-ᴀᴄᴄ though`  
-His house is in the village though  
+"His house is in the village though"
+
+*Sām bo sūtu ku vidu pam*  
+*Ela shichu pomu ja wulita chu.*  
+S-ām bo sūtu ku vidu pam  
+E-la shi-chu pomu ja wu-li-ta chu.  
+`I-ᴀᴄᴄ here rest in see snow`  
+`he-ɢᴇɴ forest-ᴀᴄᴄ fill no see-3ғᴜᴛ`  
+"He will not see me stopping here  
+To watch his woods fill up with snow."  
+
+
+
+
