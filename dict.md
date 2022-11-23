@@ -244,6 +244,8 @@ _quant. quantifier_
 
 **sumane** _aj._ separated, detached, divorced, partitioned, divided, split, cut apart
 
+**sūtu** *infin.* to rest, stop, halt, pause
+
 # T
 
 **tom** _1._ fire, flame, blaze, inferno _2._ barrage, bombardment, volley
@@ -289,6 +291,8 @@ _quant. quantifier_
 **wān** *n.* drone, robot, automation
 
 **wankō** _aj._ robotic, robot-like
+
+**wu** *infin. 1.* to see, make out, discern, view *2.* to scrutinise; observe with detail
 
 # Z
 
