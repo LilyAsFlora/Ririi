@@ -10,8 +10,6 @@ Rirī is inflected and phonetically consistent. You can access a dictionary [her
 
 ### Consonants
 
-Plosives are never aspirated.
-
 |                     | Bilabial | Labiodental | Alveolar | Postalveolar |Palatal| Velar | Glottal |
 |:-------------------:|:--------:|:-----------:|:--------:|:------------:|:-:|:-----:|:-------:|
 |       Plosive       |   p, b   |             |   t, d   |              ||  k, g |         |
@@ -46,7 +44,7 @@ Rirī permits both open and closed syllables in **(C)(H)V(X)** where:
 
 Additionally,
 
-- No obstruent-obstruent clusters may occur (even across syllables)
+- No obstruent-obstruent clusters may occur (even across syllables).
 
 #### Stress
 
@@ -54,7 +52,7 @@ Rirī lacks lexical stress. However, in poetry or song, speakers may wish to app
 
 #### Pronunciation
 
-Often, clustered vowels (e.g. /ei/, /ai/) may become diphthongs when spoken quickly. While not strictly defined in Rirī's phonology, this is acceptable. By default, one should not aspirate plosives, and touch articulators lightly, as if using as little breath as possible.
+Often, clustered vowels (e.g. /ei/, /ai/) may become diphthongs when spoken quickly. While not strictly defined in Rirī's phonology, this is acceptable. When speaking, one should touch articulators lightly, as if using as little breath as possible (unless there is a good reason to do otherwise, e.g. to create tone).
 
 ## Syntax, Grammar and Morphology
 
@@ -147,7 +145,7 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 
 1. If simply pasting an affix onto a word results in joined vowels, the affix's vowel always replacs the word's vowel. If the word's vowel is long, this vowel is shortened and joined to the affix. 
 
-2. If clustered obstruents or sonorants occur, the affix replaces the noun's consonant.
+2. If clustered obstruents occur, the affix replaces the noun's consonant.
 
 3. If the final syllable of a word and the suffix either both begin with a sonorant or an obstruent, the suffix replaces the syllable. This also happens if both syllables have matching rimes. To illustrate: the possessive case of *madora* ("dream") is *madola*, not *madorala*. This does not apply to monosyllabic nouns.
 
@@ -222,21 +220,21 @@ To form yes-no questions, one can apply the particles _chi_, _chou_ and _chao_ a
 
 #### **Chi: neutral**
 
-_Chi ani chali sumchi?_ Are those your knives?
+_Chi ani chali suchi?_ Are those your knives?
 
 #### Chou: expecting "yes"
 
-*Chou ani chali sumchi?* Those are your knives, right?
+*Chou ani chali suchi?* Those are your knives, right?
 
 #### Chao: expecting "no"
 
-*Chao ani chali sumchi?* Those aren't your knives, are they?
+*Chao ani chali suchi?* Those aren't your knives, are they?
 
 ### Negation
 
 The particle *ja* (lit. "no") indicates negation.
 
-Ani chali sumchi ja le. *Those are not your knives.*
+Ani chali suchi ja. *Those are not your knives.*
 
 ### Conjunctions
 
