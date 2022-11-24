@@ -46,7 +46,7 @@ Rirī permits both open and closed syllables in **(C)(H)V(X)** where:
 
 Additionally,
 
-- No obstruent-obstruent or sonorant-sonorant clusters may occur (even across syllables)
+- No obstruent-obstruent clusters may occur (even across syllables)
 
 #### Stress
 
@@ -212,6 +212,10 @@ The cleaner glasses. *Ēli viki.*
 
 The cleanest glasses. *Elili viki.*
 
+### Dimiution and Augmentation
+
+Diminution can be marked on a noun by inserting /n/ before final vowels. Conversely, for augmentation, this can be done with /z/.
+
 ### Yes-no Questions
 
 To form yes-no questions, one can apply the particles _chi_, _chou_ and _chao_ at either end of a sentence.  _Chi_ can also mean "or." These particles are not necessary to form questions, and are more suited for emphasis.
@@ -266,15 +270,15 @@ K-la e-tu shi-chu l-i mōru nu
 `who-ɢᴇɴ this-ᴀᴄᴄ forest-ᴀᴄᴄ be.3 suppose.1 know.1 `  
 "Whose woods these are I think I know"  
 
-*Ela nire de ninam mō ku ru*  
-E-la nire de nin-am mō ku ru  
+*Emla nire de ninam mō ku ru*  
+Em-la nire de nin-am mō ku ru  
 `he-ɢᴇɴ house in village-ᴀᴄᴄ though`  
 "His house is in the village though"
 
 *Sām bo sūtu ku vidu pam*  
-*Ela shichu pomu ja wulita chu.*  
+*Emla shichu pomu ja wulita chu.*  
 S-ām bo sūtu ku vidu pam  
-E-la shi-chu pomu ja wu-li-ta chu.  
+Em-la shi-chu pomu ja wu-li-ta chu.  
 `I-ᴀᴄᴄ here rest in see snow`  
 `he-ɢᴇɴ forest-ᴀᴄᴄ fill no see-3ғᴜᴛ`  
 "He will not see me stopping here  
