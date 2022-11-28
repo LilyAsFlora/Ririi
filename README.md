@@ -62,7 +62,7 @@ Rirī has the following de facto word orders, though all are non-configurational
 
 - Subject - object - verb
 - negative - auxiliary - adverb - verb 
-- Adjective/demonstrative/numeral/possessor/adposition/relative clause - noun
+- possessor - demonstrative - adposition - numeral - relative clause - adjective
 - Adverb - adjective
 
 ### Personal Pronouns
