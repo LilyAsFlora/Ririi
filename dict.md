@@ -156,7 +156,7 @@ _quant. quantifier_
 
 **nin** *conj.* used to introduce the second element in a comparison; than
 
-**nika** *1. n.* twig, stick *2.* brick, building block *3.* element, facet (of a larger whole) 
+**nika** *1. n.* twig, stick *2.* brick, building block *3.* element, facet (of a larger whole) *4.* a general insult; idiot, fool, moron
 
 **nima** *n. 1.* a mansion, hall *2.* a large building or block
 
