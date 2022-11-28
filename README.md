@@ -250,7 +250,7 @@ Rirī provides a set of monosyllabic "rhyme particles" that lack lexical semanti
 
 |Consonant|b p|m n|l r|k g|w|v|s z|ch j|t d|sh|h|
 |-|-|-|-|-|-|-|-|-|-|-|-
-|Meaning|joy|sorrow|trust|fear|surprise|disgust|anger|anticipation|weakening of meaning|strengthening of meaning|(no mood)|
+|Meaning|joy, serenity|sorrow, pain|trust, hope|doubt, fear|surprise, curiosity|disgust|anger, impatience|anticipation|weakening of meaning|strengthening of meaning|(no mood)|
 
 To illustrate: the particles *da ma* can serve two purposes:
 - Evoking sorrow (as indicating by *m*) of a powerful nature (as indicated by *d*),  
