@@ -282,6 +282,10 @@ _quant. quantifier_
 
 **tosō** *n.* something. **tosō āi** _inform._ you don't say
 
+**tusno** *n.* child, youngster; one not of adulthood
+
+**tūsu** *infin.* *1.* to fail, blunder; to make a mistake *2.* to lie, deceive
+
 # U
 
 **uk** *n.* hole, crack, crater, gap
