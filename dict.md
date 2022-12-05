@@ -120,7 +120,7 @@ _quant. quantifier_
 
 **kronu** _infin._ to (a)wait, stall, stick around, stand by
 
-**kronkō** _aj._ old, aged, ancient, elderly
+**kroko** _aj._ old, aged, ancient, elderly
 
 **ku** _ad._ at, in
 
@@ -275,6 +275,10 @@ _quant. quantifier_
 **tomon** *n.* fireplace, campfire, fireside, bonfire
 
 **tomu** _infin._ to be or set on fire; burn, char, heat, ignite 
+
+**torane** _aj. 1._ left behind, forsaken, blown over *2.* missing, absent *3. fig.* something extremely far away (from the speaker's perspective)
+
+**toru** *infin.* to leave behind, abandon *2.* to forget
 
 **trokē** _conj._ sometime, once
 
