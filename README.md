@@ -23,15 +23,18 @@ Rirī is inflected and phonetically consistent. You can access a dictionary [her
 
 Rirī features the typical five-vowel system.
 
+- /e/ is the open-mid front unrounded vowel [ɛ]
+- /u/ is the close back unrounded vowel [ɯ]
+
 |            | Front | Central | Back  |
 |------------|-------|---------|-------|
 | Close      | i, i: |         | u, u: |
 | Near-close |       |         |       |
 | Close-mid  |       |         |       |
 | Mid        | e, e: |         |       |
-| Open-mid   |       |         | o, o: |
+| Open-mid   |       |         |       |
 | Near-open  |       |         |       |
-| Open       |       | a, a:   |       |
+| Open       |       | a, a:   | ɒ, ɒ: |
 
 ### Phonotactics
 
