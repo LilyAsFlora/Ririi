@@ -51,7 +51,7 @@ Additionally,
 
 #### Stress
 
-Rirī lacks lexical stress. However, in poetry or song, speakers may wish to apply patterns of accents to evoke a rhythmic [meter](https://en.wikipedia.org/wiki/Metre_(poetry)). Such a system is useful because it allows singers to freely emphasise syllables that land on strong beats.
+Rirī lacks a strict lexical stress. However, in poetry or song, speakers may wish to apply patterns of accents to evoke a rhythmic [meter](https://en.wikipedia.org/wiki/Metre_(poetry)). Such a system is useful because it allows singers to freely emphasise syllables that land on strong beats.
 
 #### Pronunciation
 
