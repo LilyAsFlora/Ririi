@@ -217,6 +217,12 @@ The cleanest glasses. *Elili viki.*
 
 Diminution can be marked on a noun by inserting /n/ before final vowels. Conversely, for augmentation, this can be done with /z/.
 
+*Haba.* Fish.
+
+*Habna.* (Little, cute, young, etc.) fish.
+
+*Habza.* (Big, old, etc.) fish.
+
 ### Yes-no Questions
 
 To form yes-no questions, one can apply the particles _chi_, _chou_ and _chao_ at either end of a sentence.  _Chi_ can also mean "or." These particles are not necessary to form questions, and are more suited for emphasis.
