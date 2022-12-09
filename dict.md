@@ -152,8 +152,6 @@ _quant. quantifier_
 
 **namu** *infin.* to hide, conceal oneself
 
-**nōla** _av._ sometimes, occasionally (with unspecified frequency)
-
 **nin** *conj.* used to introduce the second element in a comparison; than
 
 **nika** *1. n.* twig, stick *2.* brick, building block *3.* element, facet (of a larger whole) *4.* a general insult; idiot, fool, moron
@@ -171,6 +169,12 @@ _quant. quantifier_
 **niru** *infin.* to build, construct
 
 **nono** *n.* city, muncipality
+
+**novi** _n. 1._ friend, companion, sidekick _2._ confidant(e), mentor, advisor
+
+**nōla** _av._ sometimes, occasionally (with unspecified frequency)
+
+**nōvu** _infin. 1._ to trust, confide in, count on _2._ to befriend
 
 **nu** *infin.* to know, be aware of, have knowledge of
 
