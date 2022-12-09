@@ -8,6 +8,8 @@ Rirī is inflected and phonetically consistent. You can access a dictionary [her
 
 ## Phonology
 
+Given its purpose, Rirī's phonology suits simply what I consider euphonious, being loosely influenced by Latin and Japanese. Indeed, as a Polish speaker, the consonant set originally included both retroflex affricates and fricatives, before I decided they sound too harsh for a soft-spoken language. Thus, delicate consonants like /l/, /ɾ/, nasals, and close/mid vowels tend to appear most frequently in the lexicon, particularly in comparison to voiced plosives.
+
 ### Consonants
 
 |                     | Bilabial | Labiodental | Alveolar | Postalveolar |Palatal| Velar | Glottal |
@@ -29,11 +31,7 @@ Rirī features the typical five-vowel system.
 |            | Front | Central | Back  |
 |------------|-------|---------|-------|
 | Close      | i, i: |         | u, u: |
-| Near-close |       |         |       |
-| Close-mid  |       |         |       |
 | Mid        | e, e: |         |       |
-| Open-mid   |       |         |       |
-| Near-open  |       |         |       |
 | Open       |       | a, a:   | ɒ, ɒ: |
 
 ### Phonotactics
@@ -43,19 +41,21 @@ Rirī features the typical five-vowel system.
 Rirī permits both open and closed syllables in **(C)(H)V(X)** where:
 
 - (H) denotes an approximant or /ɾ/
-- (X) denotes nasals, unvoiced consonants and non-glottals
+- (X) denotes nasals and unvoiced consonants, excluding /h/
 
 Additionally,
 
 - No obstruent-obstruent clusters may occur (even across syllables).
 
+Note that although Rirī permits closed and open syllables, the former is significantly less common, and even less so where codas include a non-nasal.
+
 #### Stress
 
-Rirī lacks a strict lexical stress. However, in poetry or song, speakers may wish to apply patterns of accents to evoke a rhythmic [meter](https://en.wikipedia.org/wiki/Metre_(poetry)). Such a system is useful because it allows singers to freely emphasise syllables that land on strong beats.
+Rirī lacks a strict lexical stress, but in poetry or song, speakers may wish to apply patterns of accents to evoke a rhythmic [meter](https://en.wikipedia.org/wiki/Metre_(poetry)). Such a system is useful because it allows singers to freely emphasise syllables that land on strong beats.
 
 #### Pronunciation
 
-Often, clustered vowels (e.g. /ei/, /ai/) may become diphthongs when spoken quickly. While not strictly defined in Rirī's phonology, this is acceptable. When speaking, one should touch articulators lightly, as if using as little breath as possible (unless there is a good reason to do otherwise, e.g. to create tone).
+Often, clustered vowels (e.g. \[ɛi], \[ai]) may become diphthongs when spoken quickly. While not strictly defined in Rirī's phonology, this is acceptable and, while speaking, one should touch articulators lightly, as if using as little breath as possible (unless there is a good reason to do otherwise).
 
 ## Syntax, Grammar and Morphology
 
@@ -70,7 +70,7 @@ Rirī has the following de facto word orders, though all are non-configurational
 
 ### Personal Pronouns
 
-Rirī includes the gender-distinguished first, second, and third person pronouns. Notice the distinction between plural and singular _they_. _Emi_ is used in reference to groups with one or more masculine entities, whereas _emī_ is used in reference to groups of strictly feminine entities. If ambiguous, inanimate or otherwise neuter, _amī_ may be used.
+Rirī includes the gender-distinguished first, second, and third person pronouns. Notice the distinction between plural and singular _they_. One should use _emi_ in reference to groups with one or more masculine entities, and _emī_ for groups of strictly feminine entities. If ambiguous, inanimate or otherwise neuter, _amī_ is an option.
 
 | Person | Singular                  | Plural                        |   
 |--------|--------------------------|-------------------------------|
@@ -85,7 +85,7 @@ Singular nouns are unmarked, whereas plurals are marked with suffixes *i* or *ī
 - If the noun ends with a consonant, append the suffix *i*
 - If the noun ends with a vowel, replace the vowel with *i*
 - If the noun ends with *i*, lengthen it to *ī*
-- If the noun already ends with *ī*, it can be left alone, or optionally enforced with an auxiliary word (e.g. an adjective meaning "many").
+- If the noun already ends with *ī*, it can be left alone, or enforced with an auxiliary word, such as a quantifier.
 
 ### Verbs
 
@@ -150,11 +150,11 @@ Rirī features three marked cases: possessive, instrumental, and accusative. The
 
 2. If clustered obstruents occur, the affix replaces the noun's consonant.
 
-3. If the final syllable of a word and the suffix either both begin with a sonorant or an obstruent, the suffix replaces the syllable. This also happens if both syllables have matching rimes. To illustrate: the possessive case of *madora* ("dream") is *madola*, not *madorala*. This does not apply to monosyllabic nouns.
+3. If the final syllable of a word and the suffix either both begin with a sonorant or an obstruent, the suffix replaces the syllable. This also happens if both syllables have matching rimes. To illustrate: the possessive case of *madora* ("dream") is *madola*, not *madorala*. This does **not** apply to monosyllabic nouns, which follow a more unpredictable declension.
 
 4. If the noun ends with two vowels, the affix replaces the final vowel.
 
-In summary, affixes generally take priority.
+In summary, affixes take priority.
 
 |              | Singular | Plural    | 
 |--------------|----------|-----------|
@@ -261,7 +261,7 @@ To illustrate: the particles *da ma* can serve two purposes:
 
 Note that this would hold the same in reverse order (*ma da*).
 
-Such particles can be combined to create more complex meanings. Using *ve* and *tu* together, for example, mixes disgust and anger to create contempt. Placing one at the beginning of a sentence, and one at the end, could imply a change in mood, or that the speaker is ambivalent regarding their feelings. Nevertheless, this tool has most use in song: particles could emphasise certain beats, fill space not taken by other words, and as aforementioned, offer rhyme and alliteration.
+One can combine these particles to create more complex meanings. Using *ve* and *tu* together, for example, mixes disgust and anger to create contempt. Placing one at the beginning of a sentence, and one at the end, could imply a change in mood, or that the speaker is ambivalent in their emotion. Nevertheless, this tool has most use in song: particles could emphasise certain beats, fill space not taken by other words, and as aforementioned, offer rhyme and alliteration.
 
 ## Examples
 The first stanza of Robert Frost's poem "Stopping by the Woods on a Snowy Evening":
