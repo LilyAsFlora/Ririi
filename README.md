@@ -2,7 +2,7 @@
 
 | ![alt text](https://github.com/LilyAsFlora/Ririi/blob/master/flagproject.png "Rirī flag") |
 |:--:|
-|*Rirī flag — lily flower, pink for femininity, and white for purity.*|
+|*Rirī flag: white and pink for purity and femininity, and a lily flower|
 
 Rirī is a personal [artistic language](https://en.wikipedia.org/wiki/Artistic_language) (artlang) designed for poetry, song, diaries, or other artistic expression. Stemming from "ri", "flower" and "rī", "speech", its name roughly translates to "flower speech" or "floral language".
 
@@ -10,7 +10,7 @@ Rirī is inflected and phonetically consistent. You can access a dictionary [her
 
 ## Phonology
 
-Given its purpose, Rirī's phonology suits simply what I consider euphonious, being loosely influenced by Latin and Japanese. Indeed, as a Polish speaker, the consonant set originally included both retroflex affricates and fricatives, before I decided they sound too harsh for a soft-spoken language. Thus, delicate consonants like /l/, /ɾ/, nasals, and close/mid vowels tend to appear most frequently in the lexicon, particularly in comparison to voiced plosives.
+Given its purpose, Rirī's phonology suits simply what I consider euphonious, being loosely influenced by Latin and Japanese. As a Polish speaker, the consonant set originally included both retroflex affricates and fricatives, before I decided they sound too harsh for a soft-spoken language. Thus, delicate consonants like /l/, /ɾ/, nasals, and close/mid vowels tend to appear most frequently in the lexicon, particularly in comparison to voiced plosives.
 
 ### Consonants
 
