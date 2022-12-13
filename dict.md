@@ -46,9 +46,19 @@ _quant. quantifier_
 
 # E
 
+**eam** *n. 1.* booklet, leaflet, pamphlet *2.* letter, message, postcard
+
 **ētaku** _inf._ to contribute to; aid, supply
 
 **eli** *aj.* wet, damp
+
+**eon** *n. 1.* library *2.* study, office
+
+**esō** *aj* printed, written, lettered 
+
+**estia** *n. 1.* a work of writing; a book *2.* candle, torch
+
+**ēu** *infin. 1.* to comprehend, understand *2.* to learn, study, educate oneself on
 
 # G
 
@@ -138,6 +148,8 @@ _quant. quantifier_
 
 **madora**  _n._ a dream (one experiences while asleep)
 
+**maes** *n. 1.* scroll, parchment *2.* (a strict) algorithm, recipe, method
+
 **miku** *infin.* to give, grant
 
 **michu** _infin._ to go by, pass
@@ -151,6 +163,8 @@ _quant. quantifier_
 # N
 
 **namu** *infin.* to hide, conceal oneself
+
+**nesō** *aj.* handwritten, penned
 
 **nin** *conj.* used to introduce the second element in a comparison; than
 
