@@ -2,14 +2,14 @@
 
 A collection of (hypothetical) given names constructed from my favourite Rirī vocabulary. Although the European speaker would perceive the majority as feminine, none of the following are tied to gender.
 
-**Estia** — intelligent, well-crafted, prideful (lit. "work of writing")
+**Estia** `[ɛs.ti.a]` — intelligent, well-crafted, prideful (lit. "work of writing")
 
-**Kōa** — hard-working, persevering; one who awaits their reward (from *kron*, "time")
+**Kōa** `[kɒ:.a]` — hard-working, persevering; one who awaits their reward (from *kron*, "time")
 
-**Nini** — stimulating, restorating; a rescuer (lit. "village")
+**Nini** `[ni.ni]` — stimulating, restorating; a rescuer (lit. "village")
 
-**Madora** — illusive, unpredictable (lit. "dream")
+**Madora** `[ma.dɒ.ɾa]` — illusive, unpredictable (lit. "dream")
 
-**Mōra** — thinking, studious, reasonable (from *mōru*, "to suppose")
+**Mōra** `[mɒ:.ɾa]` — thinking, studious, reasonable (from *mōru*, "to suppose")
 
-**Sona** — soothing, protecting, motherly (lit. "warm")
+**Sona** `[sɒ:.na]` — soothing, protecting, motherly (lit. "warm")
