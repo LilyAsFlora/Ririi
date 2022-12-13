@@ -1,6 +1,6 @@
 # Rirī
 
-| ![alt text](https://github.com/LilyAsFlora/Ririi/blob/master/flagproject.png "Rirī flag") |
+| ![alt text](https://github.com/LilyAsFlora/Ririi/blob/master/flag.png "Rirī flag") |
 |:--:|
 |*Rirī flag: white for purity, pink for femininity*|
 
