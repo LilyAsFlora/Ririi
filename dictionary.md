@@ -112,6 +112,8 @@ _quant. quantifier_
 
 **kahu** *1. infin.* to search or look for, seek *2. infin.* to prey on, hunt (with malicious or selfish intent)
 
+**kami** *n. 1.* video camera, recorder *2.* any piece of electronic equipment *3.* paintbrush; a tool for creating pictures
+
 **kava** *num.* eight (8).
 
 **ke** *aj.* satisfying or effective; good
@@ -150,19 +152,37 @@ _quant. quantifier_
 
 **maes** *n. 1.* scroll, parchment *2.* (a strict) algorithm, recipe, method
 
+**mam** *n. 1.* postage stamp *2.* icon, symbol, motif, representation *3.* pattern, recurrence, arrangement
+
 **miku** *infin.* to give, grant
 
 **michu** _infin._ to go by, pass
 
+**milu** *aj. 1.* solid, hard, robust *2.* merged, compiled, united 
+
+**mio** *n. 1.* photo, picture *2.* painting, drawing *3.* a work of visual art
+
+**mima** *n. 1.* tapestry, drapery, mural; a large collection of art 
+
+**mipō** *aj. 1.* visible, discernible, evident, detectable
+
+**miso** *n. 1* something in an unmoving or resting state; calmness *2.* the solid state of matter
+
 **mīa** _1. n._ a female child (girl) _1. n._ a young woman 
+
+**mīu** *infin.* to regret, have remorse for
 
 **mō** *conj.* though, although, however, nevertheless
 
 **mōru** *infin.* to think, suppose, believe
 
+**mu** *infin. 1.* to remember, recall, recollect
+
 # N
 
 **namu** *infin.* to hide, conceal oneself
+
+**nem** *n. 1.* film, video, recording *2.* heap, compilation, collection, assortment, anthology
 
 **nesō** *aj.* handwritten, penned
 
@@ -214,6 +234,8 @@ _quant. quantifier_
 
 **pi** *num.* three (3)
 
+**pim** *n. 1.* photographer, filmer, journalist *2. fig.* one with an extraordinary memory
+
 **pomu** *infin. 1.* to cover, envelop *2.* to fall, drop *3.* to freeze, solidify, cool
 
 **pona** *n. 1.* snowfield, glacier *2.* an extremely cold area
@@ -256,6 +278,8 @@ _quant. quantifier_
 
 **sakōja** *n.* place of the condemned; hell, underworld
 
+**sami** *n.* album, photobook, scrapbook
+
 **sen** *n.* world, cosmos, universe, realm
 
 **sela** *num.* nine (9) 
@@ -286,7 +310,7 @@ _quant. quantifier_
 
 **tombī** *n.* mythical beast; a dragon 
 
-**tombri** *n.* candle, torch, taper
+**tomi** *n.* candle, torch, taper
 
 **tomkō** _aj. 1._ fiery, blazing, burning, flaming, ablaze _2._ impassioned, heated, intense, passionate, ardent
 
