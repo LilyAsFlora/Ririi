@@ -2,7 +2,7 @@
 
 | ![alt text](https://github.com/LilyAsFlora/Ririi/blob/master/flagproject.png "Rirī flag") |
 |:--:|
-|*Rirī flag: white and pink for purity and femininity, and a lily flower*|
+|*Rirī flag: white for purity, pink for femininity*|
 
 Rirī is a personal [artistic language](https://en.wikipedia.org/wiki/Artistic_language) (artlang) designed for poetry, song, diaries, or other artistic expression. Stemming from "ri", "flower" and "rī", "speech", its name roughly translates to "flower speech" or "floral language".
 
