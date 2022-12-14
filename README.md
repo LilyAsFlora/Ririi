@@ -200,7 +200,7 @@ A table of common correlatives.
 
 ### Adjectives
 
-Adjectives are distinct, and agree with nouns in case and number.
+Adjectives agree with nouns in case and number. One can construct an adjective from a noun by simply declining it like one.
 
 ||No marked case|Possessive (suf. *a*)|Instrumental (suf. *u*)|Accusative (suf. *e*)|
 |-|-|-|-|-|
