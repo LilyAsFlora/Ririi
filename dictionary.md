@@ -114,9 +114,13 @@ _quant. quantifier_
 
 **kami** *n. 1.* video camera, recorder *2.* any piece of electronic equipment *3.* paintbrush; a tool for creating pictures
 
+**kāna** *n. 1.* kingdom, state, empire *2.* country, nation *3.* something composed of smaller parts
+
 **kava** *num.* eight (8).
 
-**ke** *aj.* satisfying or effective; good
+**ke** *1. aj.* satisfying or effective; good *2. n.* a light, white colour
+
+**kero** *aj. 1.* monochromatic, checkered *2.* winding, meandering into many paths
 
 **kohara** *1. n.* fishbowl, aquarium *2. n. inform.* an unpleasant or inconvenient situation *3. n.* nursery, kindergarten; a school for young children
 
@@ -267,6 +271,8 @@ _quant. quantifier_
 **rīsum** *n.* word, term
 
 **rīze** *n.* secret, confidential or classified information
+
+**ro** *n.* a dark, black colour
 
 # S
 
