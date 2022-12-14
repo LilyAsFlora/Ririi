@@ -271,6 +271,8 @@ Note that this would hold the same in reverse order (*ma da*).
 
 One can combine these particles to create more complex meanings. Using *ve* and *tu* together, for example, mixes disgust and anger to create contempt. Placing one at the beginning of a sentence, and one at the end, could imply a change in mood, or that the speaker is ambivalent in their emotion. Nevertheless, this tool has most use in song: particles could emphasise certain beats, fill space not taken by other words, and as aforementioned, offer rhyme and alliteration.
 
+In romanisation, one should hyphenate these particles, as demonstrated in the Examples section.
+
 ## Examples
 The first stanza of Robert Frost's poem "Stopping by the Woods on a Snowy Evening":
 
@@ -279,13 +281,13 @@ K-la e-tu shi-chu l-i mōru nu
 `who-ɢᴇɴ this-ᴀᴄᴄ forest-ᴀᴄᴄ be.3 suppose.1 know.1 `  
 "Whose woods these are I think I know"  
 
-*Emla nire de ninam mō ku ru*  
+*Emla nire de ninam mō-kuru*  
 Em-la nire de nin-am mō ku ru  
 `he-ɢᴇɴ house in village-ᴀᴄᴄ though`  
 "His house is in the village though"
 
 *Sām bo sūtu ku vidu pam*  
-*Emla shichu pomu ja wulita chu.*  
+*Emla shichu pomu ja wulita-chu.*  
 S-ām bo sūtu ku vidu pam  
 Em-la shi-chu pomu ja wu-li-ta chu.  
 `I-ᴀᴄᴄ here rest in see snow`  
