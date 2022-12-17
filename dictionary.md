@@ -54,7 +54,9 @@ _quant. quantifier_
 
 **ētaku** _inf._ to contribute to; aid, supply
 
-**eli** *aj.* wet, damp
+**eli** *aj. 1.* wet, damp *2.* clean, immaculate, tidy *3.* (of a colour) saturated, bold
+
+**elu** *infin. 1.* to fill, cram, load, pack, stuff *2. inf.* to annoy, agitate, bother, irk, peeve, rile
 
 **eon** *n. 1.* library *2.* study, office
 
@@ -126,7 +128,11 @@ _quant. quantifier_
 
 **kava** *num.* eight (8).
 
-**ke** *1. aj.* satisfying or effective; good *2. n.* a light, white colour
+**ke** *1. aj.* satisfying or effective; good *2. n.* a light, white tone
+
+**keken** *aj. 1.* pale, bleached; almost white *2.* sallow, sullen, sick, blanched
+
+**ken** *aj. 1.* (of a colour) light; not dark, pasty *2.* (of a colour) pastel, soft-hued
 
 **kero** *aj. 1.* monochromatic, checkered *2.* winding, meandering into many paths
 
@@ -263,6 +269,8 @@ _quant. quantifier_
 **pona** *n. 1.* snowfield, glacier *2.* an extremely cold area
 
 **popo** *aj.* similar, alike
+
+**pren** *aj.* (of a colour) somewhat dark or dull; not completely dim
 
 **prē** _1._ shadow, shade, trace _2. fig._ one who is like a shadow; an unknown or enigmatic entity, especially difficult to identify
 
@@ -407,17 +415,23 @@ _quant. quantifier_
 
 **jam** *1. aj.* big, large, huge, great *2. aj.* intimidating or menacing in a predatory manner
 
-**jalu** *av.* more, to a greater extent
+**jali** *aj.* (of a colour) unsaturated; not bold, greyish
+
+**jalu** *1. av.* more, to a greater extent *2. infin.* to be in disbelief
 
 **jara** *1. n.* the outside, outdoors *2.* a foreign land or country; unfamiliar territory
 
 **jaru** *infin.* to exit, leave, depart
 
-**jasen** *n.* _1._ unreality, fantasy, illusion _2._ imitation, counterfeit, imposter, forgery, deception, phony, hoax, sham
+**jasen** *n.* _1._ unreality, fantasy, illusion _2._ imitation, counterfeit, imposter, forgery, deception, phony, hoax, a sham
 
-**jasos** _aj._ fake, bogus, counterfeit, fabricated, forged, phony, artificial
+**jaso** _aj._ fake, bogus, counterfeit, fabricated, forged, phony, artificial
+
+**jen** *aj.* (of a colour) dim, dark, dingy, dull
 
 **jōmu** _infin._ _1._ to be in possession; have, own, possess, hold _2._ to like, adore, appreciate (romantically) 
+
+**ju** *infin. 1.* to dim, darken, overshadow, obscure *2.* to ignore, forget, neglect, overlook
 
 # SH
 
