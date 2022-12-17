@@ -20,6 +20,8 @@ _quant. quantifier_
 
 **a** _conj._ and. a... a... both... and. **a āi** even so
 
+**ada** *n. 1.* blood, gore, vital fluid *2.* the colour red; a warm reddish colour
+
 **āi** *1. interj.* yes; an expression of agreement *2. av.* in this way, like this
 
 **ampa** *n.* snow(flake, crystal)
@@ -29,6 +31,8 @@ _quant. quantifier_
 **am** _aj._ _1._ small, meager, miniature, tiny, slight, little _2._ unimportant, insignificant, negligible, trivial
 
 **ano** _aj._ that, yonder
+
+**aro** *n.* the colour brown, brunette
 
 # B
 
@@ -92,6 +96,10 @@ _quant. quantifier_
 
 **ida** *num.* one (1).
 
+**īda** *n. 1.* reflection, mirror image *2.* an ominous sign, forewarning *3.* the colour yellow; gold
+
+**īdu** *infin.* to mimic, mime, copy, imitate *2.* to impersonate, present oneself as
+
 **ima** *num.* five (5).
 
 **īsh** *n.* death, annihilation, demise, cessation
@@ -148,6 +156,8 @@ _quant. quantifier_
 
 **lola** *num.* six (6)
 
+**loda** *n. 1.* fountain, reservoir, spring *2.* any source of water or liquid *3. fig.* the fountain of youth *4.* the colour blue; cobalt
+
 **lu** *infin.* to be, exist
 
 # M
@@ -157,6 +167,10 @@ _quant. quantifier_
 **maes** *n. 1.* scroll, parchment *2.* (a strict) algorithm, recipe, method
 
 **mam** *n. 1.* postage stamp *2.* icon, symbol, motif, representation *3.* pattern, recurrence, arrangement
+
+**meda** *n. 1.* ray, beam, cast *2.* the colour orange; apricot
+
+**medu** *infin. 1.* to throw, toss, hurl *2.* to insult, defame
 
 **miku** *infin.* to give, grant
 
@@ -186,9 +200,13 @@ _quant. quantifier_
 
 **namu** *infin.* to hide, conceal oneself
 
+**nedu** *infin. 1.* to sing, chant, hum, intone, whistle *2.* to call, beckon, signal
+
 **nem** *n. 1.* film, video, recording *2.* heap, compilation, collection, assortment, anthology
 
 **nesō** *aj.* handwritten, penned
+
+**nēda** *n. 1.* melody, tune, chant, lyric, theme, chime *2.* bell, carillon, gong; any signalling object or sound *3.* a pinkish colour
 
 **nin** *conj.* used to introduce the second element in a comparison; than
 
@@ -368,6 +386,8 @@ _quant. quantifier_
 
 # Z
 
+**zeda** *n. 1.* vine, creeper, trailing plant *2.* stalker, chaser, pursuer, follower *3.* the colour green; lime
+
 
 # CH
 
@@ -400,3 +420,5 @@ _quant. quantifier_
 **jōmu** _infin._ _1._ to be in possession; have, own, possess, hold _2._ to like, adore, appreciate (romantically) 
 
 # SH
+
+**shida** *n. 1.* cat, kitten; member of the family felidae *2. fig.* one who is sly and mischevious *3.* a purple, violet colour
