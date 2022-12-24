@@ -178,7 +178,7 @@ _quant. quantifier_
 
 **medu** *infin. 1.* to throw, toss, hurl *2.* to insult, defame
 
-**miku** *infin.* to give, grant
+**miku** *infin. 1.* to give, grant *2.* to describe, outline, show, give account of
 
 **michu** _infin._ to go by, pass
 
@@ -294,6 +294,10 @@ _quant. quantifier_
 
 **riu** _infin._ to speak, say, utter, verbalise, word, convey, express, tell, voice
 
+**riza** *n.* coin, token, counter; any counting device 
+
+**rizi** *n. pl.* money, cash; a medium of currency or wealth
+
 **rīsum** *n.* word, term
 
 **rīze** *n.* secret, confidential or classified information
@@ -371,6 +375,8 @@ _quant. quantifier_
 **uke** *n.* gun, rifle, blaster; generic term for a ranged weapon
 
 # V
+
+**vēza** *adj. 1.* unique, distinct, original *2. inform.* lonely, solitary, remote; on its own
 
 **vid** *n.* eye, eyeball, peeper
 
