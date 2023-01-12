@@ -46,7 +46,19 @@ _quant. quantifier_
 
 **de** _ad._ to, towards
 
+**do** *1. n.* ground, earth, soil, land, terrain *2.* a wider land or territory; province, region
+
+**doha** *1. n.* sea, ocean; a watery expanse *2.* the seven seas
+
 **dolu** *infin.* to come, arrive
+
+**dona** *n. 1.* lake, pond, basin; a large (but not ocean-like) body of liquid
+
+**dore** *1. n.* music, plainsong *2.* any harmonised or pleasant sounds *3.* a piece of music not intended to be sung
+
+**doru** *1. infin.* to dance, *2.* to flutter, flicker, quiver
+
+**dovi** *1. n* grass, shrubbery, pasture
 
 # E
 
@@ -78,7 +90,15 @@ _quant. quantifier_
 
 **habu** *infin.* to play (with) e.g. toys
 
+**hado** *n. 1.* rain, rainfall; a wet weather or climate *2.* rain that comes after a drought
+
+**hadu** * 1. infin.* to fall, drop, descend; to move in a downwards motion *2.* to attack, bombard, besiege
+
 **han** *1. n.* air, wind, breeze, zephyr *2. n.* movement, relocation
+
+**hana** *1. n.* a small river; stream, trickle *2.* thoroughfare, passage, roadway, freeway, expressway
+
+**hanu** *infin.* to push, shove; to use forceful action
 
 **haku** _1. infin._ to blow, drive, rush, stream, waft, wave, fan *2. infin.* to drive (a vehicle)
 
@@ -136,6 +156,8 @@ _quant. quantifier_
 
 **kero** *aj. 1.* monochromatic, checkered *2.* winding, meandering into many paths
 
+**kīga** *1. n.* stillness, inaction, inactivity *2.* an expression indicating "halt!" or "stop there!"
+
 **kohara** *1. n.* fishbowl, aquarium *2. n. inform.* an unpleasant or inconvenient situation *3. n.* nursery, kindergarten; a school for young children
 
 **kola** *n. 1.* cage, box, enclosure (for animals) *2. n.* prison, jail *3. n.* an surprise attack launched from a hidden position
@@ -158,6 +180,8 @@ _quant. quantifier_
 
 # L
 
+**la** *n. 1.* water; any liquid
+
 **lazu** _infin._ to know (someone personally), to be familiar with
 
 **lola** *num.* six (6)
@@ -165,6 +189,8 @@ _quant. quantifier_
 **loda** *n. 1.* fountain, reservoir, spring *2.* any source of water or liquid *3. fig.* the fountain of youth *4.* the colour blue; cobalt
 
 **lu** *infin.* to be, exist
+
+**lū** *infin. 1.* to wetten, moisten, dampen, soak, saturate *2.* to clean, bathe, disinfect, wash
 
 # M
 
@@ -318,7 +344,11 @@ _quant. quantifier_
 
 **sen** *n.* world, cosmos, universe, realm
 
-**sela** *num.* nine (9) 
+**sela** *1. num.* nine (9)  *2. n.* sound, noise, *3.* general term for a (musical) note
+
+**selu** *1. infin.* to sing, chant, hum *2.* to pray (religiously)
+
+**selza** *n.* (mental) feeling, emotion, perception *2.* opinion, judgement
 
 **sola** *num.* four (4).
 
@@ -378,17 +408,23 @@ _quant. quantifier_
 
 **vēza** *adj. 1.* unique, distinct, original *2. inform.* lonely, solitary, remote; on its own
 
-**vid** *n.* eye, eyeball, peeper
+**vi** *1. n.* vine; a creeping or trailing plant *2.* tendril, coil, ringlet
 
-**viki** *n.* _pl._ glasses, frames, goggles, rims. **vidka** telescope
+**vid** *n.* eye, eyeball, peeper
 
 **vidu** _infin._ to see, look (at), observe, regard, spot, view
 
-**vim** _aj._ many, a lot, much, a good / great deal
-
 **vigochi** *n.* _1._ caterpillar, worm _2. fig._ one which is like a flower waiting to blossom 
 
-**volce** *av.* effectively, successfully, well
+**viki** *n.* _pl._ glasses, frames, goggles, rims. **vidka** telescope
+
+**vim** _aj._ many, a lot, much, a good / great deal
+
+**vina** *n. 1.* finger, claw, feeler; appendage of a hand
+
+**vinu** *1. infin.* to authenticate, validate, verify *2.* to test, examine, assess, check
+
+**volche** *av.* effectively, successfully, well
 
 # W
 
@@ -440,5 +476,9 @@ _quant. quantifier_
 **ju** *infin. 1.* to dim, darken, overshadow, obscure *2.* to ignore, forget, neglect, overlook
 
 # SH
+
+**shi** *n. 1.* tree; a woody plant *2.* a large plant
+
+**shu** *infin.* to develop, work on, refine
 
 **shida** *n. 1.* cat, kitten; member of the family felidae *2. fig.* one who is sly and mischevious *3.* a purple, violet colour
