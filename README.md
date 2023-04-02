@@ -180,9 +180,21 @@ Relative clauses are placed before the noun they modify. // TODO
 
 #### Adverbial Clauses
 
+##### Time
+
+##### Place
+
+##### Manner
+
+##### Reason
+
 ##### Purpose
 
 Turn the "purpose" phrase into a nominal clause and introduce the adposition *ku* (at, in).
+
+##### Condition
+
+##### Concession
 
 ### Correlatives
 
