@@ -172,29 +172,57 @@ Note that the instrumental case, not accusative, is used for the noun complement
 
 #### Nominal Clauses
 
-Nominal clauses are unmarked, appearing wherever the noun they are acting as would.
+Nominal clauses have no particular marking; place them where a noun would.
 
 #### Relative Clauses
 
-Relative clauses are placed before the noun they modify. // TODO
+Relative clauses are placed before the noun they modify. 
+
+// TODO
 
 #### Adverbial Clauses
 
 ##### Time
 
+Time clauses indicate *when* an event occurs.
+
+Introduce the subordinating conjunction *kē* ("when").
+
 ##### Place
+
+Place clauses indicate *where* an event occurs.
+
+// TODO
 
 ##### Manner
 
+Manner clauses indicate *how* an event occurs.
+
+// TODO
+
 ##### Reason
 
+Reason clauses indicate the cause of an event.
+
+// TODO
+
 ##### Purpose
+
+Purpose clauses indicate the purpose of an event.
 
 Turn the "purpose" phrase into a nominal clause and introduce the adposition *ku* (at, in).
 
 ##### Condition
 
+Condition clauses state a condition that must be met for an event to occur.
+
+// TODO
+
 ##### Concession
+
+Concession clauses indicate a fact that is contrary to the event.
+
+// TODO
 
 ### Correlatives
 
