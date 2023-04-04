@@ -26,6 +26,8 @@ _quant. quantifier_
 
 **ampa** *n.* snow(flake, crystal)
 
+**amcho** *1. n.* nightmare; an unpleasant dream *2.* a vision, hallucination, image
+
 **ānon** *n.* the English language
 
 **am** _aj._ _1._ small, meager, miniature, tiny, slight, little _2._ unimportant, insignificant, negligible, trivial
@@ -41,6 +43,8 @@ _quant. quantifier_
 **bās** *n.* smile, grin, beam, smirk
 
 **bāsu** _infin._ _1._ to smile, put on a positive expression _2._ to be friendly towards
+
+**bon** *1. aj.* full, filled, plump, laden, complete *2.* satisfying (satisfactory), fulfilling, gratifying
 
 # D
 
@@ -63,6 +67,8 @@ _quant. quantifier_
 # E
 
 **eam** *n. 1.* booklet, leaflet, pamphlet *2.* letter, message, postcard
+
+**emo** *n.* the period of a week; seven days
 
 **ētaku** _inf._ to contribute to; aid, supply
 
@@ -200,6 +206,8 @@ _quant. quantifier_
 
 **mam** *n. 1.* postage stamp *2.* icon, symbol, motif, representation *3.* pattern, recurrence, arrangement
 
+**map** *1. n.* human, person, individual *2.* one who is civil, cultured and sophisticated
+
 **meda** *n. 1.* ray, beam, cast *2.* the colour orange; apricot
 
 **medu** *infin. 1.* to throw, toss, hurl *2.* to insult, defame
@@ -214,7 +222,7 @@ _quant. quantifier_
 
 **mima** *n. 1.* tapestry, drapery, mural; a large collection of art 
 
-**mipō** *aj. 1.* visible, discernible, evident, detectable
+**mipō** *aj. 1.* visible, discernible, evident, detectable, palpable
 
 **miso** *n. 1* something in an unmoving or resting state; calmness *2.* the solid state of matter
 
@@ -222,7 +230,9 @@ _quant. quantifier_
 
 **mīu** *infin.* to regret, have remorse for
 
-**mō** *conj.* though, although, however, nevertheless
+**moma** *n.* a long, heavy, or stressful day; a day of much work 
+
+**mō** *1. conj.* though, although, however, nevertheless *2. n.* day; the time between dawn and dusk *3. n.* sunshine, sunbeam, sunlight
 
 **mōru** *infin.* to think, suppose, believe
 
@@ -443,7 +453,11 @@ _quant. quantifier_
 
 **cha-** _pref._ not
 
+**chapo** *1. n.* a nocturnal animal *2. inform.* one who is not often seen; mysterious, evading
+
 **chi** _pron._ you
+
+**chō** *1. n.* night; the time between dusk and dawn *2.* moonlight, moonbeam; the light given off by the (a) moon
 
 **chora** _av._ infrequently, seldom, rarely
 
