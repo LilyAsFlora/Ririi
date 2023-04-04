@@ -198,7 +198,7 @@ Place clauses indicate *where* an event occurs.
 
 Manner clauses indicate *how* an event occurs.
 
-// TODO
+Introduce the subordinating conjunction *ga* ("which").
 
 ##### Reason
 
