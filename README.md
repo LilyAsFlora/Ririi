@@ -226,20 +226,6 @@ Introduce the particle *mō* onto the verb or adjective.
 
 *Mō rilin.* However, he spoke.
 
-### Correlatives
-
-A table of common correlatives.
-
-|           |     query    |      this     |      that     |         some         |         no        |          every         |
-|:---------:|:------------:|:-------------:|:-------------:|:--------------------:|:-----------------:|:----------------------:|
-| adjective | _ga_ — which |  _eto_ — this |  _ano_ — that |    _tōch_ — some   |     _ja_ — no     |     _hās_ — every     |
-|   person  |  _ko_ — who  |  _eto_ — this |  _ano_ — that |   _tore_ — someone  |  _jare_ — no-one  |   _hāsi_ — everyone  |
-|   thing   | _sō_ — what |  _eto_ — this |  _ano_ — that | _tosō_ — something | _jasō_ — nothing |  _hāsō_ — everything |
-|   place   | _ra_ — where | _bo_ — here | _ane_ — there |  _tora_ — somewhere |  _jara_ — nowhere | _hāsu_ — everywhere |
-|    time   | _kē_ — when |  _tera_ — now |  _ana_ — then |  _tokē_ — sometime |  _jakē_ — never  |    _hākē_ — always   |
-|    way    |  _vā_ — how |               |  _vem_ — thus |  _tovā_ — somehow  |                   |                        |
-|   reason  |  _nē_ — why |               |               |                      |                   |                        |
-
 ### Adjectives
 
 Adjectives agree with nouns in case and number. One can construct an adjective from a noun by simply declining it like one.
@@ -314,29 +300,5 @@ Note that this would hold the same in reverse order (*ma da*).
 One can combine these particles to create more complex meanings. Using *ve* and *tu* together, for example, mixes disgust and anger to create contempt. Placing one at the beginning of a sentence, and one at the end, could imply a change in mood, or that the speaker is ambivalent in their emotion. Nevertheless, this tool has most use in song: particles could emphasise certain beats, fill space not taken by other words, and as aforementioned, offer rhyme and alliteration.
 
 In romanisation, one should hyphenate these particles, as demonstrated in the Examples section.
-
-## Examples
-The first stanza of Robert Frost's poem "Stopping by the Woods on a Snowy Evening":
-
-*Kla etu shichu li mōru nu*  
-K-la e-tu shi-chu l-i mōru nu  
-`who-ɢᴇɴ this-ᴀᴄᴄ forest-ᴀᴄᴄ be.3 suppose.1 know.1 `  
-"Whose woods these are I think I know"  
-
-*Emla nire de ninam mō-kuru*  
-Em-la nire de nin-am mō ku ru  
-`he-ɢᴇɴ house in village-ᴀᴄᴄ though`  
-"His house is in the village though"
-
-*Sām bo sūtu ku vidu pam*  
-*Emla shichu pomu ja wulita-chu.*  
-S-ām bo sūtu ku vidu pam  
-Em-la shi-chu pomu ja wu-li-ta chu.  
-`I-ᴀᴄᴄ here rest in see snow`  
-`he-ɢᴇɴ forest-ᴀᴄᴄ fill no see-3ғᴜᴛ`  
-"He will not see me stopping here  
-To watch his woods fill up with snow."  
-
-
 
 
