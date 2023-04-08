@@ -178,7 +178,7 @@ Nominal clauses have no particular marking; place them where a noun would.
 
 Relative clauses are placed before the noun they modify. 
 
-// TODO
+Introduce the particle *do* (from *dolu*, "to come") at the beginning.
 
 #### Adverbial Clauses
 
@@ -186,13 +186,13 @@ Relative clauses are placed before the noun they modify.
 
 Time clauses indicate *when* an event occurs.
 
-Introduce the subordinating conjunction *kē* ("when").
+Introduce the subordinating conjunction *kē* ("when") at the beginning.
 
 ##### Place
 
 Place clauses indicate *where* an event occurs.
 
-// TODO
+Introduce the adposition *kū* ("in") at the beginning.
 
 ##### Manner
 
@@ -204,13 +204,13 @@ Introduce the subordinating conjunction *ga* ("which") at the beginning.
 
 Reason clauses indicate the cause of an event.
 
-Introduce the pronoun *sō*  ("what") at the beginning.
+Introduce the pronoun *sō* ("what") at the beginning.
 
 ##### Purpose
 
 Purpose clauses indicate the purpose of an event.
 
-Turn the "purpose" phrase into a nominal clause and introduce the adposition *ku* ("at", "in") at the beginning.
+Turn the "purpose" phrase into a nominal clause and introduce the adposition *dē* ("towards") at the beginning.
 
 ##### Condition
 
