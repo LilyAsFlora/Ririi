@@ -46,6 +46,8 @@ _quant. quantifier_
 
 **bon** *1. aj.* full, filled, plump, laden, complete *2.* satisfying (satisfactory), fulfilling, gratifying
 
+**buju** *infin.* to escape, flee, run away
+
 # D
 
 **de** _ad._ to, towards
@@ -316,7 +318,8 @@ _quant. quantifier_
 
 **prim** *num.* two (2)
 
-**puba** *n.* animal, creature
+**pu** *1.* *infin.* to run, sprint, dash *2.* to move quickly or rapidly
+
 
 # R
 
