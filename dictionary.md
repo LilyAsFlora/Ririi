@@ -340,6 +340,10 @@ _quant. quantifier_
 
 **ro** *n.* a dark, black colour
 
+**rū** *1. n.* animal, creature, beast *2.* any non-human being
+
+**rūja** *1. n.* mouse; a small rodent *2.* a quiet, shy, or tranquil person
+
 # S
 
 **sa** _pron._ I 
