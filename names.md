@@ -13,3 +13,5 @@ A collection of (hypothetical) given names constructed from my favourite Rirī v
 **Mōra** `[mɒ:.ɾa]` — thinking, studious, reasonable (from *mōru*, "to suppose")
 
 **Sona** `[sɒ:.na]` — soothing, protecting, motherly (lit. "warm")
+
+**Elishi** `[ɛ.li.çi]` — a young, pure soul (lit. "clean child")
