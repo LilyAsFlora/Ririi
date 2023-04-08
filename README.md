@@ -198,31 +198,33 @@ Place clauses indicate *where* an event occurs.
 
 Manner clauses indicate *how* an event occurs.
 
-Introduce the subordinating conjunction *ga* ("which").
+Introduce the subordinating conjunction *ga* ("which") at the beginning.
 
 ##### Reason
 
 Reason clauses indicate the cause of an event.
 
-// TODO
+Introduce the pronoun *sō*  ("what") at the beginning.
 
 ##### Purpose
 
 Purpose clauses indicate the purpose of an event.
 
-Turn the "purpose" phrase into a nominal clause and introduce the adposition *ku* (at, in).
+Turn the "purpose" phrase into a nominal clause and introduce the adposition *ku* ("at", "in") at the beginning.
 
 ##### Condition
 
 Condition clauses state a condition that must be met for an event to occur.
 
-// TODO
+Introduce the particle *nē* before the verb or adjective.
+
+*Nē rilin.* If he spoke [...].
 
 ##### Concession
 
-Concession clauses indicate a fact that is contrary to the event.
+Introduce the particle *mō* onto the verb or adjective.
 
-// TODO
+*Mō rilin.* However, he spoke.
 
 ### Correlatives
 
