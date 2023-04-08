@@ -180,13 +180,13 @@ _quant. quantifier_
 
 **kroko** _aj._ old, aged, ancient, elderly
 
-**ku** _ad._ at, in
+**kū** _ad._ at, in
 
 **kunu** *infin. 1.* to poke, nudge, prod *2.* to touch, feel, handle
 
 # L
 
-**la** *n. 1.* water; any liquid
+**la** *n. 1.* water; any liquid 
 
 **lazu** _infin._ to know (someone personally), to be familiar with
 
@@ -232,7 +232,7 @@ _quant. quantifier_
 
 **moma** *n.* a long, heavy, or stressful day; a day of much work 
 
-**mō** *1. conj.* though, although, however, nevertheless *2. n.* day; the time between dawn and dusk *3. n.* sunshine, sunbeam, sunlight
+**mō** *1. n.* day; the time between dawn and dusk *2. n.* sunshine, sunbeam, sunlight
 
 **mōru** *infin.* to think, suppose, believe
 
@@ -242,7 +242,7 @@ _quant. quantifier_
 
 **namu** *infin.* to hide, conceal oneself
 
-**nedu** *infin. 1.* to sing, chant, hum, intone, whistle *2.* to call, beckon, signal
+**nedu** *infin. 1.* to sing, chant, hum, intone, whistle *2.* to call, beckon, signa
 
 **nem** *n. 1.* film, video, recording *2.* heap, compilation, collection, assortment, anthology
 
