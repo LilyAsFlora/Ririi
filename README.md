@@ -222,7 +222,7 @@ Introduce the particle *nē* before the verb or adjective.
 
 ##### Concession
 
-Introduce the particle *mō* onto the verb or adjective.
+Introduce the particle *mō* before the verb or adjective.
 
 *Mō rilin.* However, he spoke.
 
