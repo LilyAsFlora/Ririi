@@ -356,6 +356,8 @@ _quant. quantifier_
 
 **sami** *n.* album, photobook, scrapbook
 
+**sem** *1. n.* life, lifetime; the daily ongoing experience *2.* a living being *3.* character, personality, personage, nature
+
 **sen** *n.* world, cosmos, universe, realm
 
 **sela** *1. num.* nine (9)  *2. n.* sound, noise, *3.* general term for a (musical) note
