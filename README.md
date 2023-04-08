@@ -283,6 +283,10 @@ _X chi Y_ means you may have X or Y or both.
 
 _Chi X chi Y_ means you can have only either X or Y, not both.
 
+## Numerals
+
+Apply *po* as a suffix to make a numeral ordinal.
+
 ## Musical Features
 
 Rirī provides a set of monosyllabic "rhyme particles" that lack lexical semantics but aid in the evocation of tone, rhythm, consonance and assonance. One can construct these using any of the following consonants, followed by a vowel of the speaker's choosing, and an optional coda.
