@@ -491,7 +491,7 @@ _quant. quantifier_
 
 # SH
 
-**shi** *n. 1.* tree; a woody plant *2.* a large plant
+**shi** *n. 1.* tree; a woody plant *2.* any large plant *3.* child; one who is still growing
 
 **shu** *infin.* to develop, work on, refine
 
