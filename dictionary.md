@@ -88,7 +88,7 @@ _quant. quantifier_
 
 # G
 
-**ga** _aj._ which
+**gā** _conj._ which
 
 **go** _1._ leg, stake, stump _2._ any appendage used for support _3. fig._ backbone, upholder, source of strength or movement
  
@@ -158,6 +158,8 @@ _quant. quantifier_
 
 **ke** *1. aj.* satisfying or effective; good *2. n.* a light, white tone
 
+**kē** *conj.* when; at what (which) time
+
 **keken** *aj. 1.* pale, bleached; almost white *2.* sallow, sullen, sick, blanched
 
 **ken** *aj. 1.* (of a colour) light; not dark, pasty *2.* (of a colour) pastel, soft-hued
@@ -182,7 +184,7 @@ _quant. quantifier_
 
 **kroko** _aj._ old, aged, ancient, elderly
 
-**kū** _ad._ at, in
+**kū** *conj.* where; at what place / location
 
 **kunu** *infin. 1.* to poke, nudge, prod *2.* to touch, feel, handle
 
@@ -234,7 +236,7 @@ _quant. quantifier_
 
 **moma** *n.* a long, heavy, or stressful day; a day of much work 
 
-**mō** *1. n.* day; the time between dawn and dusk *2. n.* sunshine, sunbeam, sunlight
+**mō** *1. conj.* but, however, despite, although, though *2. n.* day; the time between dawn and dusk *3. n.* sunshine, sunbeam, sunlight
 
 **mōru** *infin.* to think, suppose, believe
 
@@ -249,6 +251,8 @@ _quant. quantifier_
 **nem** *n. 1.* film, video, recording *2.* heap, compilation, collection, assortment, anthology
 
 **nesō** *aj.* handwritten, penned
+
+**nē** *conj.* if; indicating a condition
 
 **nēda** *n. 1.* melody, tune, chant, lyric, theme, chime *2.* bell, carillon, gong; any signalling object or sound *3.* a pinkish colour
 
@@ -377,7 +381,7 @@ _quant. quantifier_
 
 **sonā** *n.* comfort, warmth, ease
 
-**sō** _pron._ what. **sō a sō** _inform._ whatever, I don't care
+**sō** _conj._ what. **sō a sō** _inform._ whatever, I don't care, I couldn't care less
 
 **sum** *n* part, component, element (of something larger)
 
@@ -501,6 +505,8 @@ _quant. quantifier_
 # SH
 
 **shi** *n. 1.* tree; a woody plant *2.* any large plant *3.* child; one who is still growing
+
+**shī** *conj.* because, since, as; for the reason that
 
 **shu** *infin.* to develop, work on, refine
 
