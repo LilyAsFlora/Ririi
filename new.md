@@ -8,7 +8,33 @@ Rirī is a personal [artistic language](https://en.wikipedia.org/wiki/Artistic_l
 
 Rirī is inflected and phonetically consistent. You can access a dictionary [here](https://github.com/LilyAsFlora/Ririi/blob/master/dictionary.md).
 
-[[toc]]
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Rirī](#rirī)
+  * [Phonology](#phonology)
+    + [Consonants](#consonants)
+    + [Vowels](#vowels)
+  * [Phonotactics](#phonotactics)
+    + [Syllable shape](#syllable-shape)
+    + [Stress](#stress)
+  * [Word Order](#word-order)
+  * [Plurality](#plurality)
+  * [Verbs](#verbs)
+    + [Causativity](#causativity)
+  * [Personal Pronouns](#personal-pronouns)
+  * [Nouns](#nouns)
+    + [Case](#case)
+    + [Plurality](#plurality-1)
+  * [Subclauses](#subclauses)
+    + [Nominal and adjective](#nominal-and-adjective)
+    + [Adverbial clauses](#adverbial-clauses)
+  * [Adjectives](#adjectives)
+    + [Agreement](#agreement)
+    + [Degree](#degree)
+  * [Gradation](#gradation)
+  * [Musical Features](#musical-features)
+
+<!-- TOC end -->
 
 ## Phonology
 
@@ -177,13 +203,13 @@ Plurality is also indicated with suffixes.
 
 All relative clauses should take the same tense as the main clause.
 
-## Nominal and adjective
+### Nominal and adjective
 
 - Nominal clauses are unmarked.
 
 - To form an adjective clause, turn the phrase into a nominal clause and introduce the particle *do*.
 
-## Adverbial clauses
+### Adverbial clauses
 
 All adverbial clauses are indicated with conjunctions.
 
