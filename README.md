@@ -18,13 +18,12 @@ Rirī is inflected and phonetically consistent. You can access a dictionary [her
     + [Syllable shape](#syllable-shape)
     + [Stress](#stress)
   * [Word Order](#word-order)
-  * [Plurality](#plurality)
   * [Verbs](#verbs)
     + [Causativity](#causativity)
   * [Personal Pronouns](#personal-pronouns)
   * [Nouns](#nouns)
     + [Case](#case)
-    + [Plurality](#plurality-1)
+    + [Plurality](#plurality)
   * [Subclauses](#subclauses)
     + [Nominal and adjective](#nominal-and-adjective)
     + [Adverbial clauses](#adverbial-clauses)
@@ -95,15 +94,6 @@ Rirī is primarily head-final. The following orders are typical but can be alter
 - adjective - noun
 - adverb - verb
 - adverb - adjective
-
-## Plurality
-
-Singular nouns are unmarked, whereas plurals are marked with the suffixes *i* or *ī*, depending on the noun's ending.
-
-- If the noun ends with a consonant, append the suffix *i*
-- If the noun ends with a vowel, replace the vowel with *i*
-- If the noun ends with *i*, lengthen it to *ī*
-- If the noun already ends with *ī*, it is not marked, and can instead be indicated with a quantifier.
 
 ## Verbs
 
@@ -281,7 +271,7 @@ Rirī provides a set of monosyllabic "rhyme particles" that lack lexical semanti
 |Meaning|joy, serenity|sorrow, pain|trust, hope|doubt, fear|surprise, curiosity|disgust|anger, impatience|anticipation|weakening of meaning|strengthening of meaning|(no mood)|
 
 To illustrate: the particles *da ma* can serve two purposes:
-- Evoking sorrow (as indicating by *m*) of a powerful nature (as indicated by *d*),  
+- Evoking sorrow (as indicating by *m*) of a weak nature (as indicated by *d*),  
 - Creating a rhyme with nearby syllables that include *a*
 
 Note that this would hold the same in reverse order (*ma da*).
