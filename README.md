@@ -32,6 +32,8 @@ Rirī is inflected and phonetically consistent. You can access a dictionary [her
     + [Agreement](#agreement)
     + [Degree](#degree)
   * [Gradation](#gradation)
+    + [Diminishing nouns](#diminishing-nouns)
+    + [Augmenting nouns](#augmenting-nouns)
   * [Musical Features](#musical-features)
 
 <!-- TOC end -->
@@ -248,7 +250,27 @@ When applying a suffix:
 
 ## Gradation
 
-`// TODO`
+Rirī offers several ways to apply diminution and augmentation.
+
+### Diminishing nouns
+
+- If the noun ends with two vowels, you can add *sh* or *ch* before the final vowel.
+- If the noun ends with a consonant followed by a vowel, you can replace the consonant with *sh* or *ch*.
+- If the noun ends with a sonorant consonant, you can apply *-shi* or *-chi* as a suffix.
+- If the noun ends with an obstruent, you can apply *shi* or *chi* before it.
+
+### Augmenting nouns
+
+- If the noun ends with two vowels, you can add *z* before the final vowel.
+- If the noun ends with a consonant followed by a vowel, you can replace the consonant with *z*.
+- If the noun ends with a sonorant consonant, you can apply *-zi* as a suffix.
+- If the noun ends with an obstruent, you can apply *zi* before it.
+
+| **EXAMPLE** | **DIMINISHED** | **AUGMENTED** |
+|-------------|----------------|---------------|
+| maria       | marisha        | mariza        |
+| madora      | madosha        | madoza        |
+| moshin      | moshinshi      | moshinzi      |
 
 ## Musical Features
 
