@@ -6,7 +6,7 @@
 
 Rirī is a personal [artistic language](https://en.wikipedia.org/wiki/Artistic_language) (artlang) designed for poetry, song, diaries, or other artistic expression. Stemming from "ri", "flower" and "rī", "speech", its name roughly translates to "flower speech" or "floral language".
 
-Rirī is inflected and phonetically consistent. You can access a dictionary [here](https://github.com/LilyAsFlora/Ririi/blob/master/dictionary.md).
+Rirī is agglutinative and phonetically consistent. You can access a dictionary [here](https://github.com/LilyAsFlora/Ririi/blob/master/dictionary.md).
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
