@@ -34,12 +34,15 @@ Rirī is inflected and phonetically consistent. You can access a dictionary [her
     + [Diminishing nouns](#diminishing-nouns)
     + [Augmenting nouns](#augmenting-nouns)
   * [Musical Features](#musical-features)
+  * [Derivational Morphology](#derivational-morphology)
 
 <!-- TOC end -->
 
 ## Phonology
 
-Given its purpose, Rirī's phonology suits simply what I consider euphonious, being loosely influenced by Latin and Japanese. As a Polish speaker, the consonant set originally included both retroflex affricates and fricatives, before I decided they sound too harsh for a soft-spoken language. Thus, delicate consonants like /l/, /ɾ/, nasals, and close/mid vowels tend to appear most frequently in the lexicon, particularly in comparison to voiced plosives.
+Given its purpose, Rirī's phonology suits simply what I consider euphonious, being loosely influenced by Latin and Japanese. As a Polish speaker, the consonant set originally included both retroflex affricates and fricatives, before I decided they sound too harsh for a soft-spoken language. Thus, delicate consonants like /l/, /ɾ/, nasals, and close/mid vowels tend to appear most frequently in the lexicon, particularly in comparison to voiced plosives. 
+
+Consonants are never aspirated.
 
 ### Consonants
 
@@ -97,12 +100,14 @@ Rirī is primarily head-final. The following orders are typical but can be alter
 
 ## Verbs
 
-All infinitives end with a syllable containing a consonant followed by -u. Roots do not include this syllable.
+All infinitives end with a syllable containing a consonant followed by -u. Verb roots do not include this syllable.
 
 Verbs should be conjugated according to the following pattern:
 - [aspect particle] verb root + person suffix + number suffix + tense suffix + mood suffix
 
-| **ASPECT**             | **PARTICLE** |
+---
+
+| **ASPECT**             | **PARTICLE** | 
 |------------------------|--------------|
 | habitual               | -            |
 | progressive            | lu           |
@@ -137,14 +142,14 @@ Verbs should be conjugated according to the following pattern:
 | **MOOD**    | **SUFFIX** |
 |-------------|------------|
 | indicative  |      -     |
-| imperative  | -ata       |
-| conditional | -ashe      |
-| subjunctive | -ane       |
+| imperative  | -ta       |
+| conditional | -she      |
+| subjunctive | -de       |
 
 ### Causativity
 
 To indicate a causative action:
-- Introduce the auxiliary verb *miku* (to give) before the verb. Place the verb in the infinitive and the receiver in the accusative.
+- Introduce the auxiliary verb *miku* (to give) before the action verb, with the verb in the infinitive and the receiver in the accusative.
 
 Passive actions can be indicated with the particle *cho* before the verb.
 
@@ -279,3 +284,21 @@ Note that this would hold the same in reverse order (*ma da*).
 One can combine these particles to create more complex meanings. Using *ve* and *tu* together, for example, mixes disgust and anger to create contempt. Placing one at the beginning of a sentence, and one at the end, could imply a change in mood, or that the speaker is ambivalent in their emotion. Nevertheless, this tool has most use in song: particles could emphasise certain beats, fill space not taken by other words, and as aforementioned, offer rhyme and alliteration.
 
 In romanisation, one should hyphenate these particles.
+
+## Derivational Morphology
+
+The following unbound morphemes can be applied as any type of affix.
+
+| AFFIX(ES) | MEANING                                         |
+|-----------|-------------------------------------------------|
+| ja, cha   | negation, opposite                              |
+| sa, kō    | characterised by                                |
+| se, so    | denoting process or state                       |
+| on        | denoting a location                             |
+| pi        | an person/creature/living thing associated with |
+| lu        | converting a noun or adjective to an adverb     |
+| po        | converting a noun or verb to an adjective       |
+| ka        | denoting a tool or instrument                   |
+| me        | denoting a collection                           |
+
+
