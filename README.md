@@ -289,16 +289,15 @@ In romanisation, one should hyphenate these particles.
 
 The following unbound morphemes can be applied as any type of affix.
 
-| AFFIX(ES) | MEANING                                         |
-|-----------|-------------------------------------------------|
-| ja, cha   | negation, opposite                              |
-| sa, kō    | characterised by                                |
-| se, so    | denoting process or state                       |
-| on        | denoting a location                             |
-| pi        | an person/creature/living thing associated with |
-| lu        | converting a noun or adjective to an adverb     |
-| po        | converting a noun or verb to an adjective       |
-| ka        | denoting a tool or instrument                   |
-| me        | denoting a collection                           |
+| **AFFIX(ES)** | **MEANING**                                                 | **ORIGIN**           |
+|---------------|-------------------------------------------------------------|----------------------|
+| ja, cha       | negation, opposite                                          | *ja* - "not"         |
+| se, so        | denoting process or state                                   | *sena* - "procedure" |
+| on            | denoting a location                                         | *onji* - "place"     |
+| pi            | an person/creature/living thing associated with             | *pi* - "three"       |
+| lu            | converting a noun or adjective to an adverb                 | *lu* - "to be"       |
+| sa, ko        | converting a noun or verb to an adjective; characterised by | *kora* - "often"     |
+| kana          | denoting a tool or instrument                               | *kana* - "tool"      |
+| vi            | denoting a collection                                       | *vim* - "many"       |
 
 
