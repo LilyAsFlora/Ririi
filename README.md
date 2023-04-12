@@ -35,6 +35,8 @@ Rirī is inflected and phonetically consistent. You can access a dictionary [her
     + [Augmenting nouns](#augmenting-nouns)
   * [Musical Features](#musical-features)
   * [Derivational Morphology](#derivational-morphology)
+    + [Affixation rules: suffixes](#affixation-rules-suffixes)
+    + [Affixation rules: prefixes](#affixation-rules-prefixes)
 
 <!-- TOC end -->
 
@@ -287,7 +289,21 @@ In romanisation, one should hyphenate these particles.
 
 ## Derivational Morphology
 
-The following unbound morphemes can be applied as any type of affix.
+The following unbound morphemes can be applied as suffixes and affixes.
+
+### Affixation rules: suffixes
+
+- If the body ends with a vowel, and the affix begins with a vowel, remove the body's final vowel.
+- If the body begins with a consonant followed by a vowel, and the affix begins with a consonant, remove the body's final consonant and vowel.
+
+Otherwise, simply apply the suffix.
+
+### Affixation rules: prefixes
+
+- If the body begins with an obstruent and the affix ends with an obstruent, add -u- between the affix and the body.
+- If the prefix ends with a vowel and the body begins with a vowel, remove the prefix's final vowel.
+
+Otherwise, simply apply the prefix.
 
 | **AFFIX(ES)** | **MEANING**                                                 | **ORIGIN**           |
 |---------------|-------------------------------------------------------------|----------------------|
