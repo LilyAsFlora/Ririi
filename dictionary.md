@@ -1,20 +1,20 @@
 # Abbreviations
-_ad. adposition_  
-_aj. adjective_  
-_av. adverb_  
-_aux. auxiliary_  
-_conj. conjunction_  
-_derog. derogatory_   
-_fig. figurative_  
-_infin. infinitive_  
-_inform. informal_  
-*interj. interjection*  
-_num. numeral_    
-*pl. plural*
-_prefix. prefix_  
-_pron. pronoun_  
-_quant. quantifier_  
-*sg. singular*
+_ad._ — adposition  
+_aj._ — adjective  
+_av._ — adverb  
+_aux._ — auxiliary  
+_conj._ — conjunction  
+_derog._ — derogatory   
+_fig._ — figurative  
+_infin._ — infinitive  
+_inform._ — informal  
+_interj._ — interjection  
+_num._ — numeral    
+_pl._ — plural    
+_prefix._ — prefix  
+_pron._ — pronoun  
+_quant._ — quantifier  
+_sg._ — singular
 
 # A
 
@@ -152,6 +152,8 @@ _quant. quantifier_
 
 **kami** *n. 1.* video camera, recorder *2.* any piece of electronic equipment *3.* paintbrush; a tool for creating pictures
 
+**kana** *n.* tool, instrument,  
+
 **kāna** *n. 1.* kingdom, state, empire *2.* country, nation *3.* something composed of smaller parts
 
 **kava** *num.* eight (8).
@@ -215,6 +217,8 @@ _quant. quantifier_
 **meda** *n. 1.* ray, beam, cast *2.* the colour orange; apricot
 
 **medu** *infin. 1.* to throw, toss, hurl *2.* to insult, defame
+
+**mena** referring to many things; a collection, group, crowd or set
 
 **miku** *infin. 1.* to give, grant *2.* to describe, outline, show, give account of
 
@@ -366,6 +370,8 @@ _quant. quantifier_
 **sem** *1. n.* life, lifetime; the daily ongoing experience *2.* a living being *3.* character, personality, personage, nature
 
 **sen** *n.* world, cosmos, universe, realm
+
+**sena** *n.* something that is done or accomplished; a process, procedure or action
 
 **sela** *1. num.* nine (9)  *2. n.* sound, noise, *3.* general term for a (musical) note
 
