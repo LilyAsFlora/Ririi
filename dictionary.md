@@ -94,7 +94,7 @@ _sg._ — singular
 
 **gā** _conj._ which
 
-**go** _1._ leg, stake, stump _2._ any appendage used for support _3. fig._ backbone, upholder, source of strength or movement
+**go** *1. n.* leg, stake, stump _2. n._ any appendage used for support _3. n. fig._ backbone, upholder, source of strength or movement
  
 # H
 
