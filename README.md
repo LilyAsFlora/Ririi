@@ -112,9 +112,9 @@ Verbs should be conjugated according to the following pattern:
 | **ASPECT**             | **PARTICLE** | 
 |------------------------|--------------|
 | habitual               | -            |
-| progressive            | lu           |
-| perfective             | le           |
-| progressive perfective | lue          |
+| continuous             | lu           |
+| perfect                | le           |
+| perfect continuous     | lue          |
 
 ---
 
