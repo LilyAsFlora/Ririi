@@ -285,8 +285,6 @@ Note that this would hold the same in reverse order (*ma da*).
 
 One can combine these particles to create more complex meanings. Using *ve* and *tu* together, for example, mixes disgust and anger to create contempt. Placing one at the beginning of a sentence, and one at the end, could imply a change in mood, or that the speaker is ambivalent in their emotion. Nevertheless, this tool has most use in song: particles could emphasise certain beats, fill space not taken by other words, and as aforementioned, offer rhyme and alliteration.
 
-In romanisation, one should hyphenate these particles.
-
 ## Derivational Morphology
 
 The following unbound morphemes can be applied as suffixes and affixes.
