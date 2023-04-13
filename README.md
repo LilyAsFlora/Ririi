@@ -19,6 +19,7 @@ Rirī is agglutinative and phonetically consistent. You can access a dictionary 
     + [Stress](#stress)
   * [Word Order](#word-order)
   * [Verbs](#verbs)
+    + [Verb-aspect chart](#verb-aspect-chart)
     + [Causativity](#causativity)
   * [Personal Pronouns](#personal-pronouns)
   * [Nouns](#nouns)
@@ -107,11 +108,13 @@ All infinitives end with a syllable containing a consonant followed by -u. Verb 
 Verbs should be conjugated according to the following pattern:
 - [aspect particle] verb root + person suffix + number suffix + tense suffix + mood suffix
 
+-he subjunctive mood leaves exact modality up to context.
+
 ---
 
 | **ASPECT**             | **PARTICLE** | 
 |------------------------|--------------|
-| habitual               | -            |
+| simple                 | -            |
 | continuous             | lu           |
 | perfect                | le           |
 | perfect continuous     | lue          |
@@ -144,9 +147,18 @@ Verbs should be conjugated according to the following pattern:
 | **MOOD**    | **SUFFIX** |
 |-------------|------------|
 | indicative  |      -     |
-| imperative  | -ta       |
-| conditional | -she      |
-| subjunctive | -de       |
+| imperative  | -ta        |
+| subjunctive | -de        |
+
+### Verb-aspect chart
+
+The following is an example for the verb *mōru* ("to think").
+
+|             | **simple**            | **perfect**                     | **continuous**                 | **perfect continuous**                 |
+|-------------|-----------------------|---------------------------------|--------------------------------|----------------------------------------|
+| **past**    | *mōn* - I thought     | *le mōn* - I had thought        | *lu mōn* - I was thinking      | *lue mōn* I had been thinking          |
+| **present** | *mō* - I think        | *le mō* - I have thought        | *lu mō* - I am thinking        | *lue mō* - I have been thinking        |
+| **future**  | *mōwa* - I will think | *le mōwa* - I will have thought | *lu mōwa* - I will be thinking | *lue mōwa* - I will have been thinking |
 
 ### Causativity
 
