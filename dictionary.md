@@ -36,6 +36,8 @@ _sg._ — singular
 
 **aro** *n.* the colour brown, brunette
 
+**achi** *interj.* an expression used in response to pain 
+
 # B
 
 **babo** *aj.* calm, orderly, peaceful, tranquil
@@ -56,11 +58,11 @@ _sg._ — singular
 
 **doha** *1. n.* sea, ocean; a watery expanse *2.* the seven seas
 
-**dolu** *infin.* to come, arrive
-
 **dona** *n. 1.* lake, pond, basin; a large (but not ocean-like) body of liquid
 
 **dore** *1. n.* music, plainsong *2.* any harmonised or pleasant sounds *3.* a piece of music not intended to be sung
+
+**doredore** *interj.* a casual and colloquial greeting
 
 **doru** *1. infin.* to dance, *2.* to flutter, flicker, quiver
 
@@ -71,6 +73,8 @@ _sg._ — singular
 **eam** *n. 1.* booklet, leaflet, pamphlet *2.* letter, message, postcard
 
 **emo** *n.* the period of a week; seven days
+
+**ena** *interj.* used as a filler word such as "um" or "uh"
 
 **ētaku** _inf._ to contribute to; aid, supply
 
@@ -176,6 +180,8 @@ _sg._ — singular
 
 **kora** _av._ often, frequently
 
+**kōra** *interj.* an expression of frustration; damn (it)
+
 **koru** *1. infin.* to trap, imprison, confine *2.* to ambush, surprise (after lying in wait)
 
 **kron** _1. n._ time(span), moment _2._ _fig._ the unstoppable marching of time
@@ -207,6 +213,8 @@ _sg._ — singular
 # M
 
 **madora**  _n._ a dream (one experiences while asleep)
+
+**madorashiba** *interj.* a phrase said before sleep, wishing for peaceful dreams
 
 **maes** *n. 1.* scroll, parchment *2.* (a strict) algorithm, recipe, method
 
@@ -333,7 +341,7 @@ _sg._ — singular
 
 **ra** _av._ where. **rajara** here and there
 
-**richu** _inform._ bye, goodbye
+**richu** _inter._ an casual expression of farewell
 
 **ri** *1. n.* flower (bush), any vivid or colourful plant *2. n.* an expression of childlike endearment 
 
@@ -387,7 +395,9 @@ _sg._ — singular
 
 **sonā** *n.* comfort, warmth, ease
 
-**sō** _conj._ what. **sō a sō** _inform._ whatever, I don't care, I couldn't care less
+**sō** _conj._ what. 
+
+**sō a sō** _inform._ whatever, I don't care, I couldn't care less
 
 **sum** *n* part, component, element (of something larger)
 
@@ -397,13 +407,15 @@ _sg._ — singular
 
 **sumane** _aj._ separated, detached, divorced, partitioned, divided, split, cut apart
 
+**sūta** *interj.* an expression indicating a pause; wait, wait a moment, exuse me
+
 **sūtu** *infin.* to rest, stop, halt, pause
 
 # T
 
 **tom** _1._ fire, flame, blaze, inferno _2._ barrage, bombardment, volley
 
-**tombī** *n.* mythical beast; a dragon 
+**tombī** *n.* a mythical beast; a dragon 
 
 **tomi** *n.* candle, torch, taper
 
@@ -475,6 +487,8 @@ _sg._ — singular
 **chapo** *1. n.* a nocturnal animal *2. inform.* one who is not often seen; mysterious, evading
 
 **chi** _pron._ you
+
+**cholu** *infin.* to get to a destination; to come, arrive at
 
 **chō** *1. n.* night; the time between dusk and dawn *2.* moonlight, moonbeam; the light given off by the (a) moon
 
