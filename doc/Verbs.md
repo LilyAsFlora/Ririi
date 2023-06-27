@@ -27,3 +27,64 @@ The roots of monosyllabic verbs are irregular, so here's a list of them. Fortuna
 | wu       | wei      | to see, view, discern       |
 | ju       | jana     | to dim, dark, obscure       |
 | shu      | shai     | to develop, work on, refine |
+
+### What about identical roots?
+
+Certain verbs, like *cholu* (to arrive) and *chosu* (to understand) have the same root: *cho*. Consequently, figuring out which is which in their conjugated forms is left entirely up to context. 
+
+## Conjugating for Tense
+
+Rirī distinguishes the distant past, past, present, future, and distant future as tenses.
+
+### The present
+The present is simply indicated using the dictionary form (including the aforementioned [u] syllable).
+
+### The past
+
+Take the root of the verb and append the suffix *na* (from *kana*, "instrument").
+
+- *Mōna*. Thought.
+- *Nana*. Hid.
+- *Sona*. Soothed.
+
+### The future
+
+Take the root of  the verb and append the suffix *de* ("towards").
+
+- *Mōde*. Will think.
+- *Nade*. Will hide.
+- *Sode.* Will soothe.
+
+### Distance
+
+The distant past and future can be created by reduplicating the above suffixes.
+
+- *Monana*. Thought (a long time ago). *Modede*. Will think (in a long while).
+- *Nanana*. Hid (a long time ago). *Nadede*. Will hide (in a long while).
+- *Sonana*. Soothed (a long time ago). *Sodede*. Will soothe (in a long while).
+
+## Conjugating for person
+
+On top of tense, verbs in Rirī distinguish between first, second, and third person using infixes.
+
+### First person
+This is the default implication. No conjugation here.
+
+### Second person
+
+Add the infix *shi* after the root of the verb (from *chi*, "you").
+
+- *Moshiru.* You think.
+- *Nashiru*. You hide.
+- *Soshiru*. You soothe.
+
+### Third person
+
+Add the infix *me* after the root of the verb (from *emi*, "they").
+
+- *Momeru*. They think.
+- *Nameru*. They hide.
+- *Someru*. They soothe.
+
+## Aspect
+
