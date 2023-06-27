@@ -32,12 +32,35 @@ The roots of monosyllabic verbs are irregular, so here's a list of them. Fortuna
 
 Certain verbs, like *cholu* (to arrive) and *chosu* (to understand) have the same root: *cho*. Consequently, figuring out which is which in their conjugated forms is left entirely up to context. 
 
-## Conjugating for Tense
+## Conjugating for person
+
+Verbs in Rirī distinguish between first, second, and third person using infixes.
+
+### First person
+This is the default implication. No conjugation here.
+
+### Second person
+
+Add the infix *shi* after the root of the verb (from *chi*, "you").
+
+- *Mōshiru.* You think.
+- *Nashiru*. You hide.
+- *Soshiru*. You soothe.
+
+### Third person
+
+Add the infix *me* after the root of the verb (from *emi*, "they").
+
+- *Mōmeru*. They think.
+- *Nameru*. They hide.
+- *Someru*. They soothe.
+
+## Conjugating for Tense and Aspect
 
 Rirī distinguishes the distant past, past, present, future, and distant future as tenses.
 
 ### The present
-The present is simply indicated using the dictionary form (including the aforementioned [u] syllable).
+This is the default implication. No conjugation here.
 
 ### The past
 
@@ -59,32 +82,21 @@ Take the root of  the verb and append the suffix *de* ("towards").
 
 The distant past and future can be created by reduplicating the above suffixes.
 
-- *Monana*. Thought (a long time ago). *Modede*. Will think (in a long while).
+- *Mōnana*. Thought (a long time ago). *Modede*. Will think (in a long while).
 - *Nanana*. Hid (a long time ago). *Nadede*. Will hide (in a long while).
 - *Sonana*. Soothed (a long time ago). *Sodede*. Will soothe (in a long while).
 
-## Conjugating for person
+### Aspect
 
-On top of tense, verbs in Rirī distinguish between first, second, and third person using infixes.
+As is the case in many Slavic languages, Rirī distinguishes between the perfective and imperfective aspect. Here's the roles they play in Rirī:
 
-### First person
-This is the default implication. No conjugation here.
+- The **perfective** aspect indicates a simple event that has been accomplished.
+- The **imperfective** aspect indicates a repeated, ongoing, or otherwise incomplete action.
 
-### Second person
+The perfective aspect is unmarked, but to indicate the imperfective aspect, append *e* as a suffix.
 
-Add the infix *shi* after the root of the verb (from *chi*, "you").
+- *Mōnae*. I was thinking. *Mōe*. I am thinking. *Mōdē*. I will be thinking.
+- *Nanae*. I was hiding. *Nae.* I am hiding. *Nadē*. I will be hiding.
+- *Sonae*. I was soothing. *Soe*. I am soothing. *Sodē*. I will be soothing.
 
-- *Moshiru.* You think.
-- *Nashiru*. You hide.
-- *Soshiru*. You soothe.
-
-### Third person
-
-Add the infix *me* after the root of the verb (from *emi*, "they").
-
-- *Momeru*. They think.
-- *Nameru*. They hide.
-- *Someru*. They soothe.
-
-## Aspect
-
+## Mood
