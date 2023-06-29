@@ -1,6 +1,6 @@
 # Rirī Names
 
-A collection of (hypothetical) given names constructed from my favourite Rirī vocabulary. Although the European speaker would perceive the majority as feminine, none of the following are tied to gender.
+The essence of Riri! Here's a collection of names constructed from my favourite vocabulary. Although the European speaker would perceive the majority as feminine, none are tied to a particular gender identity.
 
 **Estia** `[ɛs.ti.a]` — intelligent, well-crafted, prideful (lit. "work of writing")
 
