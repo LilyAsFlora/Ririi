@@ -1,7 +1,7 @@
 
 # Verbs
 
-Verbs are one of the more complex aspects of Rirī's grammar, as they inflect for tense, aspect, mood, and person.
+Verbs are one of the more nuanced aspects of Rirī's grammar, as they inflect for tense, aspect, mood, and person.
 
 ## Understanding verbs
 
@@ -100,3 +100,35 @@ The perfective aspect is unmarked, but to indicate the imperfective aspect, appe
 - *Sonae*. I was soothing. *Soe*. I am soothing. *Sodē*. I will be soothing.
 
 ## Mood
+
+## Mood
+
+Unlike tense and aspect, Rirī indicates mood using auxiliary verbs. These moods can suggest the speaker's attitude towards an action. 
+
+| **Auxiliary (English)** | **Auxiliary (Rirī)** | **Meaning: This action is...**            |
+|-------------------------|----------------------|-------------------------------------------|
+| to see                  | vidu                 | dependent on another event                |
+| to think                | mōru                 | a suggestion; a good idea; morally right  |
+| to say                  | riu                  | a request or demand; must be accomplished |
+| to know                 | nu                   | a question; is this the case?             |
+| to wait                 | kronu                | something that might happen               |
+
+### Examples, with the verb *sūtu* (to stop)
+
+- ***Vidu** sūtu.* I would stop. (lit. "I see I stop")
+- ***Mōru** sūtu.* I should stop. (lit. "I think I stop")
+- ***Riu** sūtu.* I must stop. (lit. "I say I stop")
+- ***Nu** sūtu.* I stop? (lit. "I know I stop")
+- ***Kronu** sūtu.* I might stop. (lit. "I wait I stop")
+
+### Negation
+
+There is a nuance between negation of moods and the actions themselves. For example, you can differentiate "I can't go" in two ways:
+
+- As "I can (not go)", meaning you are capable of not going.
+- As "I cannot (go)", meaning you are not capable of going.
+
+#### To negate moods, add *ja* ("no") before the auxiliary verb.
+#### To negative verbs, add *ja* before the verb itself.
+
+This simple realisation allows for crystal clear expression that English would struggle to convey.
