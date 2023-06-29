@@ -101,8 +101,6 @@ The perfective aspect is unmarked, but to indicate the imperfective aspect, appe
 
 ## Mood
 
-## Mood
-
 Unlike tense and aspect, Rirī indicates mood using auxiliary verbs. These moods can suggest the speaker's attitude towards an action. 
 
 | **Auxiliary (English)** | **Auxiliary (Rirī)** | **Meaning: This action is...**            |
