@@ -1,4 +1,5 @@
 
+
 # Verbs
 
 Verbs are one of the more nuanced aspects of Rirī's grammar, as they inflect for tense, aspect, mood, and person.
@@ -34,57 +35,33 @@ Certain verbs, like *cholu* (to arrive) and *chosu* (to understand) have the sam
 
 ## Conjugating for person
 
-Verbs in Rirī distinguish between first, second, and third person using infixes.
+Verbs in Rirī distinguish between first, second, and third person using infixes. In other words, instead of saying "he said" or "she said", these pronouns are baked in to the verbs themselves.
 
-### First person
-This is the default implication. No conjugation here.
+**First person** — This is the default implication, so a conjugation isn't needed.
 
-### Second person
+**Second person** — Insert *chi* after the verb root.
 
-Add the infix *shi* after the root of the verb (from *chi*, "you").
+**Third person** — Insert *me* after the verb root.
 
-- *Mōshiru.* You think.
-- *Nashiru*. You hide.
-- *Soshiru*. You soothe.
+- *Mōchiru.* You think.
+- *Namemu*. They hide.
+- *Somenu*. They soothe.
 
-### Third person
+## Tense and aspect
 
-Add the infix *me* after the root of the verb (from *emi*, "they").
+Rirī distinguishes the distant past, past, present, future, and distant future as tenses. While the past means an action took place before *now*, the **distant** past indicates it took place *way* before now (usually at least a year). Think of it as implicating "long, long ago". This applies the same way for the distant future.
 
-- *Mōmeru*. They think.
-- *Nameru*. They hide.
-- *Someru*. They soothe.
+**Past** — Replace the final /u/ with an /a/.
 
-## Conjugating for Tense and Aspect
+**Present** — This is the default implication, so a conjugation isn't needed.
 
-Rirī distinguishes the distant past, past, present, future, and distant future as tenses.
+**Future** — Replace the final /u/ with an /i/.
 
-### The present
-This is the default implication. No conjugation here.
+**Distant past/future** — Lengthen the final vowel.
 
-### The past
-
-Take the root of the verb and append the suffix *na* (from *kana*, "instrument").
-
-- *Mōna*. Thought.
-- *Nana*. Hid.
-- *Sona*. Soothed.
-
-### The future
-
-Take the root of  the verb and append the suffix *de* ("towards").
-
-- *Mōde*. Will think.
-- *Nade*. Will hide.
-- *Sode.* Will soothe.
-
-### Distance
-
-The distant past and future can be created by reduplicating the above suffixes.
-
-- *Mōnana*. Thought (a long time ago). *Modede*. Will think (in a long while).
-- *Nanana*. Hid (a long time ago). *Nadede*. Will hide (in a long while).
-- *Sonana*. Soothed (a long time ago). *Sodede*. Will soothe (in a long while).
+- *Mōra*. I thought.
+- *Nami*. Will hide.
+- *Sonā*. I soothed (a long time ago).
 
 ### Aspect
 
@@ -95,19 +72,18 @@ As is the case in many Slavic languages, Rirī distinguishes between the perfect
 
 The perfective aspect is unmarked, but to indicate the imperfective aspect, append *e* as a suffix.
 
-- *Mōnae*. I was thinking. *Mōe*. I am thinking. *Mōdē*. I will be thinking.
-- *Nanae*. I was hiding. *Nae.* I am hiding. *Nadē*. I will be hiding.
-- *Sonae*. I was soothing. *Soe*. I am soothing. *Sodē*. I will be soothing.
+- *Mōrae*. I was thinking. *Mōrue*. I am thinking. *Mōrie*. I will be thinking.
+- *Namae*. I was hiding. *Namue.* I am hiding. *Namie*. I will be hiding.
+- *Sonae*. I was soothing. *Sonue*. I am soothing. *Sonie*. I will be soothing.
 
-## Mood
-
-Unlike tense and aspect, Rirī indicates mood using auxiliary verbs. These moods can suggest the speaker's attitude towards an action. 
+## Expressing attitude towards an action
+ Rirī indicates mood using auxiliary verbs. These moods can suggest the speaker's attitude towards an action. 
 
 | **Auxiliary (English)** | **Auxiliary (Rirī)** | **Meaning: This action is...**            |
 |-------------------------|----------------------|-------------------------------------------|
 | to see                  | vidu                 | dependent on another event                |
 | to think                | mōru                 | a suggestion; a good idea; morally right  |
-| to say                  | riu                  | a request or demand; must be accomplished |
+| to say                  | riu                  | a requirement; must be accomplished |
 | to know                 | nu                   | a question; is this the case?             |
 | to wait                 | kronu                | something that might happen               |
 
@@ -126,7 +102,29 @@ There is a nuance between negation of moods and the actions themselves. For exam
 - As "I can (not go)", meaning you are capable of not going.
 - As "I cannot (go)", meaning you are not capable of going.
 
-#### To negate moods, add *ja* ("no") before the auxiliary verb.
-#### To negative verbs, add *ja* before the verb itself.
+**To negate moods** — Add *ja* ("no") before the auxiliary verb.
 
-This simple realisation allows for crystal clear expression that English would struggle to convey.
+**To negate verbs** — Add *ja* before the verb itself.
+
+### Perspective
+
+There is also a nuance in how these auxiliary verbs are conjugated. Let's look at this example:
+
+*Sūmeti.* She will stop.
+
+If instead you wish to ask, "Will she stop?" You must be careful. You can conjugate auxiliary verbs for person to indicate the *perspective* of the attitude that you're conveying. Look at the following examples:
+
+1. *Nu sūmeti?* Will she stop?
+2. *Nume sūmeti?* Will she stop?
+3. *Nuchi sūmeti?* Will she stop?
+
+While all of these share the same elementary meaning, there are slight differences between them.
+
+- In the first case, *nu* is not conjugated for person, thereby implicating first person. This carries the additional meaning that *you*, specifically, are questioning whether she will stop. 
+
+- Likewise, in the second case, *nu* is conjugated for the third person. This might mean that you're questioning whether she *herself* intends to stop, or if some other third party thinks she will stop. 
+
+- Finally, in the third case, *nu* is conjugated for the second person. This might mean that you're questioning whether the person you're addressing thinks she will stop.
+
+Essentially, you can conjugate these auxiliary verbs to shift the perspective of attitude.
+ 
