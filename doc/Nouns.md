@@ -52,4 +52,8 @@ The only difference between natural and unnatural nouns is that in the genitive 
 
 - The complement of *lu*, "to be", goes in the instrumental case.
 
+## A note on diminution
+
+*shi* and *chi* are diminutive suffixes that can be applied to names to indicate a sense of smallness, closeness, or familiarity. It cannot be used with anything other than a name.
+
 
