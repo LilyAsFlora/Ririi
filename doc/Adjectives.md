@@ -26,4 +26,4 @@ Forming comparisons is trivial in this case.
 These reduplications must be performed *after* any inflection. **Note that long vowels are dropped.**
 
 - *Eli*. Clean. *Eleli*. Cleaner. *Elili.* Cleanest.
-- *Īshkō*. Dangerous. *Īshishkō*. More dangerous. *Īshkōko*. Most dangerous.
+- *Īshkō*. Dangerous. *Ishīshkō*. More dangerous. *Ishkōko*. Most dangerous.
