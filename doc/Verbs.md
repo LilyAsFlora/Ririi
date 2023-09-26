@@ -1,5 +1,6 @@
 
 
+
 # Verbs
 
 Verbs are one of the more nuanced aspects of Rirī's grammar, as they inflect for tense, aspect, mood, and person.
@@ -52,7 +53,9 @@ Verbs in Rirī distinguish between first, second, and third person using infixes
 Rirī distinguishes the distant past, past, present, future, and distant future as tenses. While the past means an action took place before *now*, the **distant** past indicates it took place *way* before now (usually at least a year). Think of it as implicating "long, long ago". This applies the same way for the distant future.
 
 **Past** — Replace the final /u/ with an /a/.
+
 **Present** — This is the default implication, so a conjugation isn't needed.
+
 **Future** — Replace the final /u/ with an /i/.
 
 **Distant past/future** — Lengthen the final vowel.
@@ -74,7 +77,7 @@ The perfective aspect is unmarked, but to indicate the imperfective aspect, appe
 - *Namae*. I was hiding. *Namue.* I am hiding. *Namie*. I will be hiding.
 - *Sonae*. I was soothing. *Sonue*. I am soothing. *Sonie*. I will be soothing.
 
-## Expressing attitude towards an action
+## Expressing attitudes towards an action
  Rirī indicates mood using auxiliary verbs. These moods can suggest the speaker's attitude towards an action. 
 
 | **Auxiliary (English)** | **Auxiliary (Rirī)** | **Meaning: This action is...**            |
@@ -100,7 +103,7 @@ There is a nuance between negation of moods and the actions themselves. For exam
 - As "I can (not go)", meaning you are capable of not going.
 - As "I cannot (go)", meaning you are not capable of going.
 
-**To negate moods** — Add *ja* ("no") before the auxiliary verb.
+**To negate moods** — Add *ja* ("no"/"not") before the auxiliary verb.
 **To negate verbs** — Add *ja* before the verb itself.
 
 ### Perspective
