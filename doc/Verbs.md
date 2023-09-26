@@ -3,7 +3,7 @@
 
 # Verbs
 
-Verbs are one of the more nuanced aspects of Rirī's grammar, as they inflect for tense, aspect, mood, and person.
+Verbs are one of the more nuanced aspects of Rirī's grammar.
 
 ## Understanding verbs
 
@@ -50,15 +50,18 @@ Verbs in Rirī distinguish between first, second, and third person using infixes
 
 ## Tense and aspect
 
-Rirī distinguishes the distant past, past, present, future, and distant future as tenses. While the past means an action took place before *now*, the **distant** past indicates it took place *way* before now (usually at least a year). Think of it as implicating "long, long ago". This applies the same way for the distant future.
+Perhaps surprisingly, Rirī has three main tenses, as commonly thought of in English: past, present, and future.
+The addition of **distant** past and **distant** future implicates "long, long ago [...]" or "very far in the future from now, [...]". 
 
-**Past** — Replace the final /u/ with an /a/.
+- The future and distant future tenses are not typically used. Instead, the plain present tense usually takes the place of the future. It follows that explicitly using the future tense creates a somewhat pedantic and scholarly tone.
 
-**Present** — This is the default implication, so a conjugation isn't needed.
+To create the **past** tense, replace the final /u/ with /a/.
 
-**Future** — Replace the final /u/ with an /i/.
+To create the **future** tense, replace the final /u/ with /i/.
 
-**Distant past/future** — Lengthen the final vowel.
+Present tense is the default meaning, so a conjugation isn't needed.
+
+Now, to create the **distant past/future**, lengthen the final vowel in the verb.
 
 - *Mōra*. I thought.
 - *Nami*. Will hide.
@@ -66,12 +69,14 @@ Rirī distinguishes the distant past, past, present, future, and distant future 
 
 ### Aspect
 
-As is the case in many Slavic languages, Rirī distinguishes between the perfective and imperfective aspect. Here's the roles they play in Rirī:
+As is the case in many Slavic languages, Rirī distinguishes the perfective and imperfective aspect. Here's the roles they play in Rirī:
 
 - The **perfective** aspect indicates a simple event that has been accomplished.
 - The **imperfective** aspect indicates a repeated, ongoing, or otherwise incomplete action.
 
-The perfective aspect is unmarked, but to indicate the imperfective aspect, append *e* as a suffix.
+The perfective aspect is unmarked.
+
+To indicate the imperfective aspect, append the suffix *e*.
 
 - *Mōrae*. I was thinking. *Mōrue*. I am thinking. *Mōrie*. I will be thinking.
 - *Namae*. I was hiding. *Namue.* I am hiding. *Namie*. I will be hiding.
